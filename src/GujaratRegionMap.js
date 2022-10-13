@@ -4,7 +4,7 @@ import {feature} from 'topojson-client';
 import useResizeObserver from './useResizeObserver';
 import geoData from './Gujarat.json';
 import electionData2017 from './Gujarat-2017.json';
-// import electionData2012 from './Himachal Pradesh-2012.json';
+import electionData2012 from './Gujarat-2012.json';
 
 
 
@@ -51,16 +51,16 @@ const GujaratRegionMap = () => {
         return parties
     }
 
-    // function getWinnerPartyColor2012(d){
-    //     var candidates;
-    //     for(var i = 0; i<electionData2012.length; i++){
-    //         if(electionData2012[i]['ac_no'] == d.properties.ac_no){
-    //             candidates = electionData2012[i]['candidates']
-    //             candidates.sort((a,b) => {return b['Total Votes'] - a['Total Votes']})
-    //             return color(candidates[0]['Party'])
-    //         }
-    //     }
-    // }
+    function getWinnerPartyColor2012(d){
+        var candidates;
+        for(var i = 0; i<electionData2012.length; i++){
+            if(electionData2012[i]['ac_no'] == d.properties.ac_no){
+                candidates = electionData2012[i]['candidates']
+                candidates.sort((a,b) => {return b['Total Votes'] - a['Total Votes']})
+                return color(candidates[0]['Party'])
+            }
+        }
+    }
 
     function getWinnerPartyColor2017(d){
         var candidates;
@@ -157,16 +157,16 @@ const GujaratRegionMap = () => {
                 regionalConstituencies.push(Number(assembly.properties.ac_no))
             }
         })
-        // electionData2012.map(assembly => {
-        //     if(regionalConstituencies.includes(Number(assembly.ac_no))){
-        //         var candidates = sortCandidates(assembly.candidates);
-        //         addWinner2012(candidates[0])
-        //         for(var j=1; j< candidates.length;j++){
-        //             addCandidate2012(candidates[j])
-        //         }
-        //     }
+        electionData2012.map(assembly => {
+            if(regionalConstituencies.includes(Number(assembly.ac_no))){
+                var candidates = sortCandidates(assembly.candidates);
+                addWinner2012(candidates[0])
+                for(var j=1; j< candidates.length;j++){
+                    addCandidate2012(candidates[j])
+                }
+            }
             
-        // })
+        })
         electionData2017.map(assembly => {
             if(regionalConstituencies.includes(Number(assembly.ac_no))){
                 var candidates = sortCandidates(assembly.candidates);
@@ -178,13 +178,13 @@ const GujaratRegionMap = () => {
             
         })
     }else{
-        // electionData2012.map(assembly => {
-        //     var candidates = sortCandidates(assembly.candidates);
-        //     addWinner2012(candidates[0])
-        //     for(var j=1; j< candidates.length;j++){
-        //         addCandidate2012(candidates[j])
-        //     }
-        // })
+        electionData2012.map(assembly => {
+            var candidates = sortCandidates(assembly.candidates);
+            addWinner2012(candidates[0])
+            for(var j=1; j< candidates.length;j++){
+                addCandidate2012(candidates[j])
+            }
+        })
         electionData2017.map(assembly => {
             var candidates = sortCandidates(assembly.candidates);
             addWinner2017(candidates[0])
@@ -194,28 +194,28 @@ const GujaratRegionMap = () => {
         })
     }
 
-    // for(var k=0; k<partiesData2012.length;k++){
-    //     partiesData2012[k].VotePercent = (partiesData2012[k].Votes/ (totalVotes2012 ? totalVotes2012 : 1) * 100).toFixed(2)
-    // }
+    for(var k=0; k<partiesData2012.length;k++){
+        partiesData2012[k].VotePercent = (partiesData2012[k].Votes/ (totalVotes2012 ? totalVotes2012 : 1) * 100).toFixed(2)
+    }
     
     for(var k=0; k<partiesData2017.length;k++){
         partiesData2017[k].VotePercent = (partiesData2017[k].Votes/ (totalVotes2017 ? totalVotes2017 : 1) * 100).toFixed(2)
     }
 
-    // partiesData2012 = sortParties(partiesData2012)
+    partiesData2012 = sortParties(partiesData2012)
     partiesData2017 = sortParties(partiesData2017)
-
-    // partiesData2012.forEach(party => {
-    //     if(party.Party === "Bharatiya Janata Party"){
-    //         BJP['2012'] = party
-    //     }else if(party.Party === "Indian National Congress"){
-    //         INC['2012'] = party
-    //     }else{
-    //         Others['2012'].Seats += party.Seats;
-    //         Others['2012'].Votes += party.Votes;
-    //         Others['2012'].VotePercent = (Number(Others['2012'].VotePercent) + Number(party.VotePercent)).toFixed(2);
-    //     }
-    // })
+    console.log(partiesData2012)
+    partiesData2012.forEach(party => {
+        if(party.Party === "Bharatiya Janata Party"){
+            BJP['2012'] = party
+        }else if(party.Party === "Indian National Congress"){
+            INC['2012'] = party
+        }else{
+            Others['2012'].Seats += party.Seats;
+            Others['2012'].Votes += party.Votes;
+            Others['2012'].VotePercent = (Number(Others['2012'].VotePercent) + Number(party.VotePercent)).toFixed(2);
+        }
+    })
     
     partiesData2017.forEach(party => {
         if(party.Party === "Bharatiya Janata Party"){
@@ -251,9 +251,9 @@ const GujaratRegionMap = () => {
         )
         .attr('class','assembly')
         .transition()
-        .attr('stroke', "black")
+        .attr('stroke', "white")
         .attr('stroke-width' , '0.5px')
-        .attr('fill', "white")
+        .attr('fill', getWinnerPartyColor2012)
         .attr('d', assembly => pathGenerator(assembly));
 
         svg2017.selectAll('.assembly')
@@ -279,13 +279,13 @@ const GujaratRegionMap = () => {
                 <div className='region-data'>
                     <div className='party BJP'>
                         <div className='party-title'>BJP</div>
-                        <div className='seats-won'>0</div>
-                        <div className='vote-percent'>0</div>
+                        <div className='seats-won'>{BJP['2012'].Seats}</div>
+                        <div className='vote-percent'>{BJP['2012'].VotePercent}</div>
                     </div>
                     <div className='party INC'>
                         <div className='party-title'>INC</div>
-                        <div className='seats-won'>0</div>
-                        <div className='vote-percent'>0</div>
+                        <div className='seats-won'>{INC['2012'].Seats}</div>
+                        <div className='vote-percent'>{INC['2012'].VotePercent}</div>
                     </div>
                     <div className='party Others'>
                         <div className='party-title'>Others</div>
