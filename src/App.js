@@ -5,6 +5,7 @@ import HimachalRegionMap from './HimachalRegionMap';
 import PageHeader from './PageHeader';
 import GujaratRegionMap from './GujaratRegionMap';
 import AndhraPradeshRegionMap from './AndhraPradeshRegionMap';
+import IndiaMap from './India';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/HimachalRegion" exact element={<HimachalRegionMap />}/> 
         <Route path="/GujaratRegion" exact element={<GujaratRegionMap />}/> 
         <Route path="/AndhraRegion" exact element={<AndhraPradeshRegionMap />}/> 
+        <Route path="/" exact element={<IndiaMap />}/> 
       </Routes>
     </BrowserRouter>
     

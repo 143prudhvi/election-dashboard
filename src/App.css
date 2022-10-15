@@ -26,8 +26,8 @@ body{
 
 svg{
     margin: 8px 0 0;
-    border-radius: 25px;
-    box-shadow: 5px 5px 5px 5px rgb(168, 168, 168);
+    /* border-radius: 25px; */
+    /* box-shadow: 5px 5px 5px 5px rgb(168, 168, 168); */
 }
 
 .region-data{
@@ -106,3 +106,60 @@ svg{
     display: inline-block;
     margin: 0 0 0 16px;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 0.9em;
+    overflow: hidden;
+  }
+  
+  svg {
+    max-width: 960px;
+    max-height: 90vh;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  
+  rect.background {
+    fill: none;
+    pointer-events: all;
+  }
+  
+  path.feature {
+    stroke-width: 0.75px;
+    stroke: #fff;
+    /* fill: #a6bddb; */
+    cursor: pointer;
+    transition: transform 1s;
+    position: relative;
+  }
+
+  
+  
+  .tooltip{
+    position: absolute;
+    pointer-events: none;
+    background-color: white;
+    border-radius: 3px;
+    padding: 6px 8px;
+    box-shadow: 2px 2px 6px rgb(0 0 0 / 50%)
+  }
+
+  .title{
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px 8px 6px;
+  }
+
+  .subtitle{
+    font-size: 12px;
+    margin-bottom: 4px;
+  }
+
+  td{
+    padding: 0 6px;
+  }
+  
