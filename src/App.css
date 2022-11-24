@@ -139,7 +139,7 @@ body {
 
   
   
-  .tooltip{
+  .tooltip,.tooltip_pc{
     position: absolute;
     pointer-events: none;
     background-color: white;
@@ -157,6 +157,12 @@ body {
   .subtitle{
     font-size: 12px;
     margin-bottom: 4px;
+  }
+
+  .candidate-name{
+    max-width: 120px;
+    overflow: hidden;
+    font-size: 12px;
   }
 
   td{

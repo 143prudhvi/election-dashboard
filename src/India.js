@@ -62,7 +62,7 @@ const IndiaMap = () => {
         else if(party == "Biju Janata Dal"){
             return '#006400'
         }
-        else if(party == "Communist Party of India  (Marxist)"){
+        else if(party == "Communist Party of India  (Marxist)" || party == "Communist Party of India (Marxist-Leninist) Red Star"){
             return '#FF1D15'
         }
         else if(party == "Communist Party of India"){
@@ -235,14 +235,15 @@ const IndiaMap = () => {
     function addParty(party){
         for(var j=0; j<=partiesSeats.length; j++){
             if(partiesSeats[j] && partiesSeats[j].Party === party.Party){
-                partiesSeats[j].Votes += Number(party['Total Votes'])
+                partiesSeats[j].Seats += party['Seats']
+                partiesSeats[j].Votes += party['Votes']
                 return 
             }
         }
         partiesSeats.push({
             Party : party.Party,
-            Seats : 0,
-            Votes : Number(party['Total Votes'])
+            Seats : party.Seats,
+            Votes : party['Votes']
         })
     }
 
@@ -331,10 +332,32 @@ const IndiaMap = () => {
         for(var i = 0; i< hoveredStateParties.length; i++){
             if(hoveredStateParties[i].Seats === 0 && Number(hoveredStateParties[i].VotePercent) < 2){
                 code += "</tbody></table>"
-                console.log(code)
                 return code
             }
             code += "<tr><td style='background-color:" + color(hoveredStateParties[i].Party) + "'>" + partyNames[hoveredStateParties[i].Party] + "</td><td>" + hoveredStateParties[i].Seats + "</td><td>" + hoveredStateParties[i].Votes.toLocaleString("en-IN") + "</td><td>" + hoveredStateParties[i].VotePercent + "</td>";
+        }
+        code += "</tbody></table>"
+        return code
+    }
+
+    function getPCData(d){
+        var clickedStateData = electionData2019[d.properties['ST_NAME']];
+        var hoveredPCData;
+        for(var i = 0 ; i<clickedStateData.length; i++){
+            if(d.properties['PC_CODE'] === clickedStateData[i].pc_no){
+                hoveredPCData = clickedStateData[i]
+            }
+        }
+        var hoveredPCCandidates = hoveredPCData.candidates
+        var code = "";
+        code += "<div class='title'>" + capitalize(hoveredPCData.pc_name) + "</div>";
+        code += "<table><tbody>"
+        for(var i = 0; i< hoveredPCCandidates.length; i++){
+            if(hoveredPCCandidates[i]['Vote %'] < 2){
+                code += "</tbody></table>"
+                return code
+            }
+            code += "<tr><td style='background-color:" + color(hoveredPCCandidates[i].Party) + "'>" + partyNames[hoveredPCCandidates[i].Party] + "</td><td class='candidate-name'>" + hoveredPCCandidates[i]['Candidate'].split(' ').join('_') + "</td><td>" + hoveredPCCandidates[i]['Total Votes'].toLocaleString("en-IN") + "</td><td>" + hoveredPCCandidates[i]['Vote %'].toFixed(2) + "</td>";
         }
         code += "</tbody></table>"
         return code
@@ -375,7 +398,8 @@ const IndiaMap = () => {
         broughtUpFeatureFill = "#fff";
       
         var rect = svg.select("rect.background").on("click", reset);
-        var div = select(".tooltip")
+        var div = select(".tooltip").style("opacity", 0)
+        var div_pc = select(".tooltip_pc").style("opacity", 0);
         g
         .selectAll("path")
         .data(states.features)
@@ -411,20 +435,41 @@ const IndiaMap = () => {
             svgWidth,
             svgHeight
             );
+
+            
         
-            g_pc
+            var pc_g = g_pc
             .selectAll("path")
             .data(statesPCs)
             .enter()
             .append("path")
             .attr("d", geoPathGenerator)
             .attr("class", "pc")
-            .transition()
             .attr("fill" , getWinnerPartyColor2019)
-            .duration(transitionDuration)
-            .attr("transform", "translate(" + t.translate + ") scale(" + t.scale + ")")
             .style("stroke-width", "0.2px")
             .style("stroke" , "white")
+            
+
+            pc_g
+            .transition()
+            .duration(transitionDuration)
+            .attr("transform", "translate(" + t.translate + ") scale(" + t.scale + ")")
+
+
+            pc_g
+            .on("mousemove", function(event,d) {		
+                div_pc.transition()		
+                    .duration(200)		
+                    .style("opacity", 1);		
+                div_pc.html(() => getPCData(d))	
+                    .style("left", (event.pageX - 160) + "px")		
+                    .style("top", (event.pageY + 24) + "px");	
+                })					
+            .on("mouseout", function(d) {		
+                div_pc.transition()		
+                    .duration(500)		
+                    .style("opacity", 0);	
+            });
 
         
             var otherFeatures = g.selectAll("path.feature");
@@ -487,6 +532,7 @@ const IndiaMap = () => {
     return (
         <>
             <div className='tooltip'></div>
+            <div className='tooltip_pc'></div>
             <svg viewBox="0 0 840 700">
                 <rect width="100%" height="100%" className="background"></rect>
                 <g></g>
