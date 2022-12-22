@@ -1,29 +1,32 @@
 import React,{ useEffect, useRef, useState } from 'react';
 import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
-import data from './Data/Himachal Pradesh.json';
-import electionData2017 from './Data/Himachal Pradesh-2022.json';
+import useResizeObserver from '../useResizeObserver';
+import data from '../Data/Gujarat.json';
+import electionData2017 from '../Data/Gujarat-2022.json';
+import electionData2012 from '../Data/Gujarat-2012.json';
 import { Link } from 'react-router-dom';
-import "./GujaratAssembly/GujaratAssembly.css";
-const HimachalAssemblyMap = () => {
+import "./GujaratAssembly.css";
+const GujaratAssemblyMap = () => {
   const changeAssembly = (change) => {
     if(selectedAssembly <= 1 && change == -1 ){
       return
     }
-    if(selectedAssembly >= 68 && change== 1 ){
+    if(selectedAssembly >= 182 && change== 1 ){
       return
     }
     setSelectedAssembly(selectedAssembly + change)
   }
   const svgRef = useRef();
   const wrapperRef = useRef();
+  const dimensions = useResizeObserver(wrapperRef);
   const [selectedAssembly, setSelectedAssembly] = useState(Number("01"));
   var width = window.innerWidth;
   if(width > 720){
     width = 720
   }
   const height = window.innerHeight;
-  var assemblies = feature(data,data.objects['Himachal Pradesh']);
+  var assemblies = feature(data,data.objects['Gujarat']);
   var AAP = {
     Party : "AAP",
     Seats : 0,
@@ -203,8 +206,8 @@ const HimachalAssemblyMap = () => {
   useEffect(() => {
     const svg = select(svgRef.current);
     // const {width,height} = dimensions || wrapperRef.current.getBoundingClientRect();
-    const center =  [78.1,31.5]
-    const projection = geoMercator().center(center).scale(7000).precision(100);
+    const center =  [72.9,22]
+    const projection = geoMercator().center(center).scale(4500).precision(100);
     const pathGenerator = geoPath().projection(projection);
     svg.selectAll('.assembly')
       .data(assemblies.features)
@@ -277,4 +280,4 @@ const HimachalAssemblyMap = () => {
   );
 }
 
-export default HimachalAssemblyMap;
+export default GujaratAssemblyMap;

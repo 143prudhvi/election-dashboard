@@ -1,0 +1,1866 @@
+[
+    {
+        "PARTY NAME": "Bharatiya Janata Party",
+        "ABBREVIATION": "BJP"
+    },
+    {
+        "PARTY NAME": "Bahujan Samaj Party",
+        "ABBREVIATION": "BSP"
+    },
+    {
+        "PARTY NAME": "Communist Party of India",
+        "ABBREVIATION": "CPI"
+    },
+    {
+        "PARTY NAME": "Communist Party of India  (Marxist)",
+        "ABBREVIATION": "CPM"
+    },
+    {
+        "PARTY NAME": "Indian National Congress",
+        "ABBREVIATION": "INC"
+    },
+    {
+        "PARTY NAME": "Nationalist Congress Party",
+        "ABBREVIATION": "NCP"
+    },
+    {
+        "PARTY NAME": "Aam Aadmi Party",
+        "ABBREVIATION": "AAAP"
+    },
+    {
+        "PARTY NAME": "All India Anna Dravida Munnetra Kazhagam",
+        "ABBREVIATION": "ADMK"
+    },
+    {
+        "PARTY NAME": "Asom Gana Parishad",
+        "ABBREVIATION": "AGP"
+    },
+    {
+        "PARTY NAME": "All India Forward Bloc",
+        "ABBREVIATION": "AIFB"
+    },
+    {
+        "PARTY NAME": "All India N.R. Congress",
+        "ABBREVIATION": "AINRC"
+    },
+    {
+        "PARTY NAME": "All India Trinamool Congress",
+        "ABBREVIATION": "AITC"
+    },
+    {
+        "PARTY NAME": "All India United Democratic Front",
+        "ABBREVIATION": "AIUDF"
+    },
+    {
+        "PARTY NAME": "AJSU Party",
+        "ABBREVIATION": "AJSUP"
+    },
+    {
+        "PARTY NAME": "Biju Janata Dal",
+        "ABBREVIATION": "BJD"
+    },
+    {
+        "PARTY NAME": "Bodoland Peoples Front",
+        "ABBREVIATION": "BOPF"
+    },
+    {
+        "PARTY NAME": "Desiya Murpokku Dravida Kazhagam",
+        "ABBREVIATION": "DMDK"
+    },
+    {
+        "PARTY NAME": "Dravida Munnetra Kazhagam",
+        "ABBREVIATION": "DMK"
+    },
+    {
+        "PARTY NAME": "Haryana Janhit Congress (BL)",
+        "ABBREVIATION": "HJCBL"
+    },
+    {
+        "PARTY NAME": "Indian National Lok Dal",
+        "ABBREVIATION": "INLD"
+    },
+    {
+        "PARTY NAME": "Indian Union Muslim League",
+        "ABBREVIATION": "IUML"
+    },
+    {
+        "PARTY NAME": "Janata Dal  (Secular)",
+        "ABBREVIATION": "JD(S)"
+    },
+    {
+        "PARTY NAME": "Janata Dal  (United)",
+        "ABBREVIATION": "JD(U)"
+    },
+    {
+        "PARTY NAME": "Jammu & Kashmir National Conference",
+        "ABBREVIATION": "JKN"
+    },
+    {
+        "PARTY NAME": "Jammu & Kashmir National Panthers Party",
+        "ABBREVIATION": "JKNPP"
+    },
+    {
+        "PARTY NAME": "Jammu & Kashmir Peoples Democratic Party",
+        "ABBREVIATION": "JKPDP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Mukti Morcha",
+        "ABBREVIATION": "JMM"
+    },
+    {
+        "PARTY NAME": "Jharkhand Vikas Morcha (Prajatantrik)",
+        "ABBREVIATION": "JVM"
+    },
+    {
+        "PARTY NAME": "Kerala Congress  (M)",
+        "ABBREVIATION": "KEC(M)"
+    },
+    {
+        "PARTY NAME": "Lok Jan Shakti Party",
+        "ABBREVIATION": "LJP"
+    },
+    {
+        "PARTY NAME": "Maharashtra Navnirman sena",
+        "ABBREVIATION": "MNS"
+    },
+    {
+        "PARTY NAME": "National Peoples Party",
+        "ABBREVIATION": "NPEP"
+    },
+    {
+        "PARTY NAME": "Naga Peoples Front",
+        "ABBREVIATION": "NPF"
+    },
+    {
+        "PARTY NAME": "Pattali Makkal Katchi",
+        "ABBREVIATION": "PMK"
+    },
+    {
+        "PARTY NAME": "People's Party of Arunachal",
+        "ABBREVIATION": "PPA"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janata Dal",
+        "ABBREVIATION": "RJD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Lok Dal",
+        "ABBREVIATION": "RLD"
+    },
+    {
+        "PARTY NAME": "Revolutionary Socialist Party",
+        "ABBREVIATION": "RSP"
+    },
+    {
+        "PARTY NAME": "Shiromani Akali Dal",
+        "ABBREVIATION": "SAD"
+    },
+    {
+        "PARTY NAME": "Sikkim Democratic Front",
+        "ABBREVIATION": "SDF"
+    },
+    {
+        "PARTY NAME": "Shivsena",
+        "ABBREVIATION": "SHS"
+    },
+    {
+        "PARTY NAME": "Samajwadi Party",
+        "ABBREVIATION": "SP"
+    },
+    {
+        "PARTY NAME": "Telugu Desam",
+        "ABBREVIATION": "TDP"
+    },
+    {
+        "PARTY NAME": "Telangana Rashtra Samithi",
+        "ABBREVIATION": "TRS"
+    },
+    {
+        "PARTY NAME": "United Democratic Party",
+        "ABBREVIATION": "UDP"
+    },
+    {
+        "PARTY NAME": "Adarsh Samaj Party",
+        "ABBREVIATION": "A S P"
+    },
+    {
+        "PARTY NAME": "Asankhya Samaj Party",
+        "ABBREVIATION": "Aa S P"
+    },
+    {
+        "PARTY NAME": "Aam Janata Party",
+        "ABBREVIATION": "AAMJP"
+    },
+    {
+        "PARTY NAME": "awami aamjan party",
+        "ABBREVIATION": "AAP"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Ashok Sena",
+        "ABBREVIATION": "ABAS"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Congress Dal (Ambedkar)",
+        "ABBREVIATION": "ABCD(A)"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Hind Kranti Party",
+        "ABBREVIATION": "ABHKP"
+    },
+    {
+        "PARTY NAME": "Akhil Bharat Hindu Mahasabha",
+        "ABBREVIATION": "ABHM"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Jan Sangh",
+        "ABBREVIATION": "ABJS"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Muslim League (Secular)",
+        "ABBREVIATION": "ABML(S)"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Manavata Paksha",
+        "ABBREVIATION": "ABMP"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Rajarya Sabha",
+        "ABBREVIATION": "ABRS"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Samajwadi Congress",
+        "ABBREVIATION": "ABSC"
+    },
+    {
+        "PARTY NAME": "Akhand Bharat Samaj Party",
+        "ABBREVIATION": "ABSP"
+    },
+    {
+        "PARTY NAME": "Akhil Bharatiya Shivsena Rashtrawadi",
+        "ABBREVIATION": "ABSR"
+    },
+    {
+        "PARTY NAME": "Akhil Bhartiya Vikas Congress Party",
+        "ABBREVIATION": "ABVCP"
+    },
+    {
+        "PARTY NAME": "Apna Dal",
+        "ABBREVIATION": "AD"
+    },
+    {
+        "PARTY NAME": "Apna Desh Party",
+        "ABBREVIATION": "ADPT"
+    },
+    {
+        "PARTY NAME": "Anaithindia Dravidar Samudaya Munnetra Kazhagam",
+        "ABBREVIATION": "ADSMK"
+    },
+    {
+        "PARTY NAME": "Aadivasi Sena Party",
+        "ABBREVIATION": "ADSP"
+    },
+    {
+        "PARTY NAME": "Apna Dal United Party",
+        "ABBREVIATION": "ADUP"
+    },
+    {
+        "PARTY NAME": "Agar Jan Party",
+        "ABBREVIATION": "AGRJP"
+    },
+    {
+        "PARTY NAME": "All India Azaad Congress Party",
+        "ABBREVIATION": "AIACP"
+    },
+    {
+        "PARTY NAME": "New All India Congress Party",
+        "ABBREVIATION": "aicp"
+    },
+    {
+        "PARTY NAME": "All India Minorities Front",
+        "ABBREVIATION": "AIMF"
+    },
+    {
+        "PARTY NAME": "All India Majlis-E-Ittehadul Muslimeen",
+        "ABBREVIATION": "AIMIM"
+    },
+    {
+        "PARTY NAME": "All India Mazdoor Party (Rangreta)",
+        "ABBREVIATION": "aimpr"
+    },
+    {
+        "PARTY NAME": "All India Peoples' Front (Radical)",
+        "ABBREVIATION": "AIPF"
+    },
+    {
+        "PARTY NAME": "All India Ravidas Samata Party",
+        "ABBREVIATION": "AIRSP"
+    },
+    {
+        "PARTY NAME": "All J & K Kisan Majdoor Party",
+        "ABBREVIATION": "AJKMP"
+    },
+    {
+        "PARTY NAME": "Aazadi Ka Antim Aandolan Dal",
+        "ABBREVIATION": "AKAAD"
+    },
+    {
+        "PARTY NAME": "All Jammu and Kashmir Republican Party",
+        "ABBREVIATION": "AKAKRP"
+    },
+    {
+        "PARTY NAME": "Akhil Bhartiya Aamjan Party",
+        "ABBREVIATION": "AKBAP"
+    },
+    {
+        "PARTY NAME": "Akhil Bhartiya Jharkhand Party",
+        "ABBREVIATION": "AKBJHP"
+    },
+    {
+        "PARTY NAME": "Akhil Bhartiya Mithila Party",
+        "ABBREVIATION": "AKBMP"
+    },
+    {
+        "PARTY NAME": "Al-Hind Party",
+        "ABBREVIATION": "ALHP"
+    },
+    {
+        "PARTY NAME": "Amra Bangalee",
+        "ABBREVIATION": "AMB"
+    },
+    {
+        "PARTY NAME": "Adarsh Manavtawadi Party",
+        "ABBREVIATION": "AMP"
+    },
+    {
+        "PARTY NAME": "Aadijan Mukti Sena",
+        "ABBREVIATION": "AMS"
+    },
+    {
+        "PARTY NAME": "Ambedkar National Congress",
+        "ABBREVIATION": "ANC"
+    },
+    {
+        "PARTY NAME": "Aama Odisha Party",
+        "ABBREVIATION": "AOP"
+    },
+    {
+        "PARTY NAME": "Ati Picchara party",
+        "ABBREVIATION": "APCP"
+    },
+    {
+        "PARTY NAME": "Ambedkar People's Movement",
+        "ABBREVIATION": "APM"
+    },
+    {
+        "PARTY NAME": "Ambedkarite Party of India",
+        "ABBREVIATION": "APoI"
+    },
+    {
+        "PARTY NAME": "Andhra Pradesh Rashtra Samaikya Samithi Party",
+        "ABBREVIATION": "APRSSP"
+    },
+    {
+        "PARTY NAME": "Ambedkarist Republican Party",
+        "ABBREVIATION": "ARP"
+    },
+    {
+        "PARTY NAME": "Andhra Rastra Praja Samithi",
+        "ABBREVIATION": "ARPS"
+    },
+    {
+        "PARTY NAME": "Adarsh Rashtriya Vikas Party",
+        "ABBREVIATION": "ARVP"
+    },
+    {
+        "PARTY NAME": "Akhil Rashtrawadi Party",
+        "ABBREVIATION": "ARWP"
+    },
+    {
+        "PARTY NAME": "Awami Samta Party",
+        "ABBREVIATION": "ASaP"
+    },
+    {
+        "PARTY NAME": "Dr. Ambedkar Samajvadi Democratic Party",
+        "ABBREVIATION": "asdp"
+    },
+    {
+        "PARTY NAME": "Ambedkar Samaj Party",
+        "ABBREVIATION": "ASP"
+    },
+    {
+        "PARTY NAME": "Atulya Bharat Party",
+        "ABBREVIATION": "ATBP"
+    },
+    {
+        "PARTY NAME": "AARAKSHAN VIRODHI PARTY",
+        "ABBREVIATION": "AVIRP"
+    },
+    {
+        "PARTY NAME": "Awami Vikas Party",
+        "ABBREVIATION": "AwVP"
+    },
+    {
+        "PARTY NAME": "Bahujan Sangharshh Dal",
+        "ABBREVIATION": "BA S D"
+    },
+    {
+        "PARTY NAME": "Bhartiya  Sarvjan Party",
+        "ABBREVIATION": "BaSaP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Vanchitsamaj Party",
+        "ABBREVIATION": "BaVaP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Bahujan Congress",
+        "ABBREVIATION": "BBC"
+    },
+    {
+        "PARTY NAME": "Bharipa Bahujan Mahasangh",
+        "ABBREVIATION": "BBM"
+    },
+    {
+        "PARTY NAME": "Bharat Bhrashtachar Mitao Party",
+        "ABBREVIATION": "BBMP"
+    },
+    {
+        "PARTY NAME": "Brihattar Bharat Prajatantra Sewa Party",
+        "ABBREVIATION": "BBPSP"
+    },
+    {
+        "PARTY NAME": "Bundelkhand Congress",
+        "ABBREVIATION": "BC"
+    },
+    {
+        "PARTY NAME": "B.C.Bharata Desam Party",
+        "ABBREVIATION": "BCBDP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Chaitanya Party",
+        "ABBREVIATION": "BCP"
+    },
+    {
+        "PARTY NAME": "B. C. United Front",
+        "ABBREVIATION": "BCUF"
+    },
+    {
+        "PARTY NAME": "Bharatiya Dr. B.R.Ambedkar Janta Party",
+        "ABBREVIATION": "BDBRAJP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Ekta Dal",
+        "ABBREVIATION": "BED"
+    },
+    {
+        "PARTY NAME": "Bhartiya Ekta Manch Party",
+        "ABBREVIATION": "BEMP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Gaon Taj Dal",
+        "ABBREVIATION": "BGTD"
+    },
+    {
+        "PARTY NAME": "Bharatiya Bahujan Party",
+        "ABBREVIATION": "BHBP"
+    },
+    {
+        "PARTY NAME": "Bharti Jan Suraksha Party",
+        "ABBREVIATION": "BhJaSP"
+    },
+    {
+        "PARTY NAME": "Bhrashtachar Mukti Morcha",
+        "ABBREVIATION": "bhmm"
+    },
+    {
+        "PARTY NAME": "Bharatiya Navyuvak Party",
+        "ABBREVIATION": "BhNaP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Nav Kranti Party",
+        "ABBREVIATION": "BHNKP"
+    },
+    {
+        "PARTY NAME": "Bharat Nirman Party",
+        "ABBREVIATION": "BhNP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Party",
+        "ABBREVIATION": "bhp"
+    },
+    {
+        "PARTY NAME": "Bharatiya Peoples Party",
+        "ABBREVIATION": "BHPP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Sant Mat Party",
+        "ABBREVIATION": "BhSMP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Satya Sangharsh Party",
+        "ABBREVIATION": "BHSSP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Inqalab Party",
+        "ABBREVIATION": "BIP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Janta Dal (Integrated)",
+        "ABBREVIATION": "bjdi"
+    },
+    {
+        "PARTY NAME": "Bhartiya Jantantrik Janata Dal",
+        "ABBREVIATION": "BJJD"
+    },
+    {
+        "PARTY NAME": "Bharatiya Jan Kranti Dal (Democratic)",
+        "ABBREVIATION": "BJKD"
+    },
+    {
+        "PARTY NAME": "Bajjikanchal Vikas Party",
+        "ABBREVIATION": "BJKVP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Jan Manch",
+        "ABBREVIATION": "BJM"
+    },
+    {
+        "PARTY NAME": "Bihar Janta Party",
+        "ABBREVIATION": "BJPARTY"
+    },
+    {
+        "PARTY NAME": "Bharatiya Jawala Shakti Paksha ",
+        "ABBREVIATION": "BJSP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Jan Yug Party",
+        "ABBREVIATION": "bjyp"
+    },
+    {
+        "PARTY NAME": "Bharat Ki Lok Jimmedar Party",
+        "ABBREVIATION": "BKLJP"
+    },
+    {
+        "PARTY NAME": "Bahujan Kranti Party (Marxwad-Ambedkarwad)",
+        "ABBREVIATION": "BKP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Kisan Parivartan Party",
+        "ABBREVIATION": "BKPP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Krishak Dal",
+        "ABBREVIATION": "BKrD"
+    },
+    {
+        "PARTY NAME": "Bharatiya Kisan Sena Loktantrik",
+        "ABBREVIATION": "BKSL"
+    },
+    {
+        "PARTY NAME": "Rashtriya Lok Samta Party",
+        "ABBREVIATION": "BLSP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Momin Front",
+        "ABBREVIATION": "BMF"
+    },
+    {
+        "PARTY NAME": "Bharatiya Mool Niwasi Samaj Party",
+        "ABBREVIATION": "BMNSP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Minorities Suraksha Mahasangh",
+        "ABBREVIATION": "BMSM"
+    },
+    {
+        "PARTY NAME": "Bahujan Mukti Party",
+        "ABBREVIATION": "BMUP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Naujawan Inklav Party",
+        "ABBREVIATION": "BNIP"
+    },
+    {
+        "PARTY NAME": "Bharatiya National Janta Dal",
+        "ABBREVIATION": "BNJD"
+    },
+    {
+        "PARTY NAME": "Bharat Nav Nirman Party",
+        "ABBREVIATION": "BNNP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Navjawan Sena (Paksha)",
+        "ABBREVIATION": "bns"
+    },
+    {
+        "PARTY NAME": "Bhartiya Pragatisheel Congress",
+        "ABBREVIATION": "BPC"
+    },
+    {
+        "PARTY NAME": "Bharatiya Rashtriya Bahujan Samaj Vikas Party",
+        "ABBREVIATION": "BRABSVP"
+    },
+    {
+        "PARTY NAME": "Braj Vikas Party",
+        "ABBREVIATION": "BRAVP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Rashtriya Mazdoor Dal",
+        "ABBREVIATION": "BRMD"
+    },
+    {
+        "PARTY NAME": "Bhartiya Republican Party (Insan)",
+        "ABBREVIATION": "BRPI"
+    },
+    {
+        "PARTY NAME": "Bharatiya Republican Paksha",
+        "ABBREVIATION": "BRPP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Vikas Party",
+        "ABBREVIATION": "BRVP"
+    },
+    {
+        "PARTY NAME": "Bhartiya Shakti Chetna Party",
+        "ABBREVIATION": "BSCP"
+    },
+    {
+        "PARTY NAME": "Bharatiya Samaj Dal",
+        "ABBREVIATION": "BSD"
+    },
+    {
+        "PARTY NAME": "Bahujan Suraksha Dal",
+        "ABBREVIATION": "BSDL"
+    },
+    {
+        "PARTY NAME": "Bhartiya Shramik Dal Socialist",
+        "ABBREVIATION": "BSDS"
+    },
+    {
+        "PARTY NAME": "Bhartiya Samajik Kranti Dal",
+        "ABBREVIATION": "BSKD"
+    },
+    {
+        "PARTY NAME": "Bharatiya Sarvodaya Kranti Party",
+        "ABBREVIATION": "BSKP"
+    },
+    {
+        "PARTY NAME": "Bahujan Samaj Party  (Ambedkar)",
+        "ABBREVIATION": "BSP(A)"
+    },
+    {
+        "PARTY NAME": "Bahujan Sangharsh Party (Kanshiram)",
+        "ABBREVIATION": "BSP(K)"
+    },
+    {
+        "PARTY NAME": "Bahujan Vikas Aaghadi",
+        "ABBREVIATION": "BVA"
+    },
+    {
+        "PARTY NAME": "Bharat Vishal Party",
+        "ABBREVIATION": "BVLP"
+    },
+    {
+        "PARTY NAME": "Bharat Vikas Morcha",
+        "ABBREVIATION": "BVM"
+    },
+    {
+        "PARTY NAME": "Bharatiya Yuva Shakti",
+        "ABBREVIATION": "BYS"
+    },
+    {
+        "PARTY NAME": "Chhattisgarhiya Party",
+        "ABBREVIATION": "chp"
+    },
+    {
+        "PARTY NAME": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+        "ABBREVIATION": "CPI(ML)(L)"
+    },
+    {
+        "PARTY NAME": "Communist Party of India (Marxist-Leninist) Red Star",
+        "ABBREVIATION": "CPIM"
+    },
+    {
+        "PARTY NAME": "Chhattisgarh Swabhiman Manch",
+        "ABBREVIATION": "CSM"
+    },
+    {
+        "PARTY NAME": "Dalita Bahujana Party",
+        "ABBREVIATION": "DABAP"
+    },
+    {
+        "PARTY NAME": "Dharmarajya Paksha",
+        "ABBREVIATION": "DaP"
+    },
+    {
+        "PARTY NAME": "Dalit Vikas Party(Bharat)",
+        "ABBREVIATION": "DaVP"
+    },
+    {
+        "PARTY NAME": "Democratic Bharatiya Samaj Party",
+        "ABBREVIATION": "DBSP"
+    },
+    {
+        "PARTY NAME": "Democratic Congress Party",
+        "ABBREVIATION": "DCP"
+    },
+    {
+        "PARTY NAME": "Democratic Secular Party",
+        "ABBREVIATION": "DESEP"
+    },
+    {
+        "PARTY NAME": "Desiya Forward Bloc",
+        "ABBREVIATION": "DFBL"
+    },
+    {
+        "PARTY NAME": "Dharam Nirpeksh Dal",
+        "ABBREVIATION": "DND"
+    },
+    {
+        "PARTY NAME": "Deshbhakt Nirman Party",
+        "ABBREVIATION": "DNP"
+    },
+    {
+        "PARTY NAME": "Democratic Prajakranthi Party Secularist",
+        "ABBREVIATION": "DPPS"
+    },
+    {
+        "PARTY NAME": "Eklavya Samaj Party",
+        "ABBREVIATION": "EKSP"
+    },
+    {
+        "PARTY NAME": "Ex-Sainik Kissan Party",
+        "ABBREVIATION": "ESKP"
+    },
+    {
+        "PARTY NAME": "Ezhuchi Tamilargal Munnetra Kazhagam",
+        "ABBREVIATION": "ETMK"
+    },
+    {
+        "PARTY NAME": "Gareeb Aadmi Party",
+        "ABBREVIATION": "GaAP"
+    },
+    {
+        "PARTY NAME": "Gondvana Gantantra Party",
+        "ABBREVIATION": "GGP"
+    },
+    {
+        "PARTY NAME": "Goemcarancho Otrec Astro",
+        "ABBREVIATION": "GOA"
+    },
+    {
+        "PARTY NAME": "Gorkha Rashtriya Congress",
+        "ABBREVIATION": "grac"
+    },
+    {
+        "PARTY NAME": "Great India Party",
+        "ABBREVIATION": "GRIP"
+    },
+    {
+        "PARTY NAME": "Goa Su-Raj Party",
+        "ABBREVIATION": "GSRP"
+    },
+    {
+        "PARTY NAME": "Hindustan Ekta Party",
+        "ABBREVIATION": "HEP"
+    },
+    {
+        "PARTY NAME": "Hindusthan Praja Paksha",
+        "ABBREVIATION": "HiPPa"
+    },
+    {
+        "PARTY NAME": "Himachal Swabhiman Party",
+        "ABBREVIATION": "HiSP"
+    },
+    {
+        "PARTY NAME": "Hindustan Janta Party",
+        "ABBREVIATION": "HJP"
+    },
+    {
+        "PARTY NAME": "Hindustan Kranti Dal",
+        "ABBREVIATION": "hkd"
+    },
+    {
+        "PARTY NAME": "Hindustan Krantikari Dal",
+        "ABBREVIATION": "HKRD"
+    },
+    {
+        "PARTY NAME": "Hindusthan Nirman Dal",
+        "ABBREVIATION": "HND"
+    },
+    {
+        "PARTY NAME": "Hindustan Swaraj Congress Party",
+        "ABBREVIATION": "HSCP"
+    },
+    {
+        "PARTY NAME": "Hindustan Vikas Dal",
+        "ABBREVIATION": "HVD"
+    },
+    {
+        "PARTY NAME": "Indian Bahujan Samajwadi Party",
+        "ABBREVIATION": "IBSP"
+    },
+    {
+        "PARTY NAME": "Indian Bahujan Sandesh Party (Kanshiram)",
+        "ABBREVIATION": "IBSPK"
+    },
+    {
+        "PARTY NAME": "Indian Christian Secular Party",
+        "ABBREVIATION": "ICSP"
+    },
+    {
+        "PARTY NAME": "Indian Gandhiyan Party",
+        "ABBREVIATION": "igp"
+    },
+    {
+        "PARTY NAME": "Indian Justice Party",
+        "ABBREVIATION": "IJP"
+    },
+    {
+        "PARTY NAME": "Indian Krantikari Lehar",
+        "ABBREVIATION": "IKL"
+    },
+    {
+        "PARTY NAME": "Indian Labour Party (Ambedkar Phule)",
+        "ABBREVIATION": "ILP(AP)"
+    },
+    {
+        "PARTY NAME": "Indian National League",
+        "ABBREVIATION": "INL"
+    },
+    {
+        "PARTY NAME": "Indian Oceanic Party",
+        "ABBREVIATION": "IOP"
+    },
+    {
+        "PARTY NAME": "Indigenousn People's Front Of Tripura",
+        "ABBREVIATION": "IPFT"
+    },
+    {
+        "PARTY NAME": "Indian Peoples Green Party",
+        "ABBREVIATION": "IPGP"
+    },
+    {
+        "PARTY NAME": "Indian Peace Party",
+        "ABBREVIATION": "IPP"
+    },
+    {
+        "PARTY NAME": "Indian Savarn Samaj Party",
+        "ABBREVIATION": "ISSP"
+    },
+    {
+        "PARTY NAME": "Indian Unity Centre",
+        "ABBREVIATION": "IUC"
+    },
+    {
+        "PARTY NAME": "Inqalab Vikas Dal",
+        "ABBREVIATION": "IVD"
+    },
+    {
+        "PARTY NAME": "Indians Victory Party",
+        "ABBREVIATION": "IVP"
+    },
+    {
+        "PARTY NAME": "Janral Samaj Party",
+        "ABBREVIATION": "JanSP"
+    },
+    {
+        "PARTY NAME": "Jantantra Party",
+        "ABBREVIATION": "JAP"
+    },
+    {
+        "PARTY NAME": "Jan Raajya Party",
+        "ABBREVIATION": "JaRaP"
+    },
+    {
+        "PARTY NAME": "Jan Raksha Party",
+        "ABBREVIATION": "JaRaPa"
+    },
+    {
+        "PARTY NAME": "Jai Samaikyandhra Party",
+        "ABBREVIATION": "JaSPa"
+    },
+    {
+        "PARTY NAME": "Jai Bharat Samanta Party",
+        "ABBREVIATION": "JBSP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Disom Party",
+        "ABBREVIATION": "JDP"
+    },
+    {
+        "PARTY NAME": "Janta Dal Rashtravadi",
+        "ABBREVIATION": "JDR"
+    },
+    {
+        "PARTY NAME": "Jamat-E-Seratul Mustakim",
+        "ABBREVIATION": "JeSM"
+    },
+    {
+        "PARTY NAME": "Jago Party",
+        "ABBREVIATION": "JGP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Anushilan Party",
+        "ABBREVIATION": "JHAP"
+    },
+    {
+        "PARTY NAME": "Jai Hind Party",
+        "ABBREVIATION": "JHP"
+    },
+    {
+        "PARTY NAME": "Jai Hind Samaj Party",
+        "ABBREVIATION": "jhspt"
+    },
+    {
+        "PARTY NAME": "Jebamani Janata",
+        "ABBREVIATION": "JJ"
+    },
+    {
+        "PARTY NAME": "Jawan Kisan Morcha",
+        "ABBREVIATION": "JKM"
+    },
+    {
+        "PARTY NAME": "Jharkhand Party",
+        "ABBREVIATION": "JKP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Party  (Naren)",
+        "ABBREVIATION": "JKP(N)"
+    },
+    {
+        "PARTY NAME": "Jan Morcha",
+        "ABBREVIATION": "JM"
+    },
+    {
+        "PARTY NAME": "Jai Maha Bharath Party",
+        "ABBREVIATION": "JMBP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Mukti Morcha  (Ulgulan)",
+        "ABBREVIATION": "JMM(U)"
+    },
+    {
+        "PARTY NAME": "Jan-Nyay Dal",
+        "ABBREVIATION": "JND"
+    },
+    {
+        "PARTY NAME": "Jammu & Kashmir People Conference",
+        "ABBREVIATION": "JPC"
+    },
+    {
+        "PARTY NAME": "Jai Prakash Janata Dal",
+        "ABBREVIATION": "JPJD"
+    },
+    {
+        "PARTY NAME": "Janvadi Party(Socialist)",
+        "ABBREVIATION": "JPS"
+    },
+    {
+        "PARTY NAME": "Janta Raj Party",
+        "ABBREVIATION": "JRPa"
+    },
+    {
+        "PARTY NAME": "Jan Shakti Ekta Party",
+        "ABBREVIATION": "JSEP"
+    },
+    {
+        "PARTY NAME": "Jan Sevak Party",
+        "ABBREVIATION": "JSK"
+    },
+    {
+        "PARTY NAME": "Jan Samanta Party",
+        "ABBREVIATION": "JSMP"
+    },
+    {
+        "PARTY NAME": "Jai Vijaya Bharathi Party",
+        "ABBREVIATION": "JVBP"
+    },
+    {
+        "PARTY NAME": "Jharkhand Vikas Dal",
+        "ABBREVIATION": "JVD"
+    },
+    {
+        "PARTY NAME": "Kalyankari Jantantrik Party",
+        "ABBREVIATION": "kajp"
+    },
+    {
+        "PARTY NAME": "Karunaadu Party",
+        "ABBREVIATION": "KAP"
+    },
+    {
+        "PARTY NAME": "Kannada Chalavali Vatal Paksha",
+        "ABBREVIATION": "KCVP"
+    },
+    {
+        "PARTY NAME": "Kamarajar Deseeya Congress",
+        "ABBREVIATION": "KDC"
+    },
+    {
+        "PARTY NAME": "Kisan Majdoor Berojgar Sangh",
+        "ABBREVIATION": "KMBS"
+    },
+    {
+        "PARTY NAME": "Kosal Kranti Dal",
+        "ABBREVIATION": "KOKD"
+    },
+    {
+        "PARTY NAME": "Kalinga Sena",
+        "ABBREVIATION": "KS"
+    },
+    {
+        "PARTY NAME": "Krantikari Vikas Dal",
+        "ABBREVIATION": "KVD"
+    },
+    {
+        "PARTY NAME": "Lok Bharati",
+        "ABBREVIATION": "LB"
+    },
+    {
+        "PARTY NAME": "Lok Dal",
+        "ABBREVIATION": "LD"
+    },
+    {
+        "PARTY NAME": "Loktantrik Janata Party (Secular)",
+        "ABBREVIATION": "LKJP"
+    },
+    {
+        "PARTY NAME": "Loktantrik Rashrtavadi Party",
+        "ABBREVIATION": "LoRP"
+    },
+    {
+        "PARTY NAME": "The Lok Party of India",
+        "ABBREVIATION": "lpi"
+    },
+    {
+        "PARTY NAME": "Labour Party of India (V.V. Prasad)",
+        "ABBREVIATION": "LPI(V)"
+    },
+    {
+        "PARTY NAME": "Lok Parivartan Party(DC)",
+        "ABBREVIATION": "LPR"
+    },
+    {
+        "PARTY NAME": "Lokpriya Samaj Party",
+        "ABBREVIATION": "LPSP"
+    },
+    {
+        "PARTY NAME": "Lok Shakti",
+        "ABBREVIATION": "LS"
+    },
+    {
+        "PARTY NAME": "Lok Satta Party",
+        "ABBREVIATION": "LSP"
+    },
+    {
+        "PARTY NAME": "Loktantrik Samajwadi Party",
+        "ABBREVIATION": "LSWP"
+    },
+    {
+        "PARTY NAME": "Moulik Adhikar Party",
+        "ABBREVIATION": "MADP"
+    },
+    {
+        "PARTY NAME": "Mahanwadi Party",
+        "ABBREVIATION": "MAHP"
+    },
+    {
+        "PARTY NAME": "Manavadhikar Janshakti Party",
+        "ABBREVIATION": "MaJP"
+    },
+    {
+        "PARTY NAME": "Manithaneya Makkal Katchi",
+        "ABBREVIATION": "MAMAK"
+    },
+    {
+        "PARTY NAME": "Mahajana Socialist Party",
+        "ABBREVIATION": "MaSP"
+    },
+    {
+        "PARTY NAME": "Mahila Swabhiman Party",
+        "ABBREVIATION": "MaSPa"
+    },
+    {
+        "PARTY NAME": "Most Backward Classes Of India",
+        "ABBREVIATION": "MBCOI"
+    },
+    {
+        "PARTY NAME": "Majlis Bachao Tahreek",
+        "ABBREVIATION": "MBT"
+    },
+    {
+        "PARTY NAME": "Marxist Co-Ordination",
+        "ABBREVIATION": "MCO"
+    },
+    {
+        "PARTY NAME": "Marxist Communist Party of India (United)",
+        "ABBREVIATION": "MCPI"
+    },
+    {
+        "PARTY NAME": "Mahan Dal",
+        "ABBREVIATION": "MD"
+    },
+    {
+        "PARTY NAME": "Marumalarchi Dravida Munnetra Kazhagam",
+        "ABBREVIATION": "MDMK"
+    },
+    {
+        "PARTY NAME": "Manipur Democratic Peoples's Front",
+        "ABBREVIATION": "MDPF"
+    },
+    {
+        "PARTY NAME": "Megh Desham Party",
+        "ABBREVIATION": "MEDP"
+    },
+    {
+        "PARTY NAME": "Mahamukti Dal",
+        "ABBREVIATION": "MHD"
+    },
+    {
+        "PARTY NAME": "Majdoor Kisan Union Party",
+        "ABBREVIATION": "MKUP"
+    },
+    {
+        "PARTY NAME": "Makkal Manadu Katchi",
+        "ABBREVIATION": "MMKA"
+    },
+    {
+        "PARTY NAME": "Manav Mukti Morcha",
+        "ABBREVIATION": "MMM"
+    },
+    {
+        "PARTY NAME": "Majlis Markaz-e-Siyasee Party",
+        "ABBREVIATION": "mmsp"
+    },
+    {
+        "PARTY NAME": "Minorities Democratic Party",
+        "ABBREVIATION": "MNDP"
+    },
+    {
+        "PARTY NAME": "Moderate Party",
+        "ABBREVIATION": "MOP"
+    },
+    {
+        "PARTY NAME": "Moolniwasi Samaj Party",
+        "ABBREVIATION": "MOSP"
+    },
+    {
+        "PARTY NAME": "Maharashtra Parivartan Sena (T)",
+        "ABBREVIATION": "MPS(T)"
+    },
+    {
+        "PARTY NAME": "Maharashtra Vikas Aghadi",
+        "ABBREVIATION": "MVA"
+    },
+    {
+        "PARTY NAME": "Manavtawadi Samaj Party",
+        "ABBREVIATION": "MwSP"
+    },
+    {
+        "PARTY NAME": "Naya Daur Party",
+        "ABBREVIATION": "NADP"
+    },
+    {
+        "PARTY NAME": "National Janhit Congress (AB)",
+        "ABBREVIATION": "NAJC"
+    },
+    {
+        "PARTY NAME": "National Lokmat Party",
+        "ABBREVIATION": "NaLP"
+    },
+    {
+        "PARTY NAME": "Naitik Party",
+        "ABBREVIATION": "NAP"
+    },
+    {
+        "PARTY NAME": "Nav Bharat Democratic Party",
+        "ABBREVIATION": "NBDP"
+    },
+    {
+        "PARTY NAME": "Nava Bharat National Party",
+        "ABBREVIATION": "NBNP"
+    },
+    {
+        "PARTY NAME": "National Development Party",
+        "ABBREVIATION": "NDEP"
+    },
+    {
+        "PARTY NAME": "Nagrik Ekta Party",
+        "ABBREVIATION": "NEP"
+    },
+    {
+        "PARTY NAME": "New India Party",
+        "ABBREVIATION": "NIP"
+    },
+    {
+        "PARTY NAME": "Nehru Janhit Congress",
+        "ABBREVIATION": "NJC"
+    },
+    {
+        "PARTY NAME": "National Loktantrik Party",
+        "ABBREVIATION": "NLP"
+    },
+    {
+        "PARTY NAME": "Namadhu Makkal Katchi",
+        "ABBREVIATION": "NMK"
+    },
+    {
+        "PARTY NAME": "Navbharat Nirman Party",
+        "ABBREVIATION": "NNP"
+    },
+    {
+        "PARTY NAME": "National Organisation Congress",
+        "ABBREVIATION": "NOC"
+    },
+    {
+        "PARTY NAME": "National Party",
+        "ABBREVIATION": "NP"
+    },
+    {
+        "PARTY NAME": "Navodyam Party",
+        "ABBREVIATION": "NPT"
+    },
+    {
+        "PARTY NAME": "Narayani Sena",
+        "ABBREVIATION": "NRSN"
+    },
+    {
+        "PARTY NAME": "Nirjatita Samaj Biplabi Party",
+        "ABBREVIATION": "NSBP"
+    },
+    {
+        "PARTY NAME": "National Tiger Party",
+        "ABBREVIATION": "NTP"
+    },
+    {
+        "PARTY NAME": "National Unionist Zamindara Party",
+        "ABBREVIATION": "nuzp"
+    },
+    {
+        "PARTY NAME": "National Youth Party",
+        "ABBREVIATION": "NYP"
+    },
+    {
+        "PARTY NAME": "Odisha Jan Morcha",
+        "ABBREVIATION": "ojm"
+    },
+    {
+        "PARTY NAME": "Prajatantra Aadhar Party",
+        "ABBREVIATION": "PAP"
+    },
+    {
+        "PARTY NAME": "Proutist Bloc, India",
+        "ABBREVIATION": "PBI"
+    },
+    {
+        "PARTY NAME": "Paschimanchal Vikas Party",
+        "ABBREVIATION": "PCHVP"
+    },
+    {
+        "PARTY NAME": "Party for Democratic Socialism",
+        "ABBREVIATION": "PDS"
+    },
+    {
+        "PARTY NAME": "Peace Party",
+        "ABBREVIATION": "PECP"
+    },
+    {
+        "PARTY NAME": "Peoples Guardian",
+        "ABBREVIATION": "PG"
+    },
+    {
+        "PARTY NAME": "Pragatisheel Samaj Party",
+        "ABBREVIATION": "PGSP"
+    },
+    {
+        "PARTY NAME": "Poorvanchal Rashtriya Congress",
+        "ABBREVIATION": "PHRC"
+    },
+    {
+        "PARTY NAME": "Prem Janata Dal",
+        "ABBREVIATION": "pjdl"
+    },
+    {
+        "PARTY NAME": "Punjab Labour Party",
+        "ABBREVIATION": "PLP"
+    },
+    {
+        "PARTY NAME": "Pragatisheel Magahi Samaj",
+        "ABBREVIATION": "pms"
+    },
+    {
+        "PARTY NAME": "Pragatisheel Manav Samaj Party",
+        "ABBREVIATION": "PMSP"
+    },
+    {
+        "PARTY NAME": "Parcham Party of India",
+        "ABBREVIATION": "PPI"
+    },
+    {
+        "PARTY NAME": "People's Party of India(secular)",
+        "ABBREVIATION": "PPIS"
+    },
+    {
+        "PARTY NAME": "Pyramid Party of India",
+        "ABBREVIATION": "PPOI"
+    },
+    {
+        "PARTY NAME": "Prabuddha Republican Party",
+        "ABBREVIATION": "PRCP"
+    },
+    {
+        "PARTY NAME": "Prism",
+        "ABBREVIATION": "PRISM"
+    },
+    {
+        "PARTY NAME": "Prajatantrik Samadhan Party",
+        "ABBREVIATION": "PRSP"
+    },
+    {
+        "PARTY NAME": "Parivartan Samaj Party",
+        "ABBREVIATION": "PSJP"
+    },
+    {
+        "PARTY NAME": "Proutist Sarva Samaj",
+        "ABBREVIATION": "PSS"
+    },
+    {
+        "PARTY NAME": "Puthiya Tamilagam",
+        "ABBREVIATION": "PT"
+    },
+    {
+        "PARTY NAME": "Peasants And Workers Party of India",
+        "ABBREVIATION": "PWPI"
+    },
+    {
+        "PARTY NAME": "Qaumi Ekta Dal",
+        "ABBREVIATION": "QED"
+    },
+    {
+        "PARTY NAME": "Rashtriya Ambedkar Dal",
+        "ABBREVIATION": "RaAD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Bandhutwa Party",
+        "ABBREVIATION": "RaBaP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Congress (Babu Jagjivanram)",
+        "ABBREVIATION": "RAC"
+    },
+    {
+        "PARTY NAME": "Rashtriya Congress(J) Party",
+        "ABBREVIATION": "RaCP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Deshaj Party",
+        "ABBREVIATION": "RADP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Ahinsa Manch",
+        "ABBREVIATION": "RAHM"
+    },
+    {
+        "PARTY NAME": "Rashtriya Indepndent Morcha",
+        "ABBREVIATION": "RAIM"
+    },
+    {
+        "PARTY NAME": "Rastriya Insaaf Party",
+        "ABBREVIATION": "RaIP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Jankranti Party",
+        "ABBREVIATION": "RaJPa"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janadhikar Suraksha Party",
+        "ABBREVIATION": "RaJSP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Karmyog Party",
+        "ABBREVIATION": "RAKP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Manav samman Party",
+        "ABBREVIATION": "RaMSP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Aam Party",
+        "ABBREVIATION": "RAPa"
+    },
+    {
+        "PARTY NAME": "Rashtriya Uttarakhand Party",
+        "ABBREVIATION": "raup"
+    },
+    {
+        "PARTY NAME": "Rajnaitik Vikalp Party",
+        "ABBREVIATION": "ravp"
+    },
+    {
+        "PARTY NAME": "Republican Backward Congress",
+        "ABBREVIATION": "RBC"
+    },
+    {
+        "PARTY NAME": "Rashtriya Bahujan Congress Party",
+        "ABBREVIATION": "RBCP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Bahujan Hitay Party",
+        "ABBREVIATION": "RBHP"
+    },
+    {
+        "PARTY NAME": "Republican Bahujan Sena",
+        "ABBREVIATION": "RBS"
+    },
+    {
+        "PARTY NAME": "Rani Chennamma Party",
+        "ABBREVIATION": "RCMP"
+    },
+    {
+        "PARTY NAME": "Rajyadhikara Party",
+        "ABBREVIATION": "RDHP"
+    },
+    {
+        "PARTY NAME": "Regional Democratic Secular Congress",
+        "ABBREVIATION": "rdsc"
+    },
+    {
+        "PARTY NAME": "Rashtriya Ekta Party",
+        "ABBREVIATION": "REP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Garib Dal",
+        "ABBREVIATION": "RGD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Gondvana Party",
+        "ABBREVIATION": "RGOP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janmorcha",
+        "ABBREVIATION": "RJ"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janadhikar Party",
+        "ABBREVIATION": "RJAP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Jatigat Aarakshan Virodhi Party",
+        "ABBREVIATION": "RJAVP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Jan-Jagram Morcha",
+        "ABBREVIATION": "RJJM"
+    },
+    {
+        "PARTY NAME": "Rashtriya Jankranti Morcha",
+        "ABBREVIATION": "RJM"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janasachetan Party (R.J.P.)",
+        "ABBREVIATION": "RJNP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janshakti Party(Eklavya)",
+        "ABBREVIATION": "RJP(E)"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janwadi Party (Krantikari)",
+        "ABBREVIATION": "RJPK"
+    },
+    {
+        "PARTY NAME": "Rajasthan Vikas Party",
+        "ABBREVIATION": "RJVP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Komi Ekta Party",
+        "ABBREVIATION": "RKEP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Krantikari Samajwadi Party",
+        "ABBREVIATION": "RKSP"
+    },
+    {
+        "PARTY NAME": "Rashtriya mahan Gantantra Party",
+        "ABBREVIATION": "RMGP"
+    },
+    {
+        "PARTY NAME": "RASHTRIYA MORCHA PARTY",
+        "ABBREVIATION": "RMOP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Naujawan Dal",
+        "ABBREVIATION": "RND"
+    },
+    {
+        "PARTY NAME": "Republican Paksha (Khoripa)",
+        "ABBREVIATION": "RP(K)"
+    },
+    {
+        "PARTY NAME": "Rashtriya Praja Congress  (Secular)",
+        "ABBREVIATION": "RPC(S)"
+    },
+    {
+        "PARTY NAME": "Rashtriya Parivartan Dal",
+        "ABBREVIATION": "RPD"
+    },
+    {
+        "PARTY NAME": "Republican Party of India",
+        "ABBREVIATION": "RPI"
+    },
+    {
+        "PARTY NAME": "Republican Party of India (A)",
+        "ABBREVIATION": "RPI(A)"
+    },
+    {
+        "PARTY NAME": "Republican Party of India (Khobragade)",
+        "ABBREVIATION": "RPI(KH)"
+    },
+    {
+        "PARTY NAME": "Republican Party of India Ektavadi",
+        "ABBREVIATION": "RPIE"
+    },
+    {
+        "PARTY NAME": "Rashtrawadi Parivartan Party (L.B,)",
+        "ABBREVIATION": "RPP(LB)"
+    },
+    {
+        "PARTY NAME": "Rayalaseema Parirakshana Samithi",
+        "ABBREVIATION": "RPS"
+    },
+    {
+        "PARTY NAME": "Rashtriya Rashtrawadi Party",
+        "ABBREVIATION": "RRP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Sarvajan Party",
+        "ABBREVIATION": "RrSP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Apna Dal",
+        "ABBREVIATION": "RsAD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Sawarn Dal",
+        "ABBREVIATION": "RSD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janshanti Party",
+        "ABBREVIATION": "RshJP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Samanta Dal",
+        "ABBREVIATION": "RSMD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Shoshit Samaj Party",
+        "ABBREVIATION": "RSOSP"
+    },
+    {
+        "PARTY NAME": "Revolutionary Socialist Party of Kerala  (Bolshevik) RSP.B",
+        "ABBREVIATION": "RSPK(B)"
+    },
+    {
+        "PARTY NAME": "Rashtriya Samaj Paksha",
+        "ABBREVIATION": "RSPS"
+    },
+    {
+        "PARTY NAME": "Rashtriya Sant Sandesh Party",
+        "ABBREVIATION": "RSSDP"
+    },
+    {
+        "PARTY NAME": "Rashtra Sewa Dal",
+        "ABBREVIATION": "RSWD"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janpriya Party",
+        "ABBREVIATION": "RtJP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Kranti Party",
+        "ABBREVIATION": "RTKP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Janta Party",
+        "ABBREVIATION": "RtrJP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Ulama Council",
+        "ABBREVIATION": "RUC"
+    },
+    {
+        "PARTY NAME": "RASHTRIYA VIKLANG PARTY",
+        "ABBREVIATION": "RVLP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Vikas Manch Party",
+        "ABBREVIATION": "RVMP"
+    },
+    {
+        "PARTY NAME": "Rashtravadi Janata Party",
+        "ABBREVIATION": "RVNP"
+    },
+    {
+        "PARTY NAME": "Rashtriya Vikas Party",
+        "ABBREVIATION": "RVP"
+    },
+    {
+        "PARTY NAME": "Rashtrawadi Samaj Party",
+        "ABBREVIATION": "RWSP"
+    },
+    {
+        "PARTY NAME": "Swaraj (J)",
+        "ABBREVIATION": "S(J)"
+    },
+    {
+        "PARTY NAME": "Sankhyanupati Bhagidari Party",
+        "ABBREVIATION": "SaBP"
+    },
+    {
+        "PARTY NAME": "Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)",
+        "ABBREVIATION": "SAD(M)"
+    },
+    {
+        "PARTY NAME": "Sarvshreshth Dal",
+        "ABBREVIATION": "SaDa"
+    },
+    {
+        "PARTY NAME": "Samruddha Odisha",
+        "ABBREVIATION": "SAMO"
+    },
+    {
+        "PARTY NAME": "Samata Samadhan Party",
+        "ABBREVIATION": "SamSP"
+    },
+    {
+        "PARTY NAME": "Samata Party",
+        "ABBREVIATION": "SAP"
+    },
+    {
+        "PARTY NAME": "Samtawadi Republican Party",
+        "ABBREVIATION": "SARP"
+    },
+    {
+        "PARTY NAME": "Samajwadi Samaj Party",
+        "ABBREVIATION": "SaSaP"
+    },
+    {
+        "PARTY NAME": "Samta Vikas Party",
+        "ABBREVIATION": "SaVP"
+    },
+    {
+        "PARTY NAME": "Suheldev Bhartiya Samaj Party",
+        "ABBREVIATION": "SBSP"
+    },
+    {
+        "PARTY NAME": "Socialistic Democratic Party",
+        "ABBREVIATION": "SDP"
+    },
+    {
+        "PARTY NAME": "SOCIAL DEMOCRATIC PARTY OF INDIA",
+        "ABBREVIATION": "SDPI"
+    },
+    {
+        "PARTY NAME": "Shramajeevi Party",
+        "ABBREVIATION": "SHP"
+    },
+    {
+        "PARTY NAME": "Shoshit Sandesh Party",
+        "ABBREVIATION": "shsap"
+    },
+    {
+        "PARTY NAME": "Socialist Janata (Democratic)",
+        "ABBREVIATION": "SJD"
+    },
+    {
+        "PARTY NAME": "Samajwadi Janata Party (Rashtriya)",
+        "ABBREVIATION": "SJP(R)"
+    },
+    {
+        "PARTY NAME": "Sarva Janata Party",
+        "ABBREVIATION": "SJPA"
+    },
+    {
+        "PARTY NAME": "Samata Kranti Dal",
+        "ABBREVIATION": "skd"
+    },
+    {
+        "PARTY NAME": "Sarvajan Kalyan Loktantrik Party",
+        "ABBREVIATION": "SKLP"
+    },
+    {
+        "PARTY NAME": "Sikkim Krantikari Morcha",
+        "ABBREVIATION": "SKM"
+    },
+    {
+        "PARTY NAME": "Social Action Party",
+        "ABBREVIATION": "SLAP"
+    },
+    {
+        "PARTY NAME": "Socialist Party (Lohia)",
+        "ABBREVIATION": "SLP(L)"
+    },
+    {
+        "PARTY NAME": "Socialist Party (India)",
+        "ABBREVIATION": "SP(I)"
+    },
+    {
+        "PARTY NAME": "Samyak Parivartan Party",
+        "ABBREVIATION": "SPP"
+    },
+    {
+        "PARTY NAME": "Samaikyandhra Parirakshana Samithi",
+        "ABBREVIATION": "sps"
+    },
+    {
+        "PARTY NAME": "Socialist Republican Party",
+        "ABBREVIATION": "SRP"
+    },
+    {
+        "PARTY NAME": "Sanyukt Samajwadi Dal",
+        "ABBREVIATION": "SSAD"
+    },
+    {
+        "PARTY NAME": "Shakti Sena (Bharat Desh)",
+        "ABBREVIATION": "SSBD"
+    },
+    {
+        "PARTY NAME": "Shoshit Samaj Dal",
+        "ABBREVIATION": "SSD"
+    },
+    {
+        "PARTY NAME": "Sarva Samaj Kalyan Party",
+        "ABBREVIATION": "SSKP"
+    },
+    {
+        "PARTY NAME": "SARVAJAN SAMAJ PARTY (D)",
+        "ABBREVIATION": "SSPD"
+    },
+    {
+        "PARTY NAME": "Sanatan Sanskriti Raksha Dal",
+        "ABBREVIATION": "ssrd"
+    },
+    {
+        "PARTY NAME": "Samaikya Telugu Rajyam",
+        "ABBREVIATION": "STR"
+    },
+    {
+        "PARTY NAME": "SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)",
+        "ABBREVIATION": "SUCI"
+    },
+    {
+        "PARTY NAME": "Sardar Vallabhbhai Patel Party",
+        "ABBREVIATION": "SVPP"
+    },
+    {
+        "PARTY NAME": "Shivrajya Party",
+        "ABBREVIATION": "SVRP"
+    },
+    {
+        "PARTY NAME": "Samajwadi Jan Parishad",
+        "ABBREVIATION": "SWJP"
+    },
+    {
+        "PARTY NAME": "Swabhimani Paksha",
+        "ABBREVIATION": "SWP"
+    },
+    {
+        "PARTY NAME": "Swarajya Party Of India",
+        "ABBREVIATION": "SWPI"
+    },
+    {
+        "PARTY NAME": "Swatantra Samaj Party",
+        "ABBREVIATION": "SWSP"
+    },
+    {
+        "PARTY NAME": "Telangana Communist Party of India",
+        "ABBREVIATION": "TECPI"
+    },
+    {
+        "PARTY NAME": "Telangana Loksatta Party",
+        "ABBREVIATION": "TLP"
+    },
+    {
+        "PARTY NAME": "Tamil Nadu Makkal Congress",
+        "ABBREVIATION": "TNMC"
+    },
+    {
+        "PARTY NAME": "Tripura Pragatishil Gramin Congress",
+        "ABBREVIATION": "TPGC"
+    },
+    {
+        "PARTY NAME": "The Religion of Man Revolving Political Party of India",
+        "ABBREVIATION": "TRMRPPI"
+    },
+    {
+        "PARTY NAME": "Thrinamool Tamil Nadu Congress",
+        "ABBREVIATION": "TTNC"
+    },
+    {
+        "PARTY NAME": "United Communist Party of India",
+        "ABBREVIATION": "UCPI"
+    },
+    {
+        "PARTY NAME": "Ulzaipali Makkal Katchy",
+        "ABBREVIATION": "UMK"
+    },
+    {
+        "PARTY NAME": "Union Party of India",
+        "ABBREVIATION": "UPI"
+    },
+    {
+        "PARTY NAME": "UTTARAKHAND PARIVARTAN PARTY",
+        "ABBREVIATION": "UPP"
+    },
+    {
+        "PARTY NAME": "Uttar Pradesh Republican Party",
+        "ABBREVIATION": "UPRP"
+    },
+    {
+        "PARTY NAME": "Vanchit Jamat Party",
+        "ABBREVIATION": "VAJP"
+    },
+    {
+        "PARTY NAME": "Viduthalai Chiruthaigal Katchi",
+        "ABBREVIATION": "VCK"
+    },
+    {
+        "PARTY NAME": "Vishva Hindustani Sangathan",
+        "ABBREVIATION": "VHS"
+    },
+    {
+        "PARTY NAME": "VANCHITSAMAJ INSAAF PARTY",
+        "ABBREVIATION": "VIP"
+    },
+    {
+        "PARTY NAME": "Vichara Jagruthi Congress Paksha",
+        "ABBREVIATION": "VJCP"
+    },
+    {
+        "PARTY NAME": "Voters Party",
+        "ABBREVIATION": "VoP"
+    },
+    {
+        "PARTY NAME": "Vishva SHakti Party",
+        "ABBREVIATION": "VSP"
+    },
+    {
+        "PARTY NAME": "Welfare Party Of India",
+        "ABBREVIATION": "WPOI"
+    },
+    {
+        "PARTY NAME": "Yuvajana Sramika Rythu Congress Party",
+        "ABBREVIATION": "YSRCP"
+    },
+    {
+        "PARTY NAME": "Yuva Sarkar",
+        "ABBREVIATION": "YuS"
+    },
+    {
+        "PARTY NAME": "Independent",
+        "ABBREVIATION": "IND"
+    },
+    {
+        "PARTY NAME": "None of the Above",
+        "ABBREVIATION": "NOTA"
+    }
+]

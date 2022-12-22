@@ -2,9 +2,9 @@ import React,{ useEffect, useRef, useState } from 'react';
 import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
 import useResizeObserver from './useResizeObserver';
-import geoData from './Himachal Pradesh.json';
-import electionData2017 from './Himachal Pradesh-2017.json';
-import electionData2012 from './Himachal Pradesh-2012.json';
+import geoData from './Data/Himachal Pradesh.json';
+import electionData2017 from './Data/Himachal Pradesh-2017.json';
+import electionData2012 from './Data/Himachal Pradesh-2012.json';
 
 
 

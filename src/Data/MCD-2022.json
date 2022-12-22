@@ -1,0 +1,5002 @@
+[
+    {
+        "Ward No": "1",
+        "Ward Name": "NARELA",
+        "ac_no": 1,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SWETA KHATRI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15929
+            },
+            {
+                "Candidate": "KESHRANI NEEL DAMAN KHATRI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10960
+            }
+        ]
+    },
+    {
+        "Ward No": "2",
+        "Ward Name": "BANKNER",
+        "ac_no": 1,
+        "reservation": "GEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DINESH KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10765
+            },
+            {
+                "Candidate": "VINOD BHARDWAJ",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10387
+            }
+        ]
+    },
+    {
+        "Ward No": "3",
+        "Ward Name": "HOLAMBI KALAN",
+        "ac_no": 1,
+        "reservation": "WOMEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15631
+            },
+            {
+                "Candidate": "ARCHANA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7490
+            }
+        ]
+    },
+    {
+        "Ward No": "4",
+        "Ward Name": "ALIPUR",
+        "ac_no": 1,
+        "reservation": "GEN",
+        "totalPS": 74,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "YOGESH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14929
+            },
+            {
+                "Candidate": "DEEP KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14838
+            }
+        ]
+    },
+    {
+        "Ward No": "5",
+        "Ward Name": "BAKHTAWARPUR",
+        "ac_no": 1,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JANTA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12754
+            },
+            {
+                "Candidate": "BABITA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10570
+            }
+        ]
+    },
+    {
+        "Ward No": "6",
+        "Ward Name": "BURARI",
+        "ac_no": 2,
+        "reservation": "GEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANIL KUMAR TYAGI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 18314
+            },
+            {
+                "Candidate": "ASHISH TYAGI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18141
+            }
+        ]
+    },
+    {
+        "Ward No": "7",
+        "Ward Name": "KADIPUR",
+        "ac_no": 2,
+        "reservation": "WOMEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MUNESH DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 19172
+            },
+            {
+                "Candidate": "URMILA RANA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14669
+            }
+        ]
+    },
+    {
+        "Ward No": "8",
+        "Ward Name": "MUKUNDPUR",
+        "ac_no": 2,
+        "reservation": "GEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GULAB SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15687
+            },
+            {
+                "Candidate": "AJAY KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14929
+            }
+        ]
+    },
+    {
+        "Ward No": "9",
+        "Ward Name": "SANT NAGAR",
+        "ac_no": 2,
+        "reservation": "WOMEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RUBI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15332
+            },
+            {
+                "Candidate": "REKHA RAWAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12289
+            }
+        ]
+    },
+    {
+        "Ward No": "10",
+        "Ward Name": "JHARODA",
+        "ac_no": 2,
+        "reservation": "GEN",
+        "totalPS": 81,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GAGAN CHOUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 24626
+            },
+            {
+                "Candidate": "BRIJESH KUMAR RAI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 19810
+            }
+        ]
+    },
+    {
+        "Ward No": "11",
+        "Ward Name": "TIMARPUR",
+        "ac_no": 3,
+        "reservation": "WOMEN",
+        "totalPS": 72,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PROMILA GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17336
+            },
+            {
+                "Candidate": "AMARLATA SANGWAN",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11975
+            }
+        ]
+    },
+    {
+        "Ward No": "12",
+        "Ward Name": "MALKA GANJ",
+        "ac_no": 3,
+        "reservation": "SC-WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "REKHA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13855
+            },
+            {
+                "Candidate": "GUDDI DEVI JATAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13373
+            }
+        ]
+    },
+    {
+        "Ward No": "13",
+        "Ward Name": "MUKHERJEE NAGAR",
+        "ac_no": 3,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJA IQBAL SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14422
+            },
+            {
+                "Candidate": "ANTUL KOHLI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13845
+            }
+        ]
+    },
+    {
+        "Ward No": "14",
+        "Ward Name": "DHIRPUR",
+        "ac_no": 4,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEHA AGGARWAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13269
+            },
+            {
+                "Candidate": "NEELAM BUDHIRAJA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11148
+            }
+        ]
+    },
+    {
+        "Ward No": "15",
+        "Ward Name": "ADARSH NAGAR",
+        "ac_no": 4,
+        "reservation": "GEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MUKESH KUMAR GOEL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12786
+            },
+            {
+                "Candidate": "ANUBHAV DHIR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12599
+            }
+        ]
+    },
+    {
+        "Ward No": "16",
+        "Ward Name": "AZADPUR",
+        "ac_no": 4,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUMAN KUMARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13316
+            },
+            {
+                "Candidate": "MANNU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9779
+            }
+        ]
+    },
+    {
+        "Ward No": "17",
+        "Ward Name": "BHALSWA",
+        "ac_no": 5,
+        "reservation": "GEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AJEET SINGH YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10316
+            },
+            {
+                "Candidate": "LALLU SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9230
+            }
+        ]
+    },
+    {
+        "Ward No": "18",
+        "Ward Name": "JAHANGIR PURI",
+        "ac_no": 5,
+        "reservation": "WOMEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "TIMSY SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11086
+            },
+            {
+                "Candidate": "DIVYA JHA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9898
+            }
+        ]
+    },
+    {
+        "Ward No": "19",
+        "Ward Name": "SARUP NAGAR",
+        "ac_no": 5,
+        "reservation": "GEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JOGINDER SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11865
+            },
+            {
+                "Candidate": "SURESH PANDEY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10934
+            }
+        ]
+    },
+    {
+        "Ward No": "20",
+        "Ward Name": "SAMAYPUR BADLI",
+        "ac_no": 5,
+        "reservation": "WOMEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GAYATRI YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12019
+            },
+            {
+                "Candidate": "SEEMA YADAV",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 8487
+            }
+        ]
+    },
+    {
+        "Ward No": "21",
+        "Ward Name": "ROHINI-A",
+        "ac_no": 6,
+        "reservation": "GEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PARDEEP MITTAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14574
+            },
+            {
+                "Candidate": "NAVEEN GARG",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13786
+            }
+        ]
+    },
+    {
+        "Ward No": "22",
+        "Ward Name": "ROHINI-B",
+        "ac_no": 6,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUMAN ANIL RANA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11837
+            },
+            {
+                "Candidate": "KOMAL VASHISHT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11525
+            }
+        ]
+    },
+    {
+        "Ward No": "23",
+        "Ward Name": "RITHALA",
+        "ac_no": 6,
+        "reservation": "GEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NARENDER KUMAR SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15053
+            },
+            {
+                "Candidate": "SHUBHAM KUMAR TRIPATHI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12029
+            }
+        ]
+    },
+    {
+        "Ward No": "24",
+        "Ward Name": "VIJAY VIHAR",
+        "ac_no": 6,
+        "reservation": "WOMEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PUSHPA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17095
+            },
+            {
+                "Candidate": "KUMARI AMRITA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14152
+            }
+        ]
+    },
+    {
+        "Ward No": "25",
+        "Ward Name": "BUDH VIHAR",
+        "ac_no": 6,
+        "reservation": "GEN",
+        "totalPS": 42,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AMRIT JAIN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11976
+            },
+            {
+                "Candidate": "RAJPAL GARG",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9301
+            }
+        ]
+    },
+    {
+        "Ward No": "26",
+        "Ward Name": "POOTH KALAN",
+        "ac_no": 7,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RITU MUKESH KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16074
+            },
+            {
+                "Candidate": "KAVITA DEVENDER SOLANKI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14778
+            }
+        ]
+    },
+    {
+        "Ward No": "27",
+        "Ward Name": "BEGUMPUR",
+        "ac_no": 7,
+        "reservation": "GEN",
+        "totalPS": 76,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JAI BHAGWAN YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15575
+            },
+            {
+                "Candidate": "DHARMENDER KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13507
+            }
+        ]
+    },
+    {
+        "Ward No": "28",
+        "Ward Name": "SHAHBAAD DAIRY",
+        "ac_no": 7,
+        "reservation": "SC",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAM CHANDER",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10155
+            },
+            {
+                "Candidate": "SANTOSH KUMAR BHARTI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7023
+            }
+        ]
+    },
+    {
+        "Ward No": "29",
+        "Ward Name": "POOTH KHURD",
+        "ac_no": 7,
+        "reservation": "WOMEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANJU DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13016
+            },
+            {
+                "Candidate": "UMINDERA DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11522
+            }
+        ]
+    },
+    {
+        "Ward No": "30",
+        "Ward Name": "BAWANA",
+        "ac_no": 7,
+        "reservation": "GEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PAWAN KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10654
+            },
+            {
+                "Candidate": "BRAHAM PRAKASH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9930
+            }
+        ]
+    },
+    {
+        "Ward No": "31",
+        "Ward Name": "NANGAL THAKRAN",
+        "ac_no": 7,
+        "reservation": "WOMEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BABITA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11661
+            },
+            {
+                "Candidate": "MANISHA SHOKEEN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9506
+            }
+        ]
+    },
+    {
+        "Ward No": "32",
+        "Ward Name": "KANJHAWALA",
+        "ac_no": 8,
+        "reservation": "GEN",
+        "totalPS": 39,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SANDEEP",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8532
+            },
+            {
+                "Candidate": "RAVINDER",
+                "Party": "INDEPENDENT",
+                "Total Votes": 6506
+            }
+        ]
+    },
+    {
+        "Ward No": "33",
+        "Ward Name": "RANI KHERA",
+        "ac_no": 8,
+        "reservation": "WOMEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANISHA JASBIR KARALA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18366
+            },
+            {
+                "Candidate": "SUSHILA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 16012
+            }
+        ]
+    },
+    {
+        "Ward No": "34",
+        "Ward Name": "NANGLOI",
+        "ac_no": 8,
+        "reservation": "SC-WOMEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "HEMLATA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13644
+            },
+            {
+                "Candidate": "BABITA KUMARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10544
+            }
+        ]
+    },
+    {
+        "Ward No": "35",
+        "Ward Name": "MUNDKA",
+        "ac_no": 8,
+        "reservation": "GEN",
+        "totalPS": 46,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GAJENDER SINGH DARAL",
+                "Party": "INDEPENDENT",
+                "Total Votes": 15492
+            },
+            {
+                "Candidate": "ANIL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6144
+            }
+        ]
+    },
+    {
+        "Ward No": "36",
+        "Ward Name": "NILOTHI",
+        "ac_no": 8,
+        "reservation": "WOMEN",
+        "totalPS": 70,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BABINA SHOKEEN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14658
+            },
+            {
+                "Candidate": "KULJEET KAUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9532
+            }
+        ]
+    },
+    {
+        "Ward No": "37",
+        "Ward Name": "KIRARI",
+        "ac_no": 9,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAMESH CHAND",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11087
+            },
+            {
+                "Candidate": "URMILA CHOUDHARY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6355
+            }
+        ]
+    },
+    {
+        "Ward No": "38",
+        "Ward Name": "PREM NAGAR",
+        "ac_no": 9,
+        "reservation": "WOMEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEELA KUMARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14537
+            },
+            {
+                "Candidate": "MUNNI DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10012
+            }
+        ]
+    },
+    {
+        "Ward No": "39",
+        "Ward Name": "MUBARIKPUR",
+        "ac_no": 9,
+        "reservation": "GEN",
+        "totalPS": 64,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJESH KUMAR GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16832
+            },
+            {
+                "Candidate": "RAMDAYAL MAHTO",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13757
+            }
+        ]
+    },
+    {
+        "Ward No": "40",
+        "Ward Name": "NITHARI",
+        "ac_no": 9,
+        "reservation": "WOMEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MAMTA GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11299
+            },
+            {
+                "Candidate": "SONA CHOUDHRY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10524
+            }
+        ]
+    },
+    {
+        "Ward No": "41",
+        "Ward Name": "AMAN VIHAR",
+        "ac_no": 9,
+        "reservation": "GEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAVINDER BHARDWAJ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12196
+            },
+            {
+                "Candidate": "NARENDER KUMAR MANRAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11474
+            }
+        ]
+    },
+    {
+        "Ward No": "42",
+        "Ward Name": "MANGOL PURI",
+        "ac_no": 10,
+        "reservation": "SC",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJESH KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12320
+            },
+            {
+                "Candidate": "SHASHI KAPOOR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10055
+            }
+        ]
+    },
+    {
+        "Ward No": "43",
+        "Ward Name": "SULTANPURI-A",
+        "ac_no": 10,
+        "reservation": "SC-WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BOBI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14821
+            },
+            {
+                "Candidate": "VARUNA DHAKA",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 8107
+            }
+        ]
+    },
+    {
+        "Ward No": "44",
+        "Ward Name": "SULTANPURI-B",
+        "ac_no": 10,
+        "reservation": "SC",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DAULAT",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15760
+            },
+            {
+                "Candidate": "HUKUM SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10997
+            }
+        ]
+    },
+    {
+        "Ward No": "45",
+        "Ward Name": "JAWALAPURI",
+        "ac_no": 11,
+        "reservation": "SC-WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SANTOSH DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13263
+            },
+            {
+                "Candidate": "BIMLA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10360
+            }
+        ]
+    },
+    {
+        "Ward No": "46",
+        "Ward Name": "NANGLOI JAT",
+        "ac_no": 11,
+        "reservation": "WOMEN",
+        "totalPS": 67,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "POONAM SAINI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12168
+            },
+            {
+                "Candidate": "VIJAY LAXMI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10614
+            }
+        ]
+    },
+    {
+        "Ward No": "47",
+        "Ward Name": "NIHAL VIHAR",
+        "ac_no": 11,
+        "reservation": "GEN",
+        "totalPS": 65,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANDEEP SINGH",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 12747
+            },
+            {
+                "Candidate": "ASHOK BHARDWAJ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12181
+            }
+        ]
+    },
+    {
+        "Ward No": "48",
+        "Ward Name": "GURU HARKISHAN NAGAR",
+        "ac_no": 11,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MONIKA GOYAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10694
+            },
+            {
+                "Candidate": "SHAVETA KHERA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10319
+            }
+        ]
+    },
+    {
+        "Ward No": "49",
+        "Ward Name": "MANGOLPURI-A",
+        "ac_no": 12,
+        "reservation": "SC",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DHARAM RAKSHAK",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15171
+            },
+            {
+                "Candidate": "ASHOK KUMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11700
+            }
+        ]
+    },
+    {
+        "Ward No": "50",
+        "Ward Name": "MANGOLPURI-B",
+        "ac_no": 12,
+        "reservation": "SC-WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUMAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16400
+            },
+            {
+                "Candidate": "RAJESHWARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9703
+            }
+        ]
+    },
+    {
+        "Ward No": "51",
+        "Ward Name": "ROHINI-C",
+        "ac_no": 12,
+        "reservation": "GEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DHARAMBIR SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11969
+            },
+            {
+                "Candidate": "ANIL MITTAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11246
+            }
+        ]
+    },
+    {
+        "Ward No": "52",
+        "Ward Name": "ROHINI-F",
+        "ac_no": 13,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RITU GOEL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 17302
+            },
+            {
+                "Candidate": "REKHA GOEL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10021
+            }
+        ]
+    },
+    {
+        "Ward No": "53",
+        "Ward Name": "ROHINI-E",
+        "ac_no": 13,
+        "reservation": "GEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRAVESH WAHI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15881
+            },
+            {
+                "Candidate": "KULDIP MITTAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7846
+            }
+        ]
+    },
+    {
+        "Ward No": "54",
+        "Ward Name": "ROHINI-D",
+        "ac_no": 13,
+        "reservation": "WOMEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SMITA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15584
+            },
+            {
+                "Candidate": "ANUPRIYA ABHINAV MISHRA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13696
+            }
+        ]
+    },
+    {
+        "Ward No": "55",
+        "Ward Name": "SHALIMAR BAGH-A",
+        "ac_no": 14,
+        "reservation": "GEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JALAJ KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11553
+            },
+            {
+                "Candidate": "SUJEET THAKUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8768
+            }
+        ]
+    },
+    {
+        "Ward No": "56",
+        "Ward Name": "SHALIMAR BAGH-B",
+        "ac_no": 14,
+        "reservation": "WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "REKHA GUPTA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 19447
+            },
+            {
+                "Candidate": "ISHUPREET KAUR GUJRAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11457
+            }
+        ]
+    },
+    {
+        "Ward No": "57",
+        "Ward Name": "PITAM PURA",
+        "ac_no": 14,
+        "reservation": "GEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AMIT NAGPAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 17191
+            },
+            {
+                "Candidate": "SANJU JAIN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13366
+            }
+        ]
+    },
+    {
+        "Ward No": "58",
+        "Ward Name": "SARASWATI VIHAR",
+        "ac_no": 15,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHIKHA BHARDWAJ",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13167
+            },
+            {
+                "Candidate": "URMILA GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10017
+            }
+        ]
+    },
+    {
+        "Ward No": "59",
+        "Ward Name": "PASCHIM VIHAR",
+        "ac_no": 15,
+        "reservation": "GEN",
+        "totalPS": 47,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "VINEET VOHRA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12199
+            },
+            {
+                "Candidate": "SHALU DUGGAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10155
+            }
+        ]
+    },
+    {
+        "Ward No": "60",
+        "Ward Name": "RANI BAGH",
+        "ac_no": 15,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JYOTI AGGARWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10346
+            },
+            {
+                "Candidate": "MITHLESH PATHAK",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8959
+            }
+        ]
+    },
+    {
+        "Ward No": "61",
+        "Ward Name": "KOHAT ENCLAVE",
+        "ac_no": 16,
+        "reservation": "GEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AJAY RAVI HANS",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15195
+            },
+            {
+                "Candidate": "N RAJA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10549
+            }
+        ]
+    },
+    {
+        "Ward No": "62",
+        "Ward Name": "SHAKUR PUR",
+        "ac_no": 16,
+        "reservation": "SC",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KISHAN LAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12265
+            },
+            {
+                "Candidate": "ASHOK KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12161
+            }
+        ]
+    },
+    {
+        "Ward No": "63",
+        "Ward Name": "TRI NAGAR",
+        "ac_no": 16,
+        "reservation": "WOMEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MEENU GOEL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13900
+            },
+            {
+                "Candidate": "NEETU YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8597
+            }
+        ]
+    },
+    {
+        "Ward No": "64",
+        "Ward Name": "KESHAV PURAM",
+        "ac_no": 17,
+        "reservation": "GEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "YOGESH VERMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12200
+            },
+            {
+                "Candidate": "VIKAS GOEL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9804
+            }
+        ]
+    },
+    {
+        "Ward No": "65",
+        "Ward Name": "ASHOK VIHAR",
+        "ac_no": 17,
+        "reservation": "WOMEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "POONAM SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9995
+            },
+            {
+                "Candidate": "REETA KHARI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9839
+            }
+        ]
+    },
+    {
+        "Ward No": "66",
+        "Ward Name": "WAZIR PUR",
+        "ac_no": 17,
+        "reservation": "SC-WOMEN",
+        "totalPS": 68,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "CHITRA VIDYARTHI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15987
+            },
+            {
+                "Candidate": "SONIA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13291
+            }
+        ]
+    },
+    {
+        "Ward No": "67",
+        "Ward Name": "SANGAM PARK",
+        "ac_no": 18,
+        "reservation": "SC",
+        "totalPS": 41,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUSHIL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7039
+            },
+            {
+                "Candidate": "RAVI SHANKAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6809
+            }
+        ]
+    },
+    {
+        "Ward No": "68",
+        "Ward Name": "MODEL TOWN",
+        "ac_no": 18,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "VIKESH SETHI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13896
+            },
+            {
+                "Candidate": "NATHU RAM NAGAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12069
+            }
+        ]
+    },
+    {
+        "Ward No": "69",
+        "Ward Name": "KAMLA NAGAR",
+        "ac_no": 18,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RENU AGGARWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14144
+            },
+            {
+                "Candidate": "KIRAN GUPTA SETHI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9795
+            }
+        ]
+    },
+    {
+        "Ward No": "70",
+        "Ward Name": "SHASTRI NAGAR",
+        "ac_no": 19,
+        "reservation": "GEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANOJ KUMAR JINDAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 23413
+            },
+            {
+                "Candidate": "BABITA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11204
+            }
+        ]
+    },
+    {
+        "Ward No": "71",
+        "Ward Name": "KISHAN GANJ",
+        "ac_no": 19,
+        "reservation": "SC-WOMEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "POOJA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13728
+            },
+            {
+                "Candidate": "GEETA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10256
+            }
+        ]
+    },
+    {
+        "Ward No": "72",
+        "Ward Name": "SADAR BAZAR",
+        "ac_no": 19,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "USHA SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13770
+            },
+            {
+                "Candidate": "PINKI JAIN",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9037
+            }
+        ]
+    },
+    {
+        "Ward No": "73",
+        "Ward Name": "CIVIL LINES",
+        "ac_no": 20,
+        "reservation": "SC",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "VIKAS",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12498
+            },
+            {
+                "Candidate": "AVTAR SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 5545
+            }
+        ]
+    },
+    {
+        "Ward No": "74",
+        "Ward Name": "CHANDNI CHOWK",
+        "ac_no": 20,
+        "reservation": "GEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PUNARDEEP SINGH SAWHNEY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8774
+            },
+            {
+                "Candidate": "RAVINDER KUMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7558
+            }
+        ]
+    },
+    {
+        "Ward No": "75",
+        "Ward Name": "JAMA MASJID",
+        "ac_no": 20,
+        "reservation": "WOMEN",
+        "totalPS": 34,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SULTANA ABAD",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11216
+            },
+            {
+                "Candidate": "SHAHIN PARVEEN",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 3793
+            }
+        ]
+    },
+    {
+        "Ward No": "76",
+        "Ward Name": "CHANDANI MAHAL",
+        "ac_no": 21,
+        "reservation": "GEN",
+        "totalPS": 40,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AALEY MOHAMMED IQBAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 19199
+            },
+            {
+                "Candidate": "MOHD HAMID",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 2065
+            }
+        ]
+    },
+    {
+        "Ward No": "77",
+        "Ward Name": "DELHI GATE",
+        "ac_no": 21,
+        "reservation": "SC-WOMEN",
+        "totalPS": 47,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KIRAN BALA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8866
+            },
+            {
+                "Candidate": "DEEPTI INDORA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7075
+            }
+        ]
+    },
+    {
+        "Ward No": "78",
+        "Ward Name": "BAZAR SITA RAM",
+        "ac_no": 21,
+        "reservation": "WOMEN",
+        "totalPS": 44,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAFIA MAHIR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16639
+            },
+            {
+                "Candidate": "SEEMA TAHIRA",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 3753
+            }
+        ]
+    },
+    {
+        "Ward No": "79",
+        "Ward Name": "BALLIMARAN",
+        "ac_no": 22,
+        "reservation": "GEN",
+        "totalPS": 46,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MOHD SADIQ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15773
+            },
+            {
+                "Candidate": "RAM DEV SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 4147
+            }
+        ]
+    },
+    {
+        "Ward No": "80",
+        "Ward Name": "RAM NAGAR",
+        "ac_no": 22,
+        "reservation": "SC",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KAMAL BAGRI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12589
+            },
+            {
+                "Candidate": "DHARMENDER KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10255
+            }
+        ]
+    },
+    {
+        "Ward No": "81",
+        "Ward Name": "QURAISH NAGAR",
+        "ac_no": 22,
+        "reservation": "WOMEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHAMIM BANO",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14583
+            },
+            {
+                "Candidate": "SAMINA RAZA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6643
+            }
+        ]
+    },
+    {
+        "Ward No": "82",
+        "Ward Name": "PAHAR GANJ",
+        "ac_no": 23,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANISH CHADDA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14242
+            },
+            {
+                "Candidate": "AMAR NATH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11183
+            }
+        ]
+    },
+    {
+        "Ward No": "83",
+        "Ward Name": "KAROL BAGH",
+        "ac_no": 23,
+        "reservation": "SC-WOMEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "URMILA DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15108
+            },
+            {
+                "Candidate": "USHA LAWARIA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9111
+            }
+        ]
+    },
+    {
+        "Ward No": "84",
+        "Ward Name": "DEV NAGAR",
+        "ac_no": 23,
+        "reservation": "SC",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MAHESH KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17253
+            },
+            {
+                "Candidate": "GHAN SHYAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10508
+            }
+        ]
+    },
+    {
+        "Ward No": "85",
+        "Ward Name": "WEST PATEL NAGAR",
+        "ac_no": 24,
+        "reservation": "SC-WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KAVITA CHAUHAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15782
+            },
+            {
+                "Candidate": "MEENU",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10466
+            }
+        ]
+    },
+    {
+        "Ward No": "86",
+        "Ward Name": "EAST PATEL NAGAR",
+        "ac_no": 24,
+        "reservation": "WOMEN",
+        "totalPS": 46,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHELLY OBEROI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9987
+            },
+            {
+                "Candidate": "DEEPALI KAPOOR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9718
+            }
+        ]
+    },
+    {
+        "Ward No": "87",
+        "Ward Name": "RANJEET NAGAR",
+        "ac_no": 24,
+        "reservation": "GEN",
+        "totalPS": 46,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANKUSH NARANG",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14757
+            },
+            {
+                "Candidate": "TEJ RAM PHORE",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7992
+            }
+        ]
+    },
+    {
+        "Ward No": "88",
+        "Ward Name": "BALJEET NAGAR",
+        "ac_no": 24,
+        "reservation": "WOMEN",
+        "totalPS": 42,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RUNAKSHI SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10652
+            },
+            {
+                "Candidate": "AYUSHI TIWARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7061
+            }
+        ]
+    },
+    {
+        "Ward No": "89",
+        "Ward Name": "KARAM PURA",
+        "ac_no": 25,
+        "reservation": "GEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAKESH JOSHI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15840
+            },
+            {
+                "Candidate": "RAJEEV GIROTRA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13074
+            }
+        ]
+    },
+    {
+        "Ward No": "90",
+        "Ward Name": "MOTI NAGAR",
+        "ac_no": 25,
+        "reservation": "WOMEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ALKA DHINGRA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12644
+            },
+            {
+                "Candidate": "RITU MADAN",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11980
+            }
+        ]
+    },
+    {
+        "Ward No": "91",
+        "Ward Name": "RAMESH NAGAR",
+        "ac_no": 25,
+        "reservation": "GEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PUNEET RAI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10115
+            },
+            {
+                "Candidate": "PRADEEP KUMAR TIWARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9592
+            }
+        ]
+    },
+    {
+        "Ward No": "92",
+        "Ward Name": "PUNJABI BAGH",
+        "ac_no": 26,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUMAN TYAGI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13497
+            },
+            {
+                "Candidate": "SULOCHANA DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11624
+            }
+        ]
+    },
+    {
+        "Ward No": "93",
+        "Ward Name": "MADIPUR",
+        "ac_no": 26,
+        "reservation": "SC",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SAHIL GANGWAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10354
+            },
+            {
+                "Candidate": "SANT PARKASH GANGWAL",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 9729
+            }
+        ]
+    },
+    {
+        "Ward No": "94",
+        "Ward Name": "RAGHUBIR NAGAR",
+        "ac_no": 26,
+        "reservation": "SC-WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "URMILA GANGWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13911
+            },
+            {
+                "Candidate": "PRATIMA ANAND",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13765
+            }
+        ]
+    },
+    {
+        "Ward No": "95",
+        "Ward Name": "VISHNU GARDEN",
+        "ac_no": 27,
+        "reservation": "GEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MEENAKSHI CHANDELA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13791
+            },
+            {
+                "Candidate": "SANJAY YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9784
+            }
+        ]
+    },
+    {
+        "Ward No": "96",
+        "Ward Name": "RAJOURI GARDEN",
+        "ac_no": 27,
+        "reservation": "WOMEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHASHI TALWAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13281
+            },
+            {
+                "Candidate": "A PRIYA CHANDELA A",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11362
+            }
+        ]
+    },
+    {
+        "Ward No": "97",
+        "Ward Name": "CHAUKHANDI NAGAR",
+        "ac_no": 27,
+        "reservation": "GEN",
+        "totalPS": 47,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUNIL KUMAR CHADHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11780
+            },
+            {
+                "Candidate": "SUMAN KHARWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8439
+            }
+        ]
+    },
+    {
+        "Ward No": "98",
+        "Ward Name": "SUBHASH NAGAR",
+        "ac_no": 28,
+        "reservation": "WOMEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANJU SETIA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14609
+            },
+            {
+                "Candidate": "REKHA SAHNI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10200
+            }
+        ]
+    },
+    {
+        "Ward No": "99",
+        "Ward Name": "HARI NAGAR",
+        "ac_no": 28,
+        "reservation": "GEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJESH KUMAR LADI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15424
+            },
+            {
+                "Candidate": "SHYAM SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13535
+            }
+        ]
+    },
+    {
+        "Ward No": "100",
+        "Ward Name": "FATEH NAGAR",
+        "ac_no": 28,
+        "reservation": "WOMEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAMINDER KAUR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11233
+            },
+            {
+                "Candidate": "INDER JIT KAUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10389
+            }
+        ]
+    },
+    {
+        "Ward No": "101",
+        "Ward Name": "TILAK NAGAR",
+        "ac_no": 29,
+        "reservation": "GEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ASHOK KUMAR MAANU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11080
+            },
+            {
+                "Candidate": "RAJ KUMAR GROVER",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9046
+            }
+        ]
+    },
+    {
+        "Ward No": "102",
+        "Ward Name": "KHYALA",
+        "ac_no": 29,
+        "reservation": "WOMEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHILPA KAUR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15562
+            },
+            {
+                "Candidate": "PARAMJEET KAUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7084
+            }
+        ]
+    },
+    {
+        "Ward No": "103",
+        "Ward Name": "KESHOPUR",
+        "ac_no": 29,
+        "reservation": "GEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "HARISH OBEROI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12092
+            },
+            {
+                "Candidate": "SACHIN TYAGI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11916
+            }
+        ]
+    },
+    {
+        "Ward No": "104",
+        "Ward Name": "JANAK PURI SOUTH",
+        "ac_no": 30,
+        "reservation": "WOMEN",
+        "totalPS": 68,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DIMPLE AHUJA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14408
+            },
+            {
+                "Candidate": "AKRITI KAUR THAPAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12984
+            }
+        ]
+    },
+    {
+        "Ward No": "105",
+        "Ward Name": "MAHAVEER ENCLAVE",
+        "ac_no": 30,
+        "reservation": "GEN",
+        "totalPS": 72,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PARVEEN KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18752
+            },
+            {
+                "Candidate": "AJIT SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15890
+            }
+        ]
+    },
+    {
+        "Ward No": "106",
+        "Ward Name": "JANAK PURI WEST",
+        "ac_no": 30,
+        "reservation": "WOMEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "URMILA CHAWLA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12994
+            },
+            {
+                "Candidate": "GEETU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11411
+            }
+        ]
+    },
+    {
+        "Ward No": "107",
+        "Ward Name": "VIKAS PURI",
+        "ac_no": 31,
+        "reservation": "GEN",
+        "totalPS": 69,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SAHIB KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17902
+            },
+            {
+                "Candidate": "SUNIL JINDAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12560
+            }
+        ]
+    },
+    {
+        "Ward No": "108",
+        "Ward Name": "HASTSAL",
+        "ac_no": 31,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAKHI YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15319
+            },
+            {
+                "Candidate": "SUMAN SINGHAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12533
+            }
+        ]
+    },
+    {
+        "Ward No": "109",
+        "Ward Name": "VIKAS NAGAR",
+        "ac_no": 31,
+        "reservation": "GEN",
+        "totalPS": 72,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ASHOK PANDEY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18527
+            },
+            {
+                "Candidate": "PANKAJ KUMAR SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14919
+            }
+        ]
+    },
+    {
+        "Ward No": "110",
+        "Ward Name": "KUNWAR SINGH NAGAR",
+        "ac_no": 31,
+        "reservation": "WOMEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJ BALA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10058
+            },
+            {
+                "Candidate": "KRISHNA",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 8889
+            }
+        ]
+    },
+    {
+        "Ward No": "111",
+        "Ward Name": "BAPROLA",
+        "ac_no": 31,
+        "reservation": "GEN",
+        "totalPS": 71,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAVINDER",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13099
+            },
+            {
+                "Candidate": "SATPAL SOLANKI",
+                "Party": "INDEPENDENT",
+                "Total Votes": 12172
+            }
+        ]
+    },
+    {
+        "Ward No": "112",
+        "Ward Name": "SAINIK ENCLAVE",
+        "ac_no": 31,
+        "reservation": "WOMEN",
+        "totalPS": 72,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NIRMALA KUMARI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 20193
+            },
+            {
+                "Candidate": "REETA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14001
+            }
+        ]
+    },
+    {
+        "Ward No": "113",
+        "Ward Name": "MOHAN GARDEN",
+        "ac_no": 32,
+        "reservation": "GEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SURENDER KAUSHIK",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13420
+            },
+            {
+                "Candidate": "SHYAM KUMAR MISHRA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10138
+            }
+        ]
+    },
+    {
+        "Ward No": "114",
+        "Ward Name": "NAWADA",
+        "ac_no": 32,
+        "reservation": "WOMEN",
+        "totalPS": 86,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NIRMLA DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 23173
+            },
+            {
+                "Candidate": "RINKU",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 22652
+            }
+        ]
+    },
+    {
+        "Ward No": "115",
+        "Ward Name": "UTTAM NAGAR",
+        "ac_no": 32,
+        "reservation": "GEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DEEPAK VOHRA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16846
+            },
+            {
+                "Candidate": "RAJESH AGGARWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14846
+            }
+        ]
+    },
+    {
+        "Ward No": "116",
+        "Ward Name": "BINDA PUR",
+        "ac_no": 32,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KRISHNA DEVI RAGHAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16620
+            },
+            {
+                "Candidate": "SUDHA SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10983
+            }
+        ]
+    },
+    {
+        "Ward No": "117",
+        "Ward Name": "DABRI",
+        "ac_no": 33,
+        "reservation": "GEN",
+        "totalPS": 64,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "TILOTMA CHOUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16601
+            },
+            {
+                "Candidate": "VINAY KUMAR CHAUHAN",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14891
+            }
+        ]
+    },
+    {
+        "Ward No": "118",
+        "Ward Name": "SAGARPUR",
+        "ac_no": 33,
+        "reservation": "WOMEN",
+        "totalPS": 70,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SIMMI YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16217
+            },
+            {
+                "Candidate": "POONAM JINDAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14273
+            }
+        ]
+    },
+    {
+        "Ward No": "119",
+        "Ward Name": "MANGLAPURI",
+        "ac_no": 33,
+        "reservation": "GEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NARENDER KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18400
+            },
+            {
+                "Candidate": "VIJAY VEER SOLANKI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11220
+            }
+        ]
+    },
+    {
+        "Ward No": "120",
+        "Ward Name": "DWARKA-B",
+        "ac_no": 34,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KAMALJEET SEHRAWAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14782
+            },
+            {
+                "Candidate": "SUDHA SINHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7905
+            }
+        ]
+    },
+    {
+        "Ward No": "121",
+        "Ward Name": "DWARKA-A",
+        "ac_no": 34,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAM NIWAS",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13214
+            },
+            {
+                "Candidate": "SHALINI SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11459
+            }
+        ]
+    },
+    {
+        "Ward No": "122",
+        "Ward Name": "MATIALA",
+        "ac_no": 34,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANURADHA SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15500
+            },
+            {
+                "Candidate": "RAJNESH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14297
+            }
+        ]
+    },
+    {
+        "Ward No": "123",
+        "Ward Name": "KAKROLA",
+        "ac_no": 34,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUDESH KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17815
+            },
+            {
+                "Candidate": "PAWAN TOMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11671
+            }
+        ]
+    },
+    {
+        "Ward No": "124",
+        "Ward Name": "NANGLI SAKRAWATI",
+        "ac_no": 34,
+        "reservation": "WOMEN",
+        "totalPS": 76,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SAVITA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 20717
+            },
+            {
+                "Candidate": "GEETU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18369
+            }
+        ]
+    },
+    {
+        "Ward No": "125",
+        "Ward Name": "CHHAWALA",
+        "ac_no": 34,
+        "reservation": "GEN",
+        "totalPS": 68,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHASHI YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15246
+            },
+            {
+                "Candidate": "JAGDISH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10729
+            }
+        ]
+    },
+    {
+        "Ward No": "126",
+        "Ward Name": "ISAPUR",
+        "ac_no": 35,
+        "reservation": "WOMEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MEENA DEVI",
+                "Party": "INDEPENDENT",
+                "Total Votes": 12782
+            },
+            {
+                "Candidate": "PINKI TAXAT",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10612
+            }
+        ]
+    },
+    {
+        "Ward No": "127",
+        "Ward Name": "NAJAFGARH",
+        "ac_no": 35,
+        "reservation": "GEN",
+        "totalPS": 70,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AMIT KHARKHARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13998
+            },
+            {
+                "Candidate": "RAJVIR SINGH DABAS",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12954
+            }
+        ]
+    },
+    {
+        "Ward No": "128",
+        "Ward Name": "DICHAON KALAN",
+        "ac_no": 35,
+        "reservation": "WOMEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEELAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 22280
+            },
+            {
+                "Candidate": "ANITA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11833
+            }
+        ]
+    },
+    {
+        "Ward No": "129",
+        "Ward Name": "ROSHAN PURA",
+        "ac_no": 35,
+        "reservation": "GEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DEVENDER",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 16457
+            },
+            {
+                "Candidate": "DR SANJAY PARASHAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15237
+            }
+        ]
+    },
+    {
+        "Ward No": "130",
+        "Ward Name": "DWARKA-C",
+        "ac_no": 36,
+        "reservation": "WOMEN",
+        "totalPS": 30,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUNITA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6200
+            },
+            {
+                "Candidate": "SUSHMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 5629
+            }
+        ]
+    },
+    {
+        "Ward No": "131",
+        "Ward Name": "BIJWASAN",
+        "ac_no": 36,
+        "reservation": "GEN",
+        "totalPS": 37,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JAIVIR SINGH RANA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10571
+            },
+            {
+                "Candidate": "NARENDER RANA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8719
+            }
+        ]
+    },
+    {
+        "Ward No": "132",
+        "Ward Name": "KAPASHERA",
+        "ac_no": 36,
+        "reservation": "WOMEN",
+        "totalPS": 18,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AARTI YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 4586
+            },
+            {
+                "Candidate": "SUNITA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 3102
+            }
+        ]
+    },
+    {
+        "Ward No": "133",
+        "Ward Name": "MAHIPALPUR",
+        "ac_no": 36,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "INDERJEET SEHRAWAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8427
+            },
+            {
+                "Candidate": "JOGINDER SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8156
+            }
+        ]
+    },
+    {
+        "Ward No": "134",
+        "Ward Name": "RAJ NAGAR",
+        "ac_no": 36,
+        "reservation": "WOMEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "POONAM BHARDWAJ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16880
+            },
+            {
+                "Candidate": "ARUNA RAWAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11432
+            }
+        ]
+    },
+    {
+        "Ward No": "135",
+        "Ward Name": "PALAM",
+        "ac_no": 37,
+        "reservation": "GEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SEEMA PANDIT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11164
+            },
+            {
+                "Candidate": "VISHNU SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10779
+            }
+        ]
+    },
+    {
+        "Ward No": "136",
+        "Ward Name": "MADHU VIHAR",
+        "ac_no": 37,
+        "reservation": "WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUSHMA RATHEE",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 19836
+            },
+            {
+                "Candidate": "NEHA GOSWAMI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14401
+            }
+        ]
+    },
+    {
+        "Ward No": "137",
+        "Ward Name": "MAHAVIR ENCLAVE",
+        "ac_no": 37,
+        "reservation": "GEN",
+        "totalPS": 77,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "AJAY KUMAR RAI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12780
+            },
+            {
+                "Candidate": "RAJ KUMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11438
+            }
+        ]
+    },
+    {
+        "Ward No": "138",
+        "Ward Name": "SADH NAGAR",
+        "ac_no": 37,
+        "reservation": "WOMEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "INDER KAUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13485
+            },
+            {
+                "Candidate": "SANGEETA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11820
+            }
+        ]
+    },
+    {
+        "Ward No": "139",
+        "Ward Name": "NARAINA",
+        "ac_no": 39,
+        "reservation": "GEN",
+        "totalPS": 65,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "UMANG BAJAJ",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14246
+            },
+            {
+                "Candidate": "VIJENDER GARG",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10506
+            }
+        ]
+    },
+    {
+        "Ward No": "140",
+        "Ward Name": "INDER PURI",
+        "ac_no": 39,
+        "reservation": "SC",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JYOTI GAUTAM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12404
+            },
+            {
+                "Candidate": "MOHAN LAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7691
+            }
+        ]
+    },
+    {
+        "Ward No": "141",
+        "Ward Name": "RAJINDER NAGAR",
+        "ac_no": 39,
+        "reservation": "WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ARTI CHAWLA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11016
+            },
+            {
+                "Candidate": "MANIKA NISCHAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9629
+            }
+        ]
+    },
+    {
+        "Ward No": "142",
+        "Ward Name": "DARYAGANJ",
+        "ac_no": 41,
+        "reservation": "GEN",
+        "totalPS": 39,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SARIKA CHAUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6700
+            },
+            {
+                "Candidate": "FARHAD SURI",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 6456
+            }
+        ]
+    },
+    {
+        "Ward No": "143",
+        "Ward Name": "SIDHARTHA NAGAR",
+        "ac_no": 41,
+        "reservation": "WOMEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SONALI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8608
+            },
+            {
+                "Candidate": "NEETU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8097
+            }
+        ]
+    },
+    {
+        "Ward No": "144",
+        "Ward Name": "LAJPAT NAGAR",
+        "ac_no": 41,
+        "reservation": "GEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KUWAR ARJUN PAL SINGH MARWAH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12728
+            },
+            {
+                "Candidate": "SUBASH MALHOTRA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9900
+            }
+        ]
+    },
+    {
+        "Ward No": "145",
+        "Ward Name": "ANDREWS GANJ",
+        "ac_no": 42,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANITA BAISOYA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6988
+            },
+            {
+                "Candidate": "PREETI BIDHURI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6052
+            }
+        ]
+    },
+    {
+        "Ward No": "146",
+        "Ward Name": "AMAR COLONY",
+        "ac_no": 42,
+        "reservation": "GEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHARAD KAPOOR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10383
+            },
+            {
+                "Candidate": "JITENDER KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9112
+            }
+        ]
+    },
+    {
+        "Ward No": "147",
+        "Ward Name": "KOTLA MUBARAKPUR",
+        "ac_no": 42,
+        "reservation": "WOMEN",
+        "totalPS": 44,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KUSUM LATA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12355
+            },
+            {
+                "Candidate": "RINKU MITTAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7805
+            }
+        ]
+    },
+    {
+        "Ward No": "148",
+        "Ward Name": "HAUZ KHAS",
+        "ac_no": 43,
+        "reservation": "GEN",
+        "totalPS": 44,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KAMAL BHARDWAJ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7913
+            },
+            {
+                "Candidate": "SUMITRA DAHIYA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6640
+            }
+        ]
+    },
+    {
+        "Ward No": "149",
+        "Ward Name": "MALVIYA NAGAR",
+        "ac_no": 43,
+        "reservation": "WOMEN",
+        "totalPS": 58,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "LEENA KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13773
+            },
+            {
+                "Candidate": "NANDANI SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10143
+            }
+        ]
+    },
+    {
+        "Ward No": "150",
+        "Ward Name": "GREEN PARK",
+        "ac_no": 43,
+        "reservation": "GEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SARITA PHOGAAT",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9269
+            },
+            {
+                "Candidate": "MANOJ GUPTA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7640
+            }
+        ]
+    },
+    {
+        "Ward No": "151",
+        "Ward Name": "MUNIRKA",
+        "ac_no": 44,
+        "reservation": "WOMEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJ BALA TOKAS",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10191
+            },
+            {
+                "Candidate": "RAMAA TOKAS",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9266
+            }
+        ]
+    },
+    {
+        "Ward No": "152",
+        "Ward Name": "R.K. PURAM",
+        "ac_no": 44,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DHARAMVIR SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8328
+            },
+            {
+                "Candidate": "TULSI JOSHI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 3738
+            }
+        ]
+    },
+    {
+        "Ward No": "153",
+        "Ward Name": "VASANT VIHAR",
+        "ac_no": 44,
+        "reservation": "WOMEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "HIMANI JAIN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10618
+            },
+            {
+                "Candidate": "RAJ RANI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8007
+            }
+        ]
+    },
+    {
+        "Ward No": "154",
+        "Ward Name": "LADO SARAI",
+        "ac_no": 45,
+        "reservation": "GEN",
+        "totalPS": 66,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJEEV SANSANWAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13385
+            },
+            {
+                "Candidate": "PRAVESH SEJWAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8429
+            }
+        ]
+    },
+    {
+        "Ward No": "155",
+        "Ward Name": "MEHRAULI",
+        "ac_no": 45,
+        "reservation": "WOMEN",
+        "totalPS": 71,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "REKHA MAHENDER CHAUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15317
+            },
+            {
+                "Candidate": "INDU SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14047
+            }
+        ]
+    },
+    {
+        "Ward No": "156",
+        "Ward Name": "VASANT KUNJ",
+        "ac_no": 45,
+        "reservation": "GEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JAG MOHAN MEHLAWAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8992
+            },
+            {
+                "Candidate": "AMARJEET",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8238
+            }
+        ]
+    },
+    {
+        "Ward No": "157",
+        "Ward Name": "AYA NAGAR",
+        "ac_no": 46,
+        "reservation": "WOMEN",
+        "totalPS": 41,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "VED PAL SHEETAL CHAUDHARY",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 10226
+            },
+            {
+                "Candidate": "HIMANI AMBAWTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8683
+            }
+        ]
+    },
+    {
+        "Ward No": "158",
+        "Ward Name": "BHATI",
+        "ac_no": 46,
+        "reservation": "GEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUNDER SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13456
+            },
+            {
+                "Candidate": "JOGINDER TANWAR",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 9385
+            }
+        ]
+    },
+    {
+        "Ward No": "159",
+        "Ward Name": "CHHATARPUR",
+        "ac_no": 46,
+        "reservation": "WOMEN",
+        "totalPS": 42,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PINKY TYAGI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16290
+            },
+            {
+                "Candidate": "SHIKHA TYAGI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7768
+            }
+        ]
+    },
+    {
+        "Ward No": "160",
+        "Ward Name": "SAID-UL-AJAIB",
+        "ac_no": 46,
+        "reservation": "GEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "UMED SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12168
+            },
+            {
+                "Candidate": "KAMAL YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10123
+            }
+        ]
+    },
+    {
+        "Ward No": "161",
+        "Ward Name": "DEOLI",
+        "ac_no": 47,
+        "reservation": "WOMEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANITA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 16147
+            },
+            {
+                "Candidate": "SNEH LATA FAUJI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15983
+            }
+        ]
+    },
+    {
+        "Ward No": "162",
+        "Ward Name": "TIGRI",
+        "ac_no": 47,
+        "reservation": "SC-WOMEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JYOTI PRAKASH JARWAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14971
+            },
+            {
+                "Candidate": "MEERA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8780
+            }
+        ]
+    },
+    {
+        "Ward No": "163",
+        "Ward Name": "SANGAM VIHAR-A",
+        "ac_no": 47,
+        "reservation": "GEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "CHANDAN KUMAR CHOUDHARY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9392
+            },
+            {
+                "Candidate": "NEERAJ YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9003
+            }
+        ]
+    },
+    {
+        "Ward No": "164",
+        "Ward Name": "DAKSHIN PURI",
+        "ac_no": 47,
+        "reservation": "SC",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PREM CHAUHAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16500
+            },
+            {
+                "Candidate": "RAJ KUMAR CHAUTALA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10412
+            }
+        ]
+    },
+    {
+        "Ward No": "165",
+        "Ward Name": "MADANGIR",
+        "ac_no": 48,
+        "reservation": "SC-WOMEN",
+        "totalPS": 38,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GEETA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13391
+            },
+            {
+                "Candidate": "MANISHA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6364
+            }
+        ]
+    },
+    {
+        "Ward No": "166",
+        "Ward Name": "PUSHP VIHAR",
+        "ac_no": 48,
+        "reservation": "SC",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ARUN NAVARIYA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13721
+            },
+            {
+                "Candidate": "NARESH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10114
+            }
+        ]
+    },
+    {
+        "Ward No": "167",
+        "Ward Name": "KHANPUR",
+        "ac_no": 48,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MAMTA YADAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13687
+            },
+            {
+                "Candidate": "SUMAN GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10926
+            }
+        ]
+    },
+    {
+        "Ward No": "168",
+        "Ward Name": "SANGAM VIHAR-C",
+        "ac_no": 49,
+        "reservation": "GEN",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PANKAJ GUPTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16568
+            },
+            {
+                "Candidate": "NEERAJ GUPTA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13135
+            }
+        ]
+    },
+    {
+        "Ward No": "169",
+        "Ward Name": "SANGAM VIHAR-B",
+        "ac_no": 49,
+        "reservation": "WOMEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KAJAL SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18856
+            },
+            {
+                "Candidate": "SAVITA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9676
+            }
+        ]
+    },
+    {
+        "Ward No": "170",
+        "Ward Name": "TUGHLAKABAD EXTENSION",
+        "ac_no": 49,
+        "reservation": "GEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BHAGBIR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17055
+            },
+            {
+                "Candidate": "POONAM BHATI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10904
+            }
+        ]
+    },
+    {
+        "Ward No": "171",
+        "Ward Name": "CHITARANJAN PARK",
+        "ac_no": 50,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ASHU THAKUR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10443
+            },
+            {
+                "Candidate": "KANCHAN CHOUDHARY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10399
+            }
+        ]
+    },
+    {
+        "Ward No": "172",
+        "Ward Name": "CHIRAG DELHI",
+        "ac_no": 50,
+        "reservation": "GEN",
+        "totalPS": 65,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "KRISHAN JAKHAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17768
+            },
+            {
+                "Candidate": "RAKESH KUMAR GULLAIYA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14052
+            }
+        ]
+    },
+    {
+        "Ward No": "173",
+        "Ward Name": "GREATER KAILASH",
+        "ac_no": 50,
+        "reservation": "WOMEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHIKHA ROY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9907
+            },
+            {
+                "Candidate": "AJIT KAUR PASRICHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7233
+            }
+        ]
+    },
+    {
+        "Ward No": "174",
+        "Ward Name": "SRI NIWAS PURI",
+        "ac_no": 51,
+        "reservation": "GEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJPAL SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12394
+            },
+            {
+                "Candidate": "INDU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10691
+            }
+        ]
+    },
+    {
+        "Ward No": "175",
+        "Ward Name": "KALKAJI",
+        "ac_no": 51,
+        "reservation": "WOMEN",
+        "totalPS": 39,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "YOGITA SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7792
+            },
+            {
+                "Candidate": "SHIVANI CHAUHAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6580
+            }
+        ]
+    },
+    {
+        "Ward No": "176",
+        "Ward Name": "GOVIND PURI",
+        "ac_no": 51,
+        "reservation": "GEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "CHANDER PRAKASH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 18929
+            },
+            {
+                "Candidate": "VIJAY KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16155
+            }
+        ]
+    },
+    {
+        "Ward No": "177",
+        "Ward Name": "HARKESH NAGAR",
+        "ac_no": 52,
+        "reservation": "SC-WOMEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MAMTA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17931
+            },
+            {
+                "Candidate": "MAMTA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6804
+            }
+        ]
+    },
+    {
+        "Ward No": "178",
+        "Ward Name": "TUGHLAKABAD",
+        "ac_no": 52,
+        "reservation": "WOMEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SUGANDHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12919
+            },
+            {
+                "Candidate": "PUSHPA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9885
+            }
+        ]
+    },
+    {
+        "Ward No": "179",
+        "Ward Name": "PUL PEHLADPUR",
+        "ac_no": 52,
+        "reservation": "SC",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAKESH LOHIA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17109
+            },
+            {
+                "Candidate": "MUNSI RAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13470
+            }
+        ]
+    },
+    {
+        "Ward No": "180",
+        "Ward Name": "BADARPUR",
+        "ac_no": 53,
+        "reservation": "SC-WOMEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANJU DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16674
+            },
+            {
+                "Candidate": "VEENA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9769
+            }
+        ]
+    },
+    {
+        "Ward No": "181",
+        "Ward Name": "MOLARBAND",
+        "ac_no": 53,
+        "reservation": "GEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "HEMCHAND GOEL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13206
+            },
+            {
+                "Candidate": "GAGAN KASANA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13079
+            }
+        ]
+    },
+    {
+        "Ward No": "182",
+        "Ward Name": "MEETHAPUR",
+        "ac_no": 53,
+        "reservation": "WOMEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "GUDDI DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11521
+            },
+            {
+                "Candidate": "REETA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9216
+            }
+        ]
+    },
+    {
+        "Ward No": "183",
+        "Ward Name": "HARI NAGAR EXTENSION",
+        "ac_no": 53,
+        "reservation": "GEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NIKHIL CHAPRANA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10634
+            },
+            {
+                "Candidate": "MOHIT CHOKAN",
+                "Party": "INDEPENDENT",
+                "Total Votes": 10169
+            }
+        ]
+    },
+    {
+        "Ward No": "184",
+        "Ward Name": "JAITPUR",
+        "ac_no": 53,
+        "reservation": "WOMEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "HEMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14080
+            },
+            {
+                "Candidate": "RACHNA MISHRA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10735
+            }
+        ]
+    },
+    {
+        "Ward No": "185",
+        "Ward Name": "MADANPUR KHADAR EAST",
+        "ac_no": 54,
+        "reservation": "SC",
+        "totalPS": 41,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRAVEEN KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11306
+            },
+            {
+                "Candidate": "LEKHRAJ SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10995
+            }
+        ]
+    },
+    {
+        "Ward No": "186",
+        "Ward Name": "MADANPUR KHADAR WEST",
+        "ac_no": 54,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BRAHAM SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12921
+            },
+            {
+                "Candidate": "HARINDER SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8795
+            }
+        ]
+    },
+    {
+        "Ward No": "187",
+        "Ward Name": "SARITA VIHAR",
+        "ac_no": 54,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEETU",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15493
+            },
+            {
+                "Candidate": "MUSKAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10788
+            }
+        ]
+    },
+    {
+        "Ward No": "188",
+        "Ward Name": "ABUL FAZAL ENCLAVE",
+        "ac_no": 54,
+        "reservation": "GEN",
+        "totalPS": 65,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ARIBA KHAN",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 16554
+            },
+            {
+                "Candidate": "WAJID KHAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15075
+            }
+        ]
+    },
+    {
+        "Ward No": "189",
+        "Ward Name": "ZAKIR NAGAR",
+        "ac_no": 54,
+        "reservation": "WOMEN",
+        "totalPS": 68,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NAZIYA DANISH",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 16878
+            },
+            {
+                "Candidate": "SALMA KHAN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16405
+            }
+        ]
+    },
+    {
+        "Ward No": "190",
+        "Ward Name": "NEW ASHOK NAGAR",
+        "ac_no": 55,
+        "reservation": "GEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SANJEEV KUMAR SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14558
+            },
+            {
+                "Candidate": "ANITA SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8294
+            }
+        ]
+    },
+    {
+        "Ward No": "191",
+        "Ward Name": "MAYUR VIHAR PHASE-I",
+        "ac_no": 55,
+        "reservation": "SC-WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BEENA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16157
+            },
+            {
+                "Candidate": "PREMA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13736
+            }
+        ]
+    },
+    {
+        "Ward No": "192",
+        "Ward Name": "TRILOKPURI",
+        "ac_no": 55,
+        "reservation": "SC",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "VIJAY KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16765
+            },
+            {
+                "Candidate": "SURENDER KUMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11759
+            }
+        ]
+    },
+    {
+        "Ward No": "193",
+        "Ward Name": "KONDLI",
+        "ac_no": 56,
+        "reservation": "WOMEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MUNESH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10834
+            },
+            {
+                "Candidate": "VINITA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8343
+            }
+        ]
+    },
+    {
+        "Ward No": "194",
+        "Ward Name": "GHAROLI",
+        "ac_no": 56,
+        "reservation": "SC-WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRIYANKA GAUTAM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15290
+            },
+            {
+                "Candidate": "SUNITA GAUTAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11457
+            }
+        ]
+    },
+    {
+        "Ward No": "195",
+        "Ward Name": "KALYANPURI",
+        "ac_no": 56,
+        "reservation": "SC",
+        "totalPS": 67,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DHIRENDER KUMAR BUNTY GAUTAM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 18370
+            },
+            {
+                "Candidate": "RAJ KUMAR DHILLO",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12909
+            }
+        ]
+    },
+    {
+        "Ward No": "196",
+        "Ward Name": "MAYUR VIHAR PHASE-II",
+        "ac_no": 57,
+        "reservation": "GEN",
+        "totalPS": 47,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "DEVENDRA KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11538
+            },
+            {
+                "Candidate": "BIPIN BIHARI SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9950
+            }
+        ]
+    },
+    {
+        "Ward No": "197",
+        "Ward Name": "PATPAR GANJ",
+        "ac_no": 57,
+        "reservation": "WOMEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RENU CHAUDHARY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10400
+            },
+            {
+                "Candidate": "SEEMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9997
+            }
+        ]
+    },
+    {
+        "Ward No": "198",
+        "Ward Name": "VINOD NAGAR",
+        "ac_no": 57,
+        "reservation": "GEN",
+        "totalPS": 51,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAVINDER SINGH NEGI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13830
+            },
+            {
+                "Candidate": "KULDEEP BHANDARI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11519
+            }
+        ]
+    },
+    {
+        "Ward No": "199",
+        "Ward Name": "MANDAWALI",
+        "ac_no": 57,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHASHI CHANDNA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10818
+            },
+            {
+                "Candidate": "REENA TOMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10632
+            }
+        ]
+    },
+    {
+        "Ward No": "200",
+        "Ward Name": "PANDAV NAGAR",
+        "ac_no": 58,
+        "reservation": "GEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "YASHPAL SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13390
+            },
+            {
+                "Candidate": "VIJAY SINGH SHISHODIA SONU",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13150
+            }
+        ]
+    },
+    {
+        "Ward No": "201",
+        "Ward Name": "LALITA PARK",
+        "ac_no": 58,
+        "reservation": "WOMEN",
+        "totalPS": 37,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHWETA NIGAM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9855
+            },
+            {
+                "Candidate": "HIMANSHI PANDEY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6815
+            }
+        ]
+    },
+    {
+        "Ward No": "202",
+        "Ward Name": "SHAKARPUR",
+        "ac_no": 58,
+        "reservation": "GEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAM KISHOR SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13878
+            },
+            {
+                "Candidate": "SHARAD DIKSHIT",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10867
+            }
+        ]
+    },
+    {
+        "Ward No": "203",
+        "Ward Name": "LAXMI NAGAR",
+        "ac_no": 58,
+        "reservation": "WOMEN",
+        "totalPS": 41,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ALKA RAGHAV",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11612
+            },
+            {
+                "Candidate": "MEENAKSHI SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7793
+            }
+        ]
+    },
+    {
+        "Ward No": "204",
+        "Ward Name": "PREET VIHAR",
+        "ac_no": 59,
+        "reservation": "GEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAMESH KUMAR GARG",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12879
+            },
+            {
+                "Candidate": "RAMESH PANDIT",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6928
+            }
+        ]
+    },
+    {
+        "Ward No": "205",
+        "Ward Name": "I.P. EXTENSION",
+        "ac_no": 59,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RACHNA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12717
+            },
+            {
+                "Candidate": "AMRITA PACHAURI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12245
+            }
+        ]
+    },
+    {
+        "Ward No": "206",
+        "Ward Name": "ANAND VIHAR",
+        "ac_no": 59,
+        "reservation": "GEN",
+        "totalPS": 44,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MONIKA PANT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13137
+            },
+            {
+                "Candidate": "RAHUL JAIN",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10473
+            }
+        ]
+    },
+    {
+        "Ward No": "207",
+        "Ward Name": "VISHWAS NAGAR",
+        "ac_no": 59,
+        "reservation": "SC-WOMEN",
+        "totalPS": 43,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JYOTI RANI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11239
+            },
+            {
+                "Candidate": "CHERRY SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10547
+            }
+        ]
+    },
+    {
+        "Ward No": "208",
+        "Ward Name": "ANARKALI",
+        "ac_no": 60,
+        "reservation": "WOMEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MEENAKSHI SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13301
+            },
+            {
+                "Candidate": "REKHA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8883
+            }
+        ]
+    },
+    {
+        "Ward No": "209",
+        "Ward Name": "JAGAT PURI",
+        "ac_no": 60,
+        "reservation": "GEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAJU SACHDEVA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14962
+            },
+            {
+                "Candidate": "SHIV DUTT KAUSHIK",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12987
+            }
+        ]
+    },
+    {
+        "Ward No": "210",
+        "Ward Name": "GEETA COLONY",
+        "ac_no": 60,
+        "reservation": "WOMEN",
+        "totalPS": 46,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEEMAA BHAGAT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10871
+            },
+            {
+                "Candidate": "KAWALJEET",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10217
+            }
+        ]
+    },
+    {
+        "Ward No": "211",
+        "Ward Name": "KRISHNA NAGAR",
+        "ac_no": 60,
+        "reservation": "GEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SANDEEP KAPOOR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13924
+            },
+            {
+                "Candidate": "JUGAL ARORA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10499
+            }
+        ]
+    },
+    {
+        "Ward No": "212",
+        "Ward Name": "GANDHI NAGAR",
+        "ac_no": 61,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRIYA KAMBOJ",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 12474
+            },
+            {
+                "Candidate": "RAKHI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8052
+            }
+        ]
+    },
+    {
+        "Ward No": "213",
+        "Ward Name": "SHASTRI PARK",
+        "ac_no": 61,
+        "reservation": "GEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SAMEER AHMAD",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 12503
+            },
+            {
+                "Candidate": "ADITYA CHAUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9454
+            }
+        ]
+    },
+    {
+        "Ward No": "214",
+        "Ward Name": "AZAD NAGAR",
+        "ac_no": 61,
+        "reservation": "WOMEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEELAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 17495
+            },
+            {
+                "Candidate": "SHOBHA DEVI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9161
+            }
+        ]
+    },
+    {
+        "Ward No": "215",
+        "Ward Name": "SHAHDARA",
+        "ac_no": 62,
+        "reservation": "SC",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BHARAT GAUTAM",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15634
+            },
+            {
+                "Candidate": "DALCHAND ANAND",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11121
+            }
+        ]
+    },
+    {
+        "Ward No": "216",
+        "Ward Name": "JHILMIL",
+        "ac_no": 62,
+        "reservation": "GEN",
+        "totalPS": 64,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PANKAJ LUTHRA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 19920
+            },
+            {
+                "Candidate": "AVDHESH KUMAR CHAUBEY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11538
+            }
+        ]
+    },
+    {
+        "Ward No": "217",
+        "Ward Name": "DILSHAD COLONY",
+        "ac_no": 62,
+        "reservation": "WOMEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PREETI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 16136
+            },
+            {
+                "Candidate": "SUNRIKA SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13493
+            }
+        ]
+    },
+    {
+        "Ward No": "218",
+        "Ward Name": "SUNDAR NAGRI",
+        "ac_no": 63,
+        "reservation": "SC-WOMEN",
+        "totalPS": 61,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MOHINI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 20079
+            },
+            {
+                "Candidate": "RENU",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9676
+            }
+        ]
+    },
+    {
+        "Ward No": "219",
+        "Ward Name": "DILSHAD GARDEN",
+        "ac_no": 63,
+        "reservation": "GEN",
+        "totalPS": 62,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "B S PANWAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15315
+            },
+            {
+                "Candidate": "PRAVEEN KASANA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14371
+            }
+        ]
+    },
+    {
+        "Ward No": "220",
+        "Ward Name": "NAND NAGRI",
+        "ac_no": 63,
+        "reservation": "SC",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RAMESH KUMAR BISAIYA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 15959
+            },
+            {
+                "Candidate": "KM RINKU",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15905
+            }
+        ]
+    },
+    {
+        "Ward No": "221",
+        "Ward Name": "ASHOK NAGAR",
+        "ac_no": 64,
+        "reservation": "WOMEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "REENA MAHESHWARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15406
+            },
+            {
+                "Candidate": "SUSHMA RANA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8790
+            }
+        ]
+    },
+    {
+        "Ward No": "222",
+        "Ward Name": "RAM NAGAR EAST",
+        "ac_no": 64,
+        "reservation": "GEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "CHANDER PRAKASH SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15959
+            },
+            {
+                "Candidate": "ANIL GAUTAM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12863
+            }
+        ]
+    },
+    {
+        "Ward No": "223",
+        "Ward Name": "ROHTASH NAGAR",
+        "ac_no": 64,
+        "reservation": "WOMEN",
+        "totalPS": 36,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHIVANI PANCHAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9398
+            },
+            {
+                "Candidate": "SUMAN LATA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9026
+            }
+        ]
+    },
+    {
+        "Ward No": "224",
+        "Ward Name": "WELCOME COLONY",
+        "ac_no": 64,
+        "reservation": "GEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "RITESH SUJI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15464
+            },
+            {
+                "Candidate": "SUDESH CHOUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 10303
+            }
+        ]
+    },
+    {
+        "Ward No": "225",
+        "Ward Name": "SEELAMPUR",
+        "ac_no": 65,
+        "reservation": "WOMEN",
+        "totalPS": 42,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHAKILA BEGUM",
+                "Party": "INDEPENDENT",
+                "Total Votes": 10830
+            },
+            {
+                "Candidate": "SEEMA SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 6568
+            }
+        ]
+    },
+    {
+        "Ward No": "226",
+        "Ward Name": "GAUTAM PURI",
+        "ac_no": 65,
+        "reservation": "GEN",
+        "totalPS": 36,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SATYA SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8310
+            },
+            {
+                "Candidate": "MD RIYASAT",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 7091
+            }
+        ]
+    },
+    {
+        "Ward No": "227",
+        "Ward Name": "CHAUHAN BANGER",
+        "ac_no": 65,
+        "reservation": "WOMEN",
+        "totalPS": 44,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHAGUFTA CHAUDHARY ZUBAIR",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 21131
+            },
+            {
+                "Candidate": "ASMA BEGUM",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 5938
+            }
+        ]
+    },
+    {
+        "Ward No": "228",
+        "Ward Name": "MAUJPUR",
+        "ac_no": 65,
+        "reservation": "GEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ANIL KUMAR SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15533
+            },
+            {
+                "Candidate": "VINOD KUMAR SHARMA",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 7748
+            }
+        ]
+    },
+    {
+        "Ward No": "229",
+        "Ward Name": "BRAHAM PURI",
+        "ac_no": 66,
+        "reservation": "WOMEN",
+        "totalPS": 60,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "CHHAYA GAURAV SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14796
+            },
+            {
+                "Candidate": "KAVITA KUMARI SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14008
+            }
+        ]
+    },
+    {
+        "Ward No": "230",
+        "Ward Name": "BHAJANPURA",
+        "ac_no": 66,
+        "reservation": "GEN",
+        "totalPS": 42,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "REKHA RANI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11842
+            },
+            {
+                "Candidate": "RAM RAJ TIWARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8710
+            }
+        ]
+    },
+    {
+        "Ward No": "231",
+        "Ward Name": "GHONDA",
+        "ac_no": 66,
+        "reservation": "WOMEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PREETI GUPTA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15763
+            },
+            {
+                "Candidate": "VIDYA WATI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12409
+            }
+        ]
+    },
+    {
+        "Ward No": "232",
+        "Ward Name": "YAMUNA VIHAR",
+        "ac_no": 66,
+        "reservation": "GEN",
+        "totalPS": 45,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRAMOD GUPTA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15875
+            },
+            {
+                "Candidate": "VANEETA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6420
+            }
+        ]
+    },
+    {
+        "Ward No": "233",
+        "Ward Name": "SUBHASH MOHALLA",
+        "ac_no": 67,
+        "reservation": "WOMEN",
+        "totalPS": 50,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MANISHA SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11206
+            },
+            {
+                "Candidate": "REKHA TYAGI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8535
+            }
+        ]
+    },
+    {
+        "Ward No": "234",
+        "Ward Name": "KABIR NAGAR",
+        "ac_no": 67,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ZARIF",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 12885
+            },
+            {
+                "Candidate": "SAZID",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8790
+            }
+        ]
+    },
+    {
+        "Ward No": "235",
+        "Ward Name": "GORAKH PARK",
+        "ac_no": 67,
+        "reservation": "WOMEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PRIYANKA SAXENA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 9936
+            },
+            {
+                "Candidate": "KUSUM TOMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 7988
+            }
+        ]
+    },
+    {
+        "Ward No": "236",
+        "Ward Name": "KARDAM PURI",
+        "ac_no": 67,
+        "reservation": "GEN",
+        "totalPS": 57,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MUKESH KUMAR BANSAL",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15070
+            },
+            {
+                "Candidate": "MUKESH YADAV",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7593
+            }
+        ]
+    },
+    {
+        "Ward No": "237",
+        "Ward Name": "HARSH VIHAR",
+        "ac_no": 68,
+        "reservation": "SC-WOMEN",
+        "totalPS": 63,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "POONAM NIRMAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 19769
+            },
+            {
+                "Candidate": "BIJENDRI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 13417
+            }
+        ]
+    },
+    {
+        "Ward No": "238",
+        "Ward Name": "SABOLI",
+        "ac_no": 68,
+        "reservation": "SC",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "JASWANT SINGH",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 14387
+            },
+            {
+                "Candidate": "HARI PRAKASH BAHADUR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11076
+            }
+        ]
+    },
+    {
+        "Ward No": "239",
+        "Ward Name": "GOKAL PURI",
+        "ac_no": 68,
+        "reservation": "SC-WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SOMWATI CHAUDHARY",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17112
+            },
+            {
+                "Candidate": "NIRMLA KUMARI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 10765
+            }
+        ]
+    },
+    {
+        "Ward No": "240",
+        "Ward Name": "JOHARIPUR",
+        "ac_no": 68,
+        "reservation": "SC",
+        "totalPS": 52,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ROSHAN LAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13095
+            },
+            {
+                "Candidate": "RAJKUMAR",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 11659
+            }
+        ]
+    },
+    {
+        "Ward No": "241",
+        "Ward Name": "KARAWAL NAGAR-EAST",
+        "ac_no": 69,
+        "reservation": "WOMEN",
+        "totalPS": 56,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SHIMLA DEVI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 17611
+            },
+            {
+                "Candidate": "ASHA BANSAL",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 8559
+            }
+        ]
+    },
+    {
+        "Ward No": "242",
+        "Ward Name": "DAYALPUR",
+        "ac_no": 69,
+        "reservation": "GEN",
+        "totalPS": 48,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "PUNEET SHARMA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 18483
+            },
+            {
+                "Candidate": "KAMAL GAUR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6169
+            }
+        ]
+    },
+    {
+        "Ward No": "243",
+        "Ward Name": "MUSTAFABAD",
+        "ac_no": 69,
+        "reservation": "WOMEN",
+        "totalPS": 47,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SABILA BEGUM",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 14921
+            },
+            {
+                "Candidate": "SARWARI BEGUM",
+                "Party": "ALL INDIA MAJLIS-E-ITTEHADUL MUSLIMEEN",
+                "Total Votes": 8339
+            }
+        ]
+    },
+    {
+        "Ward No": "244",
+        "Ward Name": "NEHRU VIHAR",
+        "ac_no": 69,
+        "reservation": "GEN",
+        "totalPS": 54,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "ARUN SINGH BHATI",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15001
+            },
+            {
+                "Candidate": "ALEEM",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 14645
+            }
+        ]
+    },
+    {
+        "Ward No": "245",
+        "Ward Name": "BRIJ PURI",
+        "ac_no": 69,
+        "reservation": "WOMEN",
+        "totalPS": 49,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NAZIA KHATOON",
+                "Party": "INDIAN NATIONAL CONGRESS",
+                "Total Votes": 9639
+            },
+            {
+                "Candidate": "AFREEN NAAZ",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 7521
+            }
+        ]
+    },
+    {
+        "Ward No": "246",
+        "Ward Name": "SRI RAM COLONY",
+        "ac_no": 70,
+        "reservation": "GEN",
+        "totalPS": 66,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "MOHAMMAD AAMIL MALIK",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 17209
+            },
+            {
+                "Candidate": "PRAMOD JHA",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 9717
+            }
+        ]
+    },
+    {
+        "Ward No": "247",
+        "Ward Name": "SADATPUR",
+        "ac_no": 70,
+        "reservation": "WOMEN",
+        "totalPS": 53,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "NEETA BISHT",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 16206
+            },
+            {
+                "Candidate": "REKHA TYAGI",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 12106
+            }
+        ]
+    },
+    {
+        "Ward No": "248",
+        "Ward Name": "KARAWAL NAGAR-WEST",
+        "ac_no": 70,
+        "reservation": "GEN",
+        "totalPS": 59,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SATYAPAL SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 15174
+            },
+            {
+                "Candidate": "JITENDRA BANSALA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 11530
+            }
+        ]
+    },
+    {
+        "Ward No": "249",
+        "Ward Name": "SONIA VIHAR",
+        "ac_no": 70,
+        "reservation": "WOMEN",
+        "totalPS": 55,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "SONI PANDEY",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 14871
+            },
+            {
+                "Candidate": "RIMJHIM SHARMA",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 13233
+            }
+        ]
+    },
+    {
+        "Ward No": "250",
+        "Ward Name": "SABAPUR",
+        "ac_no": 70,
+        "reservation": "GEN",
+        "totalPS": 36,
+        "declared": true,
+        "candidates": [
+            {
+                "Candidate": "BRIJESH SINGH",
+                "Party": "BHARATIYA JANATA PARTY",
+                "Total Votes": 8720
+            },
+            {
+                "Candidate": "BIRENDRA KUMAR",
+                "Party": "AAM AADMI PARTY",
+                "Total Votes": 6856
+            }
+        ]
+    }
+]

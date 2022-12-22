@@ -1,0 +1,78 @@
+.ac_name_heading{
+    margin: 24px 0;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.candidate-list_item{
+    width: 100%;
+    margin: 16px auto;
+    background-color: rgb(206, 206, 206);
+    border-radius: 15px;
+    max-width: 600px;
+}
+
+.candidate-list_item > *{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 24px;
+    color: white;
+}
+
+.candidate-list_image{
+    width: 75px;
+    height: 75px;
+    box-shadow: 2px 2px 6px rgb(0 0 0 / 50%);
+    border-radius: 50%;
+    margin: 8px auto 16px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sun_Cross_Swastika.svg/1024px-Sun_Cross_Swastika.svg.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 62.5px 62.5px;
+    background-color: white;
+}
+
+.candidate-list_name{
+    width: 150px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.candidate-list_party{
+    width: 200px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.candidate-list_votes, .candidate-list_votepercent{
+    width: 48px;
+    text-align: left;
+    margin: 8px;
+    font-weight: 700;
+}
+
+.BJP > .candidate-list_image{
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lotos_flower_symbol.svg/1024px-Lotos_flower_symbol.svg.png");
+    background-size: 50px 50px;
+}
+
+.INC > .candidate-list_image{
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hand_INC.svg/1024px-Hand_INC.svg.png");
+    background-size: 70px 70px;
+}
+
+.AAP > .candidate-list_image{
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/02/AAP_Symbol.png");
+    background-size: 70px 22px;
+}
+
+.candidate-list_item:first-child{
+    transform: scale(1.1, 1.05);
+}

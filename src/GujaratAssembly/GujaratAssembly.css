@@ -1,0 +1,28 @@
+.left-arrow{
+    position: absolute;
+    top: 10%;
+    left: 25px;
+    padding: 48px;
+    background-image: url("../Assets/arrow.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    border-radius: 50%;
+    box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+
+}
+
+.right-arrow{
+    position: absolute;
+    top: 10%;
+    right: 25px;
+    padding: 48px;
+    background-image: url("../Assets/right-arrow.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    border-radius: 50%;
+    box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}

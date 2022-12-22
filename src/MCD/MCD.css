@@ -1,0 +1,6 @@
+@media only screen and (max-width:720px)  {
+    .candidate-1, .candidate-2{
+        display: block;
+        width: calc( 100% - 32px );
+    }
+}

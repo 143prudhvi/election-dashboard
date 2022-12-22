@@ -3,12 +3,25 @@ import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
 import geoData from './India.json';
 import pcData from './india_pc_2019.json';
+import electionData2014 from './India-2014.json'
+import partyNamesData2014 from './Party Names-2014.json' 
 import electionData2019 from './India-2019.json'
-import partyNamesData from './PartyNames.json' 
-
+import partyNamesData2019 from './PartyNames.json' 
 
 
 const IndiaMap = () => {
+    const [electionData, setElectionData] = useState(electionData2014);
+    const [partyNamesData, setPartyNamesData] = useState(partyNamesData2014);
+    const changeYear = (event) => {
+        if(event.target.value == 2019){
+            setElectionData(electionData2019)
+            setPartyNamesData(partyNamesData2019)
+        }else{
+            setElectionData(electionData2014)
+            setPartyNamesData(partyNamesData2014)
+        }
+    }
+
     const canvas = useRef();
     var states = feature(geoData,geoData.objects['India']);
     var parliments = feature(pcData,pcData.objects['india_pc_2019'])
@@ -200,8 +213,8 @@ const IndiaMap = () => {
     var totalStateSeats = 0
     var totalStateVotes = 0
     var candidates;
-    Object.keys(electionData2019).forEach(state => {
-        electionData2019[state].forEach(pc => {
+    Object.keys(electionData).forEach(state => {
+        electionData[state].forEach(pc => {
             totalStateSeats += 1
             candidates = sortCandidates(pc.candidates)
             addWinner(candidates[0]);
@@ -297,7 +310,7 @@ const IndiaMap = () => {
 
     function getWinnerPartyColor2019(d){
         var candidates;
-        var pc_data = electionData2019[d.properties['ST_NAME']]
+        var pc_data = electionData[d.properties['ST_NAME']]
         for(var i = 0; i<pc_data.length; i++){
             if(pc_data[i]['pc_no'] == d.properties.PC_CODE){
                 candidates = pc_data[i]['candidates']
@@ -309,19 +322,19 @@ const IndiaMap = () => {
   
     function getStateWinnerPartyColor2019(d){
         var currentStateData;
+        console.log(d.properties['ST_NAME'])
         for(var i = 0 ; i<statesData.length; i++){
-            if(d.properties['ST_NAME'] === statesData[i].State){
+            if(d.properties['ST_NAME'] === statesData[i].State.toUpperCase()){
                 currentStateData = statesData[i]
             }
         }
-
         return color(currentStateData.Parties[0].Party)
     }
 
     function getStateWisePartySeatsHTML2019(d){
         var hoveredStateData;
         for(var i = 0 ; i<statesData.length; i++){
-            if(d.properties['ST_NAME'] === statesData[i].State){
+            if(d.properties['ST_NAME'] === statesData[i].State.toUpperCase()){
                 hoveredStateData = statesData[i]
             }
         }
@@ -341,7 +354,7 @@ const IndiaMap = () => {
     }
 
     function getPCData(d){
-        var clickedStateData = electionData2019[d.properties['ST_NAME']];
+        var clickedStateData = electionData[d.properties['ST_NAME']];
         var hoveredPCData;
         for(var i = 0 ; i<clickedStateData.length; i++){
             if(d.properties['PC_CODE'] === clickedStateData[i].pc_no){
@@ -528,9 +541,13 @@ const IndiaMap = () => {
             scale: scale
             };
         }
-    },[states.features,electionData2019])
+    },[states.features,electionData])
     return (
         <>
+            <select onChange={(event) => changeYear(event)}>
+                <option value={2019}>2019</option>
+                <option value={2014}>2014</option>
+            </select>
             <div className='tooltip'></div>
             <div className='tooltip_pc'></div>
             <svg viewBox="0 0 840 700">

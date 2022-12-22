@@ -2,9 +2,9 @@ import React,{ useEffect, useRef, useState } from 'react';
 import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
 import useResizeObserver from './useResizeObserver';
-import geoData from './Gujarat.json';
-import electionData2017 from './Gujarat-2017.json';
-import electionData2012 from './Gujarat-2012.json';
+import geoData from './Data/Gujarat.json';
+import electionData2017 from './Data/Gujarat-2017.json';
+import electionData2012 from './Data/Gujarat-2022.json';
 
 
 
@@ -210,6 +210,8 @@ const GujaratRegionMap = () => {
             BJP['2012'] = party
         }else if(party.Party === "Indian National Congress"){
             INC['2012'] = party
+        }else if(party.Party === "Aam Aadmi Party"){
+            AAP['2012'] = party
         }else{
             Others['2012'].Seats += party.Seats;
             Others['2012'].Votes += party.Votes;
@@ -286,6 +288,11 @@ const GujaratRegionMap = () => {
                         <div className='party-title'>INC</div>
                         <div className='seats-won'>{INC['2012'].Seats}</div>
                         <div className='vote-percent'>{INC['2012'].VotePercent}</div>
+                    </div>
+                    <div className='party AAP'>
+                        <div className='party-title'>AAP</div>
+                        <div className='seats-won'>{AAP['2012'].Seats}</div>
+                        <div className='vote-percent'>{AAP['2012'].VotePercent}</div>
                     </div>
                     <div className='party Others'>
                         <div className='party-title'>Others</div>
