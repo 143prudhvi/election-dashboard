@@ -1,24 +1,37 @@
 import React,{ useEffect, useRef, useState } from 'react';
 import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
-import data from '../Data/MCD.json';
-import electionData2017 from '../Data/MCD-2022.json';
+import data from '../Data/Meghalaya.json';
+import electionData2017 from '../Data/Meghalaya-2023.json';
 import { Link } from 'react-router-dom';
-import "./MCD.css"
-
-const MCD = () => {
+import "../GujaratAssembly/GujaratAssembly.css";
+const MeghalayaAssemblyMap = () => {
+  const changeAssembly = (change) => {
+    if(selectedAssembly <= 1 && change == -1 ){
+      return
+    }
+    if(selectedAssembly >= 60 && change== 1 ){
+      return
+    }
+    setSelectedAssembly(selectedAssembly + change)
+  }
   const svgRef = useRef();
   const wrapperRef = useRef();
   const [selectedAssembly, setSelectedAssembly] = useState(Number("01"));
   var width = window.innerWidth;
-  if(width > 600){
-    width = 600
+  if(width > 720){
+    width = 700
   }
-  var height = window.innerHeight - 272;
-  var assemblies = feature(data,data.objects['MCD']);
-  
-  var AAP = {
-    Party : "AAP",
+  const height = window.innerHeight;
+  var assemblies = feature(data,data.objects['Meghalaya']);
+  var NPP = {
+    Party : "NPP",
+    Seats : 0,
+    Votes : 0,
+    VotePercent : 0
+  }
+  var TMC = {
+    Party : "TMC",
     Seats : 0,
     Votes : 0,
     VotePercent : 0
@@ -55,14 +68,20 @@ const MCD = () => {
   }
 
   function getPartyShortCode(party){
-    if(party === "AAM AADMI PARTY"){
-      return "AAP";
-    }else if(party === "INDIAN NATIONAL CONGRESS"){
-      return "INC";
-    }else if(party === "BHARATIYA JANATA PARTY"){
-      return "BJP";
-    }else{
-      return 'Others'
+    if (party === "Bharatiya Janata Party"){
+      return "BJP"
+    }
+    else if(party === "Indian National Congress"){
+      return "INC"
+    }
+    else if(party === "National People's Party"){
+      return "NPP"
+    }
+    else if(party === "All India Trinamool Congress"){
+        return "TMC"
+      }
+    else{
+      return "Others"
     }
   }
 
@@ -100,7 +119,7 @@ const MCD = () => {
   }
 
   electionData2017.map(assembly => {
-    if(assembly["Ward No"] == selectedAssembly){
+    if(assembly.ac_no == selectedAssembly){
       assemblyData = assembly
     }
     var candidates = sortCandidates(assembly.candidates);
@@ -118,13 +137,16 @@ const MCD = () => {
   partiesData = sortParties(partiesData)
 
   partiesData.forEach(party => {
-    if(party.Party === "BHARATIYA JANATA PARTY"){
+    if(party.Party === "Bharatiya Janata Party"){
         BJP = party
-    }else if(party.Party === "INDIAN NATIONAL CONGRESS"){
+    }else if(party.Party === "Indian National Congress"){
         INC = party
     }
-    else if(party.Party === "AAM AADMI PARTY"){
-        AAP = party
+    else if(party.Party === "National People's Party"){
+        NPP = party
+    }
+    else if(party.Party === "All India Trinamool Congress"){
+        TMC = party
     }else{
         Others.Seats += party.Seats;
         Others.Votes += party.Votes;
@@ -134,13 +156,13 @@ const MCD = () => {
 
 
   function candidateHTML(candidate){
-    return "<div class='status'></div><div class='candidate-wrapper'><div class='candidate-party'>" + candidate.Party + "</div>" + "<div class='candidate-image'></div><div class='candidate-name'>" + candidate.Candidate + "</div>" +"<div class='candidate-details'>" + "<div class='candidate-votes'>" + candidate['Total Votes'] + "</div>" +"</div>" + "</div>" 
+    return "<div class='status'></div><div class='candidate-wrapper'><div class='candidate-party'>" + candidate.Party + "</div>" + "<div class='candidate-image'></div><div class='candidate-name'>" + candidate.Candidate + "</div>" +"<div class='candidate-details'>" + "<div class='candidate-votes'>" + candidate['Total Votes'] + "</div>" + "<div class='candidate-votepercent'>" + candidate['Vote %'] + " %" +  "</div>" +"</div>" + "</div>" 
   }
   
   function getCandidates(ac_no){
     var candidates;
     for(var i = 0; i<electionData2017.length; i++){
-      if(electionData2017[i]['Ward No'] == ac_no){
+      if(electionData2017[i]['ac_no'] == ac_no){
         candidates = electionData2017[i]['candidates']
         candidates.sort((a,b) => {return b['Total Votes'] - a['Total Votes']})
         if(candidates.length > 1){
@@ -153,7 +175,7 @@ const MCD = () => {
           .attr("class" , "candidate-2 " + getPartyShortCode(candidates[1].Party))
         }
         select(".ac_no")
-        .html(() => assemblyData["Ward No"] + " - " + assemblyData["Ward Name"] )
+        .html(() => assemblyData.ac_no + " - " + assemblyData.ac_name )
 
         if(assemblyData.declared){
           select(".candidate-1 .status").html(() => "Won")
@@ -171,7 +193,7 @@ const MCD = () => {
   function getWinnerPartyColor(d){
     var candidates;
     for(var i = 0; i<electionData2017.length; i++){
-        if(electionData2017[i]['Ward No'] == d.properties['Ward No']){
+        if(electionData2017[i]['ac_no'] == d.properties.ac_no){
             candidates = electionData2017[i]['candidates']
             candidates.sort((a,b) => {return b['Total Votes'] - a['Total Votes']})
             return color(candidates[0]['Party'])
@@ -180,11 +202,15 @@ const MCD = () => {
   }
 
   function color(party){
-    if(party === "AAM AADMI PARTY"){
+    if(party === "National People's Party"){
       return "#0066A4";
-    }else if(party === "INDIAN NATIONAL CONGRESS"){
+    }else if(party === "Indian National Congress"){
       return "#19AAED";
-    }else if(party === "BHARATIYA JANATA PARTY"){
+    }
+    else if(party === "All India Trinamool Congress"){
+      return "#20C646";
+    }
+    else if(party === "Bharatiya Janata Party"){
       return "#FF9933";
     }else{
       return '#909090'
@@ -193,18 +219,18 @@ const MCD = () => {
   useEffect(() => {
     const svg = select(svgRef.current);
     // const {width,height} = dimensions || wrapperRef.current.getBoundingClientRect();
-    const center =  [77.5,28.63]
-    const projection = geoMercator().fitSize([width-32,height-32], assemblies);
+    const center =  [92,25.2]
+    const projection = geoMercator().center(center).scale(11000).precision(100);
     const pathGenerator = geoPath().projection(projection);
     svg.selectAll('.assembly')
       .data(assemblies.features)
       .join('path')
       .on("click", (event, assembly) => {
-        setSelectedAssembly( selectedAssembly ?  (selectedAssembly === Number(assembly.properties['Ward No'])) ? null : Number(assembly.properties['Ward No']) : Number(assembly.properties['Ward No']));
+        setSelectedAssembly( selectedAssembly ?  (selectedAssembly === Number(assembly.properties.ac_no)) ? null : Number(assembly.properties.ac_no) : Number(assembly.properties.ac_no));
       })
       .attr('opacity', assembly => {
         getCandidates(selectedAssembly);
-        return selectedAssembly ?  (selectedAssembly === Number(assembly.properties['Ward No'])) ? 1 : 0.8: 1;
+        return selectedAssembly ?  (selectedAssembly === Number(assembly.properties.ac_no)) ? 1 : 0.5 : 1;
       }
       )
       .attr('class','assembly')
@@ -222,36 +248,50 @@ const MCD = () => {
 
   return (
     <div ref={wrapperRef}>
+      <div className='left-arrow' onClick={() => changeAssembly(-1)}></div>
+      <div className='right-arrow' onClick={() => changeAssembly(1)}></div>
       <div className="row align-items-stretch">
         <div className="c-dashboardInfo col-lg-3 col-md-6">
           <div className="wrap">
             <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">BJP</h4>
             <span className="hind-font caption-12 c-dashboardInfo__count">{BJP.Seats}</span>
+            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{BJP.VotePercent}</span>
           </div>
         </div>
         <div className="c-dashboardInfo col-lg-3 col-md-6">
           <div className="wrap">
             <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">INC</h4>
             <span className="hind-font caption-12 c-dashboardInfo__count">{INC.Seats}</span>
+            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{INC.VotePercent}</span>
           </div>
         </div>
         <div className="c-dashboardInfo col-lg-3 col-md-6">
           <div className="wrap">
-            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">AAP</h4>
-            <span className="hind-font caption-12 c-dashboardInfo__count">{AAP.Seats}</span>
+            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">NPP</h4>
+            <span className="hind-font caption-12 c-dashboardInfo__count">{NPP.Seats}</span>
+            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{NPP.VotePercent}</span>
+          </div>
+        </div>
+        <div className="c-dashboardInfo col-lg-3 col-md-6">
+          <div className="wrap">
+            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">TMC</h4>
+            <span className="hind-font caption-12 c-dashboardInfo__count">{TMC.Seats}</span>
+            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{TMC.VotePercent}</span>
           </div>
         </div>
         <div className="c-dashboardInfo col-lg-3 col-md-6">
           <div className="wrap">
             <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Others</h4>
             <span className="hind-font caption-12 c-dashboardInfo__count">{Others.Seats}</span>
+            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{Others.VotePercent}</span>
           </div>
         </div>
       </div>
       <div className='candidate-1'></div>
       <div className='map'>
         <div className='ac_no'></div>
-        <svg className='svg-map' width={width} height={height} ref={svgRef}></svg>
+        <Link to="/Assembly" state={{ assemblyData : assemblyData }} className='assembly-link'>Click here for more details</Link>
+        <svg className='svg-map' width={width} height={height-324} ref={svgRef}></svg>
       </div>
       <div className='candidate-2'></div>
       
@@ -260,4 +300,4 @@ const MCD = () => {
   );
 }
 
-export default MCD;
+export default MeghalayaAssemblyMap;

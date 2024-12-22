@@ -19,8 +19,8 @@ const HimachalAssemblyMap = () => {
   const wrapperRef = useRef();
   const [selectedAssembly, setSelectedAssembly] = useState(Number("01"));
   var width = window.innerWidth;
-  if(width > 720){
-    width = 720
+  if(width > 640){
+    width = 640
   }
   const height = window.innerHeight;
   var assemblies = feature(data,data.objects['Himachal Pradesh']);

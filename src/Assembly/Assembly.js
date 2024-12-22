@@ -3,12 +3,11 @@ import { useLocation } from "react-router-dom"
 import "./Assembly.css"
 
 
-const Assembly = () => {
-    const location = useLocation()
-    console.log(location)
-    const ac_name = location.state?.assemblyData.ac_name
-    const ac_no = location.state?.assemblyData.ac_no
-    const candidates = location.state?.assemblyData.candidates
+const Assembly = ({assemblyData, closeModal}) => {
+  console.log(assemblyData)
+    const ac_name = assemblyData.ac_name
+    const ac_no = assemblyData.ac_no
+    const candidates = assemblyData.candidates
 
     function getPartyShortCode(party){
       if (party === "Bharatiya Janata Party"){
@@ -25,7 +24,7 @@ const Assembly = () => {
       }
     }
   return (
-    <>
+    <div className='modal-body'>
       <div className='ac_name_heading'> { ac_no +" - " + ac_name + " Assembly" }</div>
       <div className='candidates-list'>
         {
@@ -40,7 +39,7 @@ const Assembly = () => {
           })
         }
       </div>
-    </>
+    </div>
     
   );
 }

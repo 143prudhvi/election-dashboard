@@ -11,6 +11,10 @@ import AndhraPradeshRegionMap from './AndhraPradeshRegionMap';
 import IndiaMap from './India';
 import MCD from './MCD/MCD';
 import GujaratAssemblyMap from './GujaratAssembly/GujaratAssemblyMap';
+import TripuraAssemblyMap from './Tripura/TripuraAssembly';
+import MeghalayaAssemblyMap from './Meghalaya/MeghalayaAssembly';
+import AndhraEducation from './AndhraEducation/AndhraEducation';
+
 
 
 function App() {
@@ -20,6 +24,8 @@ function App() {
     <BrowserRouter>
       <PageHeader />
       <Routes>
+        <Route path="/TripuraAssembly" exact element={<div> <TripuraAssemblyMap /></div>} />
+        <Route path="/MeghalayaAssembly" exact element={<div> <MeghalayaAssemblyMap /></div>} />
         <Route path="/HimachalAssembly" exact element={<div> <HimachalAssemblyMap /></div>} />
         <Route path="/HimachalRegion" exact element={<HimachalRegionMap />}/> 
         <Route path="/GujaratRegion" exact element={<GujaratRegionMap />}/> 
@@ -28,6 +34,7 @@ function App() {
         <Route path='/Assembly' exact element={<Assembly />} />
         <Route path='/MCD' exact element={<MCD />} />
         <Route path="/" exact element={<IndiaMap />}/> 
+        <Route path='/AndhraEducation' exact element={<AndhraEducation />} />
       </Routes>
     </BrowserRouter>
     

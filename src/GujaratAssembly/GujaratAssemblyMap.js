@@ -1,6 +1,7 @@
 import React,{ useEffect, useRef, useState } from 'react';
 import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
+import Assembly from '../Assembly/Assembly';
 import useResizeObserver from '../useResizeObserver';
 import data from '../Data/Gujarat.json';
 import electionData2017 from '../Data/Gujarat-2022.json';
@@ -21,11 +22,13 @@ const GujaratAssemblyMap = () => {
   const wrapperRef = useRef();
   const dimensions = useResizeObserver(wrapperRef);
   const [selectedAssembly, setSelectedAssembly] = useState(Number("01"));
+  const [modal, setModal] = useState(false);
+
   var width = window.innerWidth;
   if(width > 720){
-    width = 720
+    width = 700
   }
-  const height = window.innerHeight;
+  const height = 360;
   var assemblies = feature(data,data.objects['Gujarat']);
   var AAP = {
     Party : "AAP",
@@ -207,7 +210,7 @@ const GujaratAssemblyMap = () => {
     const svg = select(svgRef.current);
     // const {width,height} = dimensions || wrapperRef.current.getBoundingClientRect();
     const center =  [72.9,22]
-    const projection = geoMercator().center(center).scale(4500).precision(100);
+    const projection = geoMercator().fitSize([width-32,height-32], assemblies);
     const pathGenerator = geoPath().projection(projection);
     svg.selectAll('.assembly')
       .data(assemblies.features)
@@ -217,7 +220,7 @@ const GujaratAssemblyMap = () => {
       })
       .attr('opacity', assembly => {
         getCandidates(selectedAssembly);
-        return selectedAssembly ?  (selectedAssembly === Number(assembly.properties.ac_no)) ? 1 : 0.5 : 1;
+        return selectedAssembly ?  (selectedAssembly === Number(assembly.properties.ac_no)) ? 1 : 0.8 : 1;
       }
       )
       .attr('class','assembly')
@@ -234,48 +237,54 @@ const GujaratAssemblyMap = () => {
   //  else{setSelectedAssembly(selectedAssembly + 1)}} , 5000)
 
   return (
-    <div ref={wrapperRef}>
-      <div className='left-arrow' onClick={() => changeAssembly(-1)}></div>
-      <div className='right-arrow' onClick={() => changeAssembly(1)}></div>
-      <div className="row align-items-stretch">
-        <div className="c-dashboardInfo col-lg-3 col-md-6">
-          <div className="wrap">
-            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">BJP</h4>
-            <span className="hind-font caption-12 c-dashboardInfo__count">{BJP.Seats}</span>
-            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{BJP.VotePercent}</span>
+    <>
+      <div ref={wrapperRef}>
+        <div className='left-arrow' onClick={() => changeAssembly(-1)}></div>
+        <div className='right-arrow' onClick={() => changeAssembly(1)}></div>
+        <div className="row align-items-stretch">
+          <div className="c-dashboardInfo col-lg-3 col-md-6">
+            <div className="wrap">
+              <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">BJP</h4>
+              <span className="hind-font caption-12 c-dashboardInfo__count">{BJP.Seats}</span>
+              <span className="hind-font caption-12 c-dashboardInfo__votepercent">{BJP.VotePercent}</span>
+            </div>
+          </div>
+          <div className="c-dashboardInfo col-lg-3 col-md-6">
+            <div className="wrap">
+              <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">INC</h4>
+              <span className="hind-font caption-12 c-dashboardInfo__count">{INC.Seats}</span>
+              <span className="hind-font caption-12 c-dashboardInfo__votepercent">{INC.VotePercent}</span>
+            </div>
+          </div>
+          <div className="c-dashboardInfo col-lg-3 col-md-6">
+            <div className="wrap">
+              <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">AAP</h4>
+              <span className="hind-font caption-12 c-dashboardInfo__count">{AAP.Seats}</span>
+              <span className="hind-font caption-12 c-dashboardInfo__votepercent">{AAP.VotePercent}</span>
+            </div>
+          </div>
+          <div className="c-dashboardInfo col-lg-3 col-md-6">
+            <div className="wrap">
+              <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Others</h4>
+              <span className="hind-font caption-12 c-dashboardInfo__count">{Others.Seats}</span>
+              <span className="hind-font caption-12 c-dashboardInfo__votepercent">{Others.VotePercent}</span>
+            </div>
           </div>
         </div>
-        <div className="c-dashboardInfo col-lg-3 col-md-6">
-          <div className="wrap">
-            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">INC</h4>
-            <span className="hind-font caption-12 c-dashboardInfo__count">{INC.Seats}</span>
-            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{INC.VotePercent}</span>
-          </div>
+        <div className='candidate-1'></div>
+        <div className='map'>
+          <div className='ac_no'></div>
+          <button onClick={() => setModal(!modal)} className='assembly-link'>Click here for more details</button>
+          <svg className='svg-map' width={width} height={360} ref={svgRef}></svg>
         </div>
-        <div className="c-dashboardInfo col-lg-3 col-md-6">
-          <div className="wrap">
-            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">AAP</h4>
-            <span className="hind-font caption-12 c-dashboardInfo__count">{AAP.Seats}</span>
-            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{AAP.VotePercent}</span>
-          </div>
-        </div>
-        <div className="c-dashboardInfo col-lg-3 col-md-6">
-          <div className="wrap">
-            <h4 className="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Others</h4>
-            <span className="hind-font caption-12 c-dashboardInfo__count">{Others.Seats}</span>
-            <span className="hind-font caption-12 c-dashboardInfo__votepercent">{Others.VotePercent}</span>
-          </div>
-        </div>
+        <div className='candidate-2'></div>
+        
       </div>
-      <div className='candidate-1'></div>
-      <div className='map'>
-        <div className='ac_no'></div>
-        <Link to="/Assembly" state={{ assemblyData : assemblyData }} className='assembly-link'>Click here for more details</Link>
-        <svg className='svg-map' width={width} height={height-324} ref={svgRef}></svg>
+
+      <div className='modal'>
+        { modal && <Assembly assemblyData={assemblyData} closeModal={setModal} />}
       </div>
-      <div className='candidate-2'></div>
-      
-    </div>
+    </>
     
   );
 }

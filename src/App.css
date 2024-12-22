@@ -12,6 +12,8 @@ header{
     margin: 0;
     color: white;
     padding-left: 20px;
+    display: flex;
+    text-align: center;
 }
 
 *{
@@ -35,12 +37,12 @@ header{
 
 }
 
-.party{
+/* .party{
     display: inline-block;
     color: white;
     text-align: center;
     width: 25%;
-}
+} */
 
 .party-title{
     font-size: 16px;
@@ -77,6 +79,14 @@ header{
 
 .BJP{
     background-color: #FF9933 !important;
+}
+
+.NPP{
+    background-color: #0066A4 !important;
+}
+
+.TMC{
+    background-color: #20C646 !important;
 }
 
 .BJP > .candidate-wrapper .candidate-image{
@@ -155,7 +165,6 @@ svg {
 
 .candidate-1, .candidate-2{
     display: inline-block;
-    height: calc(100vh - 280px);
     width: calc((100% - 864px)/2);
     text-align: center;
     vertical-align: top;
@@ -163,8 +172,8 @@ svg {
     border-radius: 10px;
     padding: 8px 0 0;
     margin: 24px 16px;
-    max-height: 500px;
-    min-width: 200px;
+    min-height: 300px;
+    min-width: 240px;
 }
 
 .candidate-1 .status, .candidate-2 .status{
@@ -180,6 +189,7 @@ svg {
     background: #ffffff;
     height: calc(100% - 48px);
     padding: 16px;
+    margin-bottom: 16px;
     border-radius: 15px;
 }
 
@@ -200,7 +210,7 @@ svg {
 .candidate-name{
     max-width: 120px;
     overflow: hidden;
-    font-size: 12px;
+    font-size: 8px;
     padding: 8px 0 ;
 }
 
@@ -215,7 +225,7 @@ svg {
 
 .candidate-wrapper .candidate-name{
     max-width: 100%;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 700;
 }
 
@@ -286,7 +296,7 @@ td{
 
 .c-dashboardInfo {
     margin: 16px 32px 24px;
-    width: 250px;
+    width: 150px;
     height: 140px;
     display: inline-block;
 
@@ -298,8 +308,7 @@ td{
     text-align: center;
     position: relative;
     overflow: hidden;
-    padding: 40px 25px 20px;
-    height: 100%;
+    padding: 20px 25px 20px;
   }
   .c-dashboardInfo__title,
   .c-dashboardInfo__subInfo {
@@ -343,5 +352,21 @@ td{
     background: #0066A4;
   }
   .c-dashboardInfo:nth-child(4) .wrap:after {
+    background: #20C646;
+  }
+  .c-dashboardInfo:nth-child(5) .wrap:after {
     background: #909090;
+  }
+
+  /* Modal Css properties */
+
+
+  .modal-body{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 480px;
+    height: 100vh;
+    overflow-y: scroll;
+    background: rgba(255,255,255,0.9);
   }

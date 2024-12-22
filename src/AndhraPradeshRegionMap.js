@@ -3,7 +3,7 @@ import {geoMercator, geoPath, select} from 'd3';
 import {feature} from 'topojson-client';
 import useResizeObserver from './useResizeObserver';
 import geoData from './Andhra Pradesh.json';
-import electionData2014 from './Andhra Pradesh-2014.json';
+import electionData2014 from './Andhra Pradesh-2024.json';
 import electionData2019 from './Andhra Pradesh-2019.json';
 
 
@@ -211,6 +211,11 @@ const AndhraPradeshRegionMap = () => {
         if(party.Party === "Telugu Desam"){
             TDP['2014'] = party
         }else if(party.Party === "Bharatiya Janata Party"){
+            TDP['2014'].Seats += party.Seats
+            TDP['2014'].Votes += party.Votes
+            TDP['2014'].VotePercent = (Number(TDP['2014'].VotePercent) + Number(party.VotePercent)).toFixed(2);
+
+        }else if(party.Party === "Janasena Party"){
             TDP['2014'].Seats += party.Seats
             TDP['2014'].Votes += party.Votes
             TDP['2014'].VotePercent = (Number(TDP['2014'].VotePercent) + Number(party.VotePercent)).toFixed(2);

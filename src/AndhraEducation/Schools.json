@@ -1,0 +1,1731 @@
+[
+    {
+        "S.No": 1,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "DUPPALAVALASA",
+        "Name of the Principal": "Sri D.DEVENDRA RAO",
+        "CUG Number": 9704550004,
+        "Personal NO": 9440887830,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 2,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "KANCHILI",
+        "Name of the Principal": "Smt R.RAMANESWARI",
+        "CUG Number": 9704550005,
+        "Personal NO": 9493118153,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 3,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "ETCHERLA",
+        "Name of the Principal": "Smt P.NIRMALA",
+        "CUG Number": 9704550006,
+        "Personal NO": 9494201989,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 4,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "PEDDAPADU",
+        "Name of the Principal": "Sri S. MRUTYUNJAYA RAO",
+        "CUG Number": 9704550007,
+        "Personal NO": 9440433339,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 5,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "NANDIGAM",
+        "Name of the Principal": "Sri P.SRINIVASA RAO",
+        "CUG Number": 9704550008,
+        "Personal NO": 9346743839,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 6,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "KOLLIVALASA",
+        "Name of the Principal": "Sri N.RAMAKRISHNA",
+        "CUG Number": 9949356321,
+        "Personal NO": 7702180269,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 7,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "PATHAPATNAM",
+        "Name of the Principal": "Smt V.ARCHANA (I\/C)",
+        "CUG Number": 9676488008,
+        "Personal NO": 6304326399,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 8,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "MANDASA",
+        "Name of the Principal": "Smt L LAKSHMI",
+        "CUG Number": 9704550012,
+        "Personal NO": 9441121145,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 9,
+        "District": "SRIKAKULAM",
+        "Name of the Institution": "TAMARAPALLI JC ",
+        "Name of the Principal": "Sri K.CHIRANJEEVI REDDY",
+        "CUG Number": 9704550010,
+        "Personal NO": "8309239433",
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 10,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "PALAKONDA",
+        "Name of the Principal": "Sri B.BUTCHI RAJU",
+        "CUG Number": 9704550009,
+        "Personal NO": 7013951516,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 11,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "VANGARA",
+        "Name of the Principal": "Smt P.USHA",
+        "CUG Number": 8008001393,
+        "Personal NO": 9491841193,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 12,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "BADANGI",
+        "Name of the Principal": "Sri MADDI RAJASEKHAR (I\/C)",
+        "CUG Number": 8008003067,
+        "Personal NO": 9493290976,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 13,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "CHEEPURUPALLI",
+        "Name of the Principal": "Smt A RANI SRI ",
+        "CUG Number": 9949356322,
+        "Personal NO": 8309361345,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 14,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "KOPPERLA",
+        "Name of the Principal": "Sri A.LAKSHMANA RAO (I\/C)",
+        "CUG Number": 9704550017,
+        "Personal NO": 9490269470,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 15,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "NELLIMARLA  ",
+        "Name of the Principal": "Smt K.USHA RANI",
+        "CUG Number": 9704550016,
+        "Personal NO": 9441160223,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 16,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "VIYYAMPETA",
+        "Name of the Principal": "Smt T.JAYA SREE",
+        "CUG Number": 9704550020,
+        "Personal NO": 9704550020,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 17,
+        "District": "VIZIANAGARAM",
+        "Name of the Institution": "VEPADA",
+        "Name of the Principal": "Smt U.Usha Rani (I\/C)",
+        "CUG Number": 9704550021,
+        "Personal NO": 9704550021,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 18,
+        "District": "Parvathipuram Manyam",
+        "Name of the Institution": "BHAMINI",
+        "Name of the Principal": "Smt M.VIJAYANIRMALA (I\/C)",
+        "CUG Number": 8008001395,
+        "Personal NO": 9704726357,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 19,
+        "District": "Parvathipuram Manyam",
+        "Name of the Institution": "SALURU",
+        "Name of the Principal": "Sri V.TIRUPATI RAO (I\/C)",
+        "CUG Number": 9704550018,
+        "Personal NO": 8317591975,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 20,
+        "District": "Parvathipuram Manyam",
+        "Name of the Institution": "PARVATHIPURAM ",
+        "Name of the Principal": "Sri DANNANA RAJA RAO(I\/C)",
+        "CUG Number": 9704550019,
+        "Personal NO": 9989458527,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 21,
+        "District": "Parvathipuram Manyam",
+        "Name of the Institution": "KOMARADA",
+        "Name of the Principal": "Smt A.RAJANI KUMARI (I\/C)",
+        "CUG Number": 8008003068,
+        "Personal NO": 9493000393,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 22,
+        "District": "Parvathipuram Manyam",
+        "Name of the Institution": "GARUGUBILLI",
+        "Name of the Principal": "Smt Ch.SRIDEVI (I\/C)",
+        "CUG Number": 9177333885,
+        "Personal NO": 9494919321,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 23,
+        "District": "VISAKHAPATNAM",
+        "Name of the Institution": "SRIKRISHNAPURAM",
+        "Name of the Principal": "Smt T.MARY FLORENCE",
+        "CUG Number": 9704550028,
+        "Personal NO": 9381050487,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 24,
+        "District": "VISAKHAPATNAM",
+        "Name of the Institution": "MEGADRIGADDA",
+        "Name of the Principal": "Smt S. PADMAJA",
+        "CUG Number": 9949356323,
+        "Personal NO": 9100368839,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 25,
+        "District": "VISAKHAPATNAM",
+        "Name of the Institution": "COE, MADHURAWADA",
+        "Name of the Principal": "Sri S.V.RAMANA (I\/C) (JL MATHS)",
+        "CUG Number": 9989773083,
+        "Personal NO": 9493891011,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 26,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "DEVARAPALLI",
+        "Name of the Principal": "Smt J MERCY (I\/C)",
+        "CUG Number": 9704550024,
+        "Personal NO": 9441578381,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 27,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "NAKKAPALLI",
+        "Name of the Principal": "Sri V.L.GANAPATHI RAO(I\/C)",
+        "CUG Number": 9704550025,
+        "Personal NO": 8985163542,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 28,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "GOLUGONDA",
+        "Name of the Principal": "Sri R.RAMA KRISHNA",
+        "CUG Number": 8008001392,
+        "Personal NO": 9989945738,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 29,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "SABBAVARAM",
+        "Name of the Principal": "Sri K VIJAYA KUMAR",
+        "CUG Number": 9704550027,
+        "Personal NO": 8886711556,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 30,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "KONAM",
+        "Name of the Principal": "Smt G.GRACE",
+        "CUG Number": 9177333886,
+        "Personal NO": 9177333886,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 31,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "NARSIPATNAM",
+        "Name of the Principal": "Smt L.SUNEETHA",
+        "CUG Number": 9704550031,
+        "Personal NO": 7981039496,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 32,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "TALLAPALEM  ",
+        "Name of the Principal": "Smt M.MANIKYAM",
+        "CUG Number": 9704550032,
+        "Personal NO": 9177897597,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 33,
+        "District": "ANAKAPALLI",
+        "Name of the Institution": "KOKKIRAPALLI",
+        "Name of the Principal": "Smt R.V.KRISHNA TARA",
+        "CUG Number": 9704550033,
+        "Personal NO": 9704550033,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 34,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "L N PURAM",
+        "Name of the Principal": "Sri S.NAGABABU",
+        "CUG Number": 9704550034,
+        "Personal NO": 9949768200,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 35,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "KOTHURU JC",
+        "Name of the Principal": "Sri G.VIJAY",
+        "CUG Number": 9704550042,
+        "Personal NO": 9505738170,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 36,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "RAJAHMUNDRY",
+        "Name of the Principal": "Smt A.VANI KUMARI",
+        "CUG Number": 9704550040,
+        "Personal NO": 7893527426,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 37,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "VEERALANKAPALLI",
+        "Name of the Principal": "Smt.K.M.V.RANI",
+        "CUG Number": 9704550046,
+        "Personal NO": 9441102187,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 38,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "KOVVURU",
+        "Name of the Principal": "Smt P.SUJATHA",
+        "CUG Number": 9704550280,
+        "Personal NO": 7997946085,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 39,
+        "District": "EAST GODAVARI",
+        "Name of the Institution": "KOMATIKUNTA",
+        "Name of the Principal": "Smt T.UMADEVI",
+        "CUG Number": 9704550056,
+        "Personal NO": 9492983949,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 40,
+        "District": "KAKINADA",
+        "Name of the Institution": "P.VENKATAPURAM",
+        "Name of the Principal": "Smt T.SUSEELA",
+        "CUG Number": 9704550036,
+        "Personal NO": 7382043764,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 41,
+        "District": "KAKINADA",
+        "Name of the Institution": "A.MALLAVARAM",
+        "Name of the Principal": "Sri D.PRASADANAM (I\/C)(JLTEL)",
+        "CUG Number": 9505670266,
+        "Personal NO": 9550555509,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 42,
+        "District": "KAKINADA",
+        "Name of the Institution": "S.M.NAGAR ",
+        "Name of the Principal": "Sri CH.MADHUSUDHANA RAO(I\/C)",
+        "CUG Number": 9949356324,
+        "Personal NO": 9704785333,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 43,
+        "District": "KAKINADA",
+        "Name of the Institution": "YELESWARAM  ",
+        "Name of the Principal": "Smt K.CHANDRA SARADA ",
+        "CUG Number": "9704550037\n(not working)",
+        "Personal NO": 9440210575,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 44,
+        "District": "KAKINADA",
+        "Name of the Institution": "V.KOTHURU TUNI   ",
+        "Name of the Principal": "Smt P.NIRMALA KUMARI",
+        "CUG Number": 9704551118,
+        "Personal NO": 8074079227,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 45,
+        "District": "KAKINADA",
+        "Name of the Institution": "JAGGAMPETA",
+        "Name of the Principal": "Smt G.RAJA KUMARI",
+        "CUG Number": 9704550045,
+        "Personal NO": 9603530534,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 46,
+        "District": "KAKINADA",
+        "Name of the Institution": "CHOLLANGIPETA ",
+        "Name of the Principal": "Sri V.NAGESWARA RAO",
+        "CUG Number": 9704550048,
+        "Personal NO": 9493286589,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 47,
+        "District": "KAKINADA",
+        "Name of the Institution": "PITHAPURAM",
+        "Name of the Principal": "Smt P.V.TRIVENI",
+        "CUG Number": "NO CUG",
+        "Personal NO": 9440844694,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 48,
+        "District": "KAKINADA",
+        "Name of the Institution": "TUNI",
+        "Name of the Principal": "Sri M.RAJU",
+        "CUG Number": "NO CUG",
+        "Personal NO": 7989666393,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 49,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "MUMMIDIVARAM",
+        "Name of the Principal": "Smt T GANGA BHAVANI",
+        "CUG Number": 9704550041,
+        "Personal NO": 9441638377,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 50,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "RAZOLE   ",
+        "Name of the Principal": "Smt T.LALITHA KUMARI",
+        "CUG Number": 9704550044,
+        "Personal NO": 9701856723,
+        "nan": 180.0,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 51,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "GODI  ",
+        "Name of the Principal": "Smt V.UMA KAVITA  (I\/C)",
+        "CUG Number": 9704550047,
+        "Personal NO": 8985943961,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 52,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "GODI",
+        "Name of the Principal": "Sri N.SAIBABU",
+        "CUG Number": 9704550038,
+        "Personal NO": 9908454667,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 53,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "P.GANNAVARAM  ",
+        "Name of the Principal": "Sri N.SRINIVASU",
+        "CUG Number": 7032703751,
+        "Personal NO": 9390679541,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 54,
+        "District": "Dr BR Ambedkar Konaseema",
+        "Name of the Institution": "DRAKSHARAMAM",
+        "Name of the Principal": "Sri Y.LAKSHMANA KUMAR",
+        "CUG Number": "90102 58497",
+        "Personal NO": 7013961462,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 55,
+        "District": "WEST GODAVARI",
+        "Name of the Institution": "ARUGOLANU",
+        "Name of the Principal": "Sri Bh.SRINIVASA RAO",
+        "CUG Number": 9704550050,
+        "Personal NO": 8977769998,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 56,
+        "District": "WEST GODAVARI",
+        "Name of the Institution": "NARSAPUR",
+        "Name of the Principal": "Sri K.BANGARRAJU",
+        "CUG Number": "Nil",
+        "Personal NO": 9849584694,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 57,
+        "District": "WEST GODAVARI",
+        "Name of the Institution": "ACHANTA",
+        "Name of the Principal": "Smt G.JAYA MANI (I\/C) ",
+        "CUG Number": 7032703752,
+        "Personal NO": 9959266815,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 58,
+        "District": "WEST GODAVARI",
+        "Name of the Institution": "ARUGOLANU (New)",
+        "Name of the Principal": "Sri B.RAJA RAO",
+        "CUG Number": 9704598129,
+        "Personal NO": 9014150557,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 59,
+        "District": "ELURU",
+        "Name of the Institution": "POLASANIPALLI",
+        "Name of the Principal": "Smt M.PADMAVATHI",
+        "CUG Number": 9949356325,
+        "Personal NO": 9440879511,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 60,
+        "District": "ELURU",
+        "Name of the Institution": "PEDAVEGI",
+        "Name of the Principal": "Smt N.BHARATHI",
+        "CUG Number": 9704550051,
+        "Personal NO": 6281562139,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 61,
+        "District": "ELURU",
+        "Name of the Institution": "ELURU \/ VATLURU",
+        "Name of the Principal": "Smt D MARY JHANSI RANI",
+        "CUG Number": 9704550052,
+        "Personal NO": 9100269643,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 62,
+        "District": "ELURU",
+        "Name of the Institution": "JANGAREDDYGUDEM",
+        "Name of the Principal": "Smt P.ARUNA",
+        "CUG Number": "Nil",
+        "Personal NO": 7780671591,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 63,
+        "District": "ELURU",
+        "Name of the Institution": "DWARAKA TIRUMALA",
+        "Name of the Principal": "Smt B RANI",
+        "CUG Number": "Nil",
+        "Personal NO": 9493477075,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 64,
+        "District": "ELURU",
+        "Name of the Institution": "CHINTALAPUDI",
+        "Name of the Principal": "Sri E.RAMAKRISHNA",
+        "CUG Number": "Nil",
+        "Personal NO": 9347751459,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 65,
+        "District": "ELURU",
+        "Name of the Institution": "NUZVID",
+        "Name of the Principal": "Smt R SRI LAKSHMI",
+        "CUG Number": 9704550062,
+        "Personal NO": 9441607647,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 66,
+        "District": "KRISHNA",
+        "Name of the Institution": "RUDRAVARAM",
+        "Name of the Principal": "Sri M.ANIL KUMAR",
+        "CUG Number": 9704550058,
+        "Personal NO": 9848588620,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 67,
+        "District": "KRISHNA",
+        "Name of the Institution": "GUDIWADA",
+        "Name of the Principal": "Smt B.V.K.SANJEEVINI DEVI l\/C",
+        "CUG Number": 9704550064,
+        "Personal NO": 7661985766,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 68,
+        "District": "KRISHNA",
+        "Name of the Institution": "CHALLAPALLI",
+        "Name of the Principal": "Smt.S.SAILAJA",
+        "CUG Number": 9704550067,
+        "Personal NO": 9491604167,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 69,
+        "District": "KRISHNA",
+        "Name of the Institution": "BALLIPARRU",
+        "Name of the Principal": "Smt N.RUTHAMMA",
+        "CUG Number": 9704550068,
+        "Personal NO": 9553857877,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 70,
+        "District": "KRISHNA",
+        "Name of the Institution": "VEERAPANENIGUDEM",
+        "Name of the Principal": null,
+        "CUG Number": 9704550069,
+        "Personal NO": null,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 71,
+        "District": "KRISHNA",
+        "Name of the Institution": "PAMARRU",
+        "Name of the Principal": "Smt T.A.ASHA LATHA",
+        "CUG Number": 7032703753,
+        "Personal NO": 9441149837,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 72,
+        "District": "NTR",
+        "Name of the Institution": "KUNTAMUKKALA ",
+        "Name of the Principal": "Smt K. VIJAYA LAKSHMI",
+        "CUG Number": 9704550059,
+        "Personal NO": 9701573903,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 73,
+        "District": "NTR",
+        "Name of the Institution": "KRISHNARAOPALEM",
+        "Name of the Principal": "Sri T RAJENDRA PRASAD",
+        "CUG Number": 9704550060,
+        "Personal NO": 9440667182,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 74,
+        "District": "NTR",
+        "Name of the Institution": "JAGGAIAHPETA",
+        "Name of the Principal": "Smt V.USHA RANI",
+        "CUG Number": 9704550061,
+        "Personal NO": 9866979006,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 75,
+        "District": "NTR",
+        "Name of the Institution": "TIRUVURU",
+        "Name of the Principal": "Sri P. KOTI REDDY (I\/C)",
+        "CUG Number": 9949356326,
+        "Personal NO": 9292405390,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 76,
+        "District": "NTR",
+        "Name of the Institution": "NANDIGAMA ",
+        "Name of the Principal": "Smt N. SUJANI (I\/C)",
+        "CUG Number": 9704550065,
+        "Personal NO": 9652224531,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 77,
+        "District": "NTR",
+        "Name of the Institution": "NARSAPURAM   ",
+        "Name of the Principal": "Smt Y. BABY RATNA KUMARI (I\/C)",
+        "CUG Number": 9704550066,
+        "Personal NO": 9948834880,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 78,
+        "District": "NTR",
+        "Name of the Institution": "RANGAPURAM",
+        "Name of the Principal": "Smt S.THABITHA",
+        "CUG Number": 9704550070,
+        "Personal NO": 9247123274,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 79,
+        "District": "GUNTUR",
+        "Name of the Institution": "KAKUMANU",
+        "Name of the Principal": "Smt K.J.PRASUNAMBA (I\/C)",
+        "CUG Number": 9704550082,
+        "Personal NO": 9701051401,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 80,
+        "District": "GUNTUR",
+        "Name of the Institution": "TADIKONDA",
+        "Name of the Principal": "Smt M.B.D.SYAMALA",
+        "CUG Number": 7032703754,
+        "Personal NO": 9182244206,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 81,
+        "District": "GUNTUR",
+        "Name of the Institution": "ADAVITHAKKELLAPADU(B)",
+        "Name of the Principal": "Smt C.SANTHI VISALA",
+        "CUG Number": 9502647647,
+        "Personal NO": 9502647647,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 82,
+        "District": "PALNADU",
+        "Name of the Institution": "KAREMPUDI",
+        "Name of the Principal": "Sri M.VANAPAL REDDY",
+        "CUG Number": 9849614958,
+        "Personal NO": 9849614958,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 83,
+        "District": "PALNADU",
+        "Name of the Institution": "RAMAKRISHNAPURAM ",
+        "Name of the Principal": "Smt K.RUTH RAMOLA",
+        "CUG Number": 9704550071,
+        "Personal NO": 8499922123,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 84,
+        "District": "PALNADU",
+        "Name of the Institution": "ATCHAMPETA",
+        "Name of the Principal": "Sri VADUGU VENKATA KRISHNA RAO",
+        "CUG Number": 9704550072,
+        "Personal NO": 9491663261,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 85,
+        "District": "PALNADU",
+        "Name of the Institution": "V.P.SOUTH",
+        "Name of the Principal": "Sri DEVARAKONDA BALA KRISHNA",
+        "CUG Number": 9704550074,
+        "Personal NO": 9440831737,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 86,
+        "District": "PALNADU",
+        "Name of the Institution": "UPPALAPADU",
+        "Name of the Principal": "Smt M.NAGESWARAMMA",
+        "CUG Number": 9704550080,
+        "Personal NO": 9963839468,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 87,
+        "District": "PALNADU",
+        "Name of the Institution": "AMARAVATHI",
+        "Name of the Principal": "Smt K.PADMAJA",
+        "CUG Number": 7995562117,
+        "Personal NO": 7995562117,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 88,
+        "District": "PALNADU",
+        "Name of the Institution": "VINUKONDA",
+        "Name of the Principal": "Smt B.VENKATAMMA",
+        "CUG Number": 7416238477,
+        "Personal NO": 9398785341,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 89,
+        "District": "PALNADU",
+        "Name of the Institution": "GURAZALA  ",
+        "Name of the Principal": "Sri M JOHN WESSLEY",
+        "CUG Number": 7032703755,
+        "Personal NO": 9949711896,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 90,
+        "District": "PALNADU",
+        "Name of the Institution": "YEDLAPADU ",
+        "Name of the Principal": "Sri T.HANUMANTHA RAO",
+        "CUG Number": 9908012752,
+        "Personal NO": 9908012752,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 91,
+        "District": "PALNADU",
+        "Name of the Institution": "SATTENAPALLI",
+        "Name of the Principal": "Smt K.S.V.SWARNA KUMARI",
+        "CUG Number": 9704840379,
+        "Personal NO": 9398085132,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 92,
+        "District": "BAPATLA",
+        "Name of the Institution": "BAPATLA",
+        "Name of the Principal": "Smt K.BHAVANI DEVI",
+        "CUG Number": 9704550075,
+        "Personal NO": 9490251040,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 93,
+        "District": "BAPATLA",
+        "Name of the Institution": "NIZAMPATNAM",
+        "Name of the Principal": "Smt E.V.R.GIRI KUMARI",
+        "CUG Number": 8008033112,
+        "Personal NO": 78933370393,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 94,
+        "District": "BAPATLA",
+        "Name of the Institution": "REPALLE  ",
+        "Name of the Principal": "Smt P.PADMAVATHI",
+        "CUG Number": 8008033113,
+        "Personal NO": 9490450044,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 95,
+        "District": "BAPATLA",
+        "Name of the Institution": "TSUNDUR ",
+        "Name of the Principal": "Sri K.RAMESH BABU",
+        "CUG Number": 9704550073,
+        "Personal NO": 9949712013,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 96,
+        "District": "BAPATLA",
+        "Name of the Institution": "NARASAYAPALEM",
+        "Name of the Principal": "Smt P.VINEETHA (I\/C)",
+        "CUG Number": "NIL",
+        "Personal NO": 9989480527,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 97,
+        "District": "BAPATLA",
+        "Name of the Institution": "NAGULAPALEM",
+        "Name of the Principal": "Smt P.VISWA RANI",
+        "CUG Number": 9704550091,
+        "Personal NO": 9000796498,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 98,
+        "District": "BAPATLA",
+        "Name of the Institution": "NORTH ADDANKI",
+        "Name of the Principal": "Smt P.DURGA GAYATRI ",
+        "CUG Number": 9704550092,
+        "Personal NO": 8464990242,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 99,
+        "District": "BAPATLA",
+        "Name of the Institution": "YADDANAPUDI",
+        "Name of the Principal": "Smt K.PRAMEELA",
+        "CUG Number": 9704550095,
+        "Personal NO": 9440611971,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 100,
+        "District": "PRAKASAM",
+        "Name of the Institution": "VELUGONDA",
+        "Name of the Principal": "Sri S.KOTESWARA RAO",
+        "CUG Number": 9959072599,
+        "Personal NO": 9959072599,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 101,
+        "District": "PRAKASAM",
+        "Name of the Institution": "ARDHAVEEDU  ",
+        "Name of the Principal": "Sri B.BALARAMI REDDY (I\/C)",
+        "CUG Number": 9000660581,
+        "Personal NO": 9440273496,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 102,
+        "District": "PRAKASAM",
+        "Name of the Institution": "CHIMAKURTHY ",
+        "Name of the Principal": "Sri M.VIJAYA BHASKARA REDDY",
+        "CUG Number": 9704550086,
+        "Personal NO": 9948835474,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 103,
+        "District": "PRAKASAM",
+        "Name of the Institution": "SINGARAYAKONDA",
+        "Name of the Principal": "Smt K.RAMA DEVI",
+        "CUG Number": 9704550087,
+        "Personal NO": 8519852021,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 104,
+        "District": "PRAKASAM",
+        "Name of the Institution": "CUMBUM",
+        "Name of the Principal": "Smt P CHAMUNDESWARI",
+        "CUG Number": 9704550088,
+        "Personal NO": 7815805491,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 105,
+        "District": "PRAKASAM",
+        "Name of the Institution": "DARSI",
+        "Name of the Principal": "Sri M.KONDA REDDY",
+        "CUG Number": "NIL",
+        "Personal NO": 9490729129,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 106,
+        "District": "PRAKASAM",
+        "Name of the Institution": "DUPADU ",
+        "Name of the Principal": "Smt K.MADHURAVANI",
+        "CUG Number": 9704550089,
+        "Personal NO": 9642381034,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 107,
+        "District": "PRAKASAM",
+        "Name of the Institution": "MARKAPUR",
+        "Name of the Principal": "Sri B.V.RANGAIAH (I\/C)",
+        "CUG Number": 9704550090,
+        "Personal NO": 9440012125,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 108,
+        "District": "PRAKASAM",
+        "Name of the Institution": "KURICHEDU",
+        "Name of the Principal": "Sri P.V. RAMANA",
+        "CUG Number": 9885989906,
+        "Personal NO": 9885989906,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 109,
+        "District": "PRAKASAM",
+        "Name of the Institution": "KONDEPI",
+        "Name of the Principal": "Sri E.C.KOTESWARA RAO",
+        "CUG Number": 9704550093,
+        "Personal NO": 6309678431,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 110,
+        "District": "PRAKASAM",
+        "Name of the Institution": "RACHERLA ",
+        "Name of the Principal": "Smt N.NAGAVARALAKSHMI (I\/C)",
+        "CUG Number": 9704550094,
+        "Personal NO": 9989440449,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 111,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "PEDAPAVANI",
+        "Name of the Principal": "Smt K.SNEHALATHA",
+        "CUG Number": 9704550083,
+        "Personal NO": 9849888123,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 112,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "MUTHUKUR",
+        "Name of the Principal": "Smt CH.SUJATHA",
+        "CUG Number": 9704550096,
+        "Personal NO": 8019989746,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 113,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "KANDALERU",
+        "Name of the Principal": "Smt K.BHARATHI",
+        "CUG Number": 9704550101,
+        "Personal NO": 9963840184,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 114,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "BUCHIREDDYPALEM  ",
+        "Name of the Principal": "Smt A.PADMASRI",
+        "CUG Number": 9704550103,
+        "Personal NO": 7569923400,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 115,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "KODURU",
+        "Name of the Principal": "Smt CH.ESTHERAMMA",
+        "CUG Number": 9640882494,
+        "Personal NO": 9640882494,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 116,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "ADURUPALLI",
+        "Name of the Principal": "Smt B.SAILAJA KUMARI",
+        "CUG Number": 7675875222,
+        "Personal NO": 9441956933,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 117,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "BOGOLE",
+        "Name of the Principal": "Smt M.ANURADHA   (I\/C)",
+        "CUG Number": 7032703756,
+        "Personal NO": 8331850419,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 118,
+        "District": "SPSR Nellore",
+        "Name of the Institution": "SANGAM  ",
+        "Name of the Principal": "Smt Y.MAHALAKSHMI",
+        "CUG Number": 9704550105,
+        "Personal NO": 7675816782,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 119,
+        "District": "CHITTOOR",
+        "Name of the Institution": "RAMAKUPPAM",
+        "Name of the Principal": "Sri S MANSOOR ALI",
+        "CUG Number": 9704550107,
+        "Personal NO": 9491944265,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 120,
+        "District": "CHITTOOR",
+        "Name of the Institution": "CHITTOOR",
+        "Name of the Principal": "Smt L.KIRANMAYI",
+        "CUG Number": 9704550109,
+        "Personal NO": 9704550109,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 121,
+        "District": "CHITTOOR",
+        "Name of the Institution": "PALAMANER",
+        "Name of the Principal": "Smt T.PADMAJA",
+        "CUG Number": 9704550112,
+        "Personal NO": 9959181478,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 122,
+        "District": "CHITTOOR",
+        "Name of the Institution": "GD SPSR Nellore",
+        "Name of the Principal": "Smt P.DAMAYANTHI (I\/C)",
+        "CUG Number": 7032703757,
+        "Personal NO": 9989211885,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 123,
+        "District": "CHITTOOR",
+        "Name of the Institution": "KUPPAM",
+        "Name of the Principal": "Sri K.THULASIRAM  (I\/C)",
+        "CUG Number": 8374297575,
+        "Personal NO": 9553234566,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 124,
+        "District": "CHITTOOR",
+        "Name of the Institution": "PUTHALAPATTU ",
+        "Name of the Principal": "Smt P.NIRMALA",
+        "CUG Number": 7032703758,
+        "Personal NO": 8919573147,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 125,
+        "District": "CHITTOOR",
+        "Name of the Institution": "VIJALAPURAM (KUPPAM)(B)",
+        "Name of the Principal": null,
+        "CUG Number": null,
+        "Personal NO": null,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 126,
+        "District": "TIRUPATI",
+        "Name of the Institution": "KOTA",
+        "Name of the Principal": "Sri A.VENKATESWARLU",
+        "CUG Number": 9704550097,
+        "Personal NO": 9441527569,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 127,
+        "District": "TIRUPATI",
+        "Name of the Institution": "NAIDUPET",
+        "Name of the Principal": "SRI DADA PEER",
+        "CUG Number": 6281042982,
+        "Personal NO": 9440455967,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 128,
+        "District": "TIRUPATI",
+        "Name of the Institution": "VAKADU",
+        "Name of the Principal": "Sri T.N.C. RAMANUJACHARYULU ",
+        "CUG Number": 9704550099,
+        "Personal NO": 8441644411,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 129,
+        "District": "TIRUPATI",
+        "Name of the Institution": "DAKKILI",
+        "Name of the Principal": "Smt S.SUMATHAMMA",
+        "CUG Number": 9704550100,
+        "Personal NO": 6305546764,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 130,
+        "District": "TIRUPATI",
+        "Name of the Institution": "CHILLAKUR",
+        "Name of the Principal": "Sri N MEERA SAHEB",
+        "CUG Number": 9121090912,
+        "Personal NO": 9441630392,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 131,
+        "District": "TIRUPATI",
+        "Name of the Institution": "SULLURUPET",
+        "Name of the Principal": "Smt C. RECHALVANI",
+        "CUG Number": 9704550102,
+        "Personal NO": 9441147276,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 132,
+        "District": "TIRUPATI",
+        "Name of the Institution": "PUDURU",
+        "Name of the Principal": "Smt H.PADMAJA",
+        "CUG Number": 9704550106,
+        "Personal NO": 8885822666,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 133,
+        "District": "TIRUPATI",
+        "Name of the Institution": "SRIKALAHASTI ",
+        "Name of the Principal": "Smt S.SRIDEVI",
+        "CUG Number": 9704550117,
+        "Personal NO": 9441080814,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 134,
+        "District": "TIRUPATI",
+        "Name of the Institution": "SATHYAVEEDU  ",
+        "Name of the Principal": "Smt R.VASUMATHI",
+        "CUG Number": 9704550115,
+        "Personal NO": 9441607735,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 135,
+        "District": "TIRUPATI",
+        "Name of the Institution": "PUTTUR  ",
+        "Name of the Principal": "Smt B.SUMITHRA DEVI",
+        "CUG Number": 9949356330,
+        "Personal NO": 9440660893,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 136,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "B MATTAM",
+        "Name of the Principal": "Sri B.CHITTI BABU (I\/C)",
+        "CUG Number": 8008286123,
+        "Personal NO": 8309982170,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 137,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "CHINNACHOWK",
+        "Name of the Principal": "Smt V.D.SUKANYA",
+        "CUG Number": 9704550120,
+        "Personal NO": 9704550120,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 138,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "SAGILERU",
+        "Name of the Principal": "Sri T.N.VARA PRASAD (I\/C)",
+        "CUG Number": 9704550282,
+        "Personal NO": 9441722221,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 139,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "KAMALAPURAM  ",
+        "Name of the Principal": "Sri D.A. SESHASAYAN (I\/C)",
+        "CUG Number": 9704550123,
+        "Personal NO": 9440507748,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 140,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "GANDIKSHETRAM",
+        "Name of the Principal": "Sri P. SURENDRA BABU (I\/C)",
+        "CUG Number": 9949356332,
+        "Personal NO": 9441737940,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 141,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "THONDURU",
+        "Name of the Principal": "Smt.P.TULASAMMA",
+        "CUG Number": 9704550129,
+        "Personal NO": 9985583107,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 142,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "GUNDLAKUNTA",
+        "Name of the Principal": "Smt.G.SUBHADRAMMA (I\/C)",
+        "CUG Number": 9704550130,
+        "Personal NO": 9866781730,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 143,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "MADAKALAVARIPALLI",
+        "Name of the Principal": "V.V.SUNEETHA (I\/C)",
+        "CUG Number": 9704550131,
+        "Personal NO": 9642533832,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 144,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "RAJUPALEM ",
+        "Name of the Principal": "Smt D.KRISHNAVENAMMA (I\/C)",
+        "CUG Number": 9704550133,
+        "Personal NO": 8019936638,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 145,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "PULIVENDULA",
+        "Name of the Principal": "Sri B.NAZURULLA (I\/C)",
+        "CUG Number": 9704550134,
+        "Personal NO": 7780269125,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 146,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "KONDAPURAM ",
+        "Name of the Principal": "Sri K PRASAD REDDY",
+        "CUG Number": 9704550135,
+        "Personal NO": 9396886537,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 147,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "COE PULIVENDULA ",
+        "Name of the Principal": "Sri K.RAMACHANDRAN",
+        "CUG Number": 8008285123,
+        "Personal NO": 9441462794,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 148,
+        "District": "YSR Kadapa",
+        "Name of the Institution": "B MATTAM NEW",
+        "Name of the Principal": "Sri B.CHITTI BABU (I\/C)",
+        "CUG Number": 8008286123,
+        "Personal NO": 8309982170,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 149,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "B.KOTHAKOTA   ",
+        "Name of the Principal": "Smt B NAGAVELU",
+        "CUG Number": 9704550108,
+        "Personal NO": 9441107815,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 150,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "PILER",
+        "Name of the Principal": "Smt B.V. SREELATHA",
+        "CUG Number": 9704550110,
+        "Personal NO": 9346158655,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 151,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "BURAKAYALAKOTA",
+        "Name of the Principal": "Sri K.VASUDEVA RAO  I\/C",
+        "CUG Number": 9704550111,
+        "Personal NO": 9441775136,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 152,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "MADANAPALLI",
+        "Name of the Principal": "Smt P.KANYA KUMARI",
+        "CUG Number": 8008301021,
+        "Personal NO": 9676782067,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 153,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "VALMIKIPURAM",
+        "Name of the Principal": "Sri P. GUNASEKHAR",
+        "CUG Number": 7093323208,
+        "Personal NO": 9394452944,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 154,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "RAMAPURAM",
+        "Name of the Principal": "Sri J.RAMACHANDRA (I\/C)",
+        "CUG Number": 9704550121,
+        "Personal NO": 9441154871,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 155,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "RLY KODURU",
+        "Name of the Principal": "Dr.C.PRABHAVATHAMMA",
+        "CUG Number": 9704550283,
+        "Personal NO": 9110773571,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 156,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "RAYACHOTI",
+        "Name of the Principal": "Smt G.BABY KARUNA (I\/C)",
+        "CUG Number": 9704550124,
+        "Personal NO": 9491580105,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 157,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "DEVAPATLA",
+        "Name of the Principal": "Smt B.SREEKALA DEVI",
+        "CUG Number": 9704550127,
+        "Personal NO": 8074817989,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 158,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "ADAPUR",
+        "Name of the Principal": "Smt L.MADHAVI LATHA",
+        "CUG Number": 9704550128,
+        "Personal NO": 9704550128,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 159,
+        "District": "ANNAMAYYA",
+        "Name of the Institution": "LAKKIREDDYPALLY  ",
+        "Name of the Principal": "Sri V.V.VARA PRASAD (I\/C)",
+        "CUG Number": 9704550132,
+        "Personal NO": 6300931157,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 160,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "KURUGUNTA",
+        "Name of the Principal": "Smt N.SUNEETHA",
+        "CUG Number": 8008885025,
+        "Personal NO": 9908057058,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 161,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "THIMMAPUR",
+        "Name of the Principal": "Smt V. VIJAYA LAKSHMI",
+        "CUG Number": 9704550138,
+        "Personal NO": 8985804591,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 162,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "KANNEKAL",
+        "Name of the Principal": "Smt B.K.PRASANNA KUMARI",
+        "CUG Number": 9704550139,
+        "Personal NO": 9704278185,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 163,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "URAVAKONDA",
+        "Name of the Principal": "Smt G. VIJAYA LAKSHMI",
+        "CUG Number": 9704550141,
+        "Personal NO": 8919509575,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 164,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "B PAPPUR",
+        "Name of the Principal": "Sri V.VENKATESULU (I\/C)",
+        "CUG Number": 9704550142,
+        "Personal NO": 6302392529,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 165,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "GOOTY ",
+        "Name of the Principal": "Smt S.S.USHARANI",
+        "CUG Number": 9704550145,
+        "Personal NO": 9491355069,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 166,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "BRAHMASAMUDRAM",
+        "Name of the Principal": "Smt B.SATYAVATHAMMA",
+        "CUG Number": "9704550146(LOST SIM)",
+        "Personal NO": 9949662379,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 167,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "KORRAPADU",
+        "Name of the Principal": "Smt B.SUDHARANI",
+        "CUG Number": 7032703759,
+        "Personal NO": 8074977389,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 168,
+        "District": "ANANTHAPURAMU",
+        "Name of the Institution": "KURUGUNTA JC",
+        "Name of the Principal": "Smt A.UDAYASREE",
+        "CUG Number": 9704550144,
+        "Personal NO": 9963136655,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 169,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "KALASAMUDRAM",
+        "Name of the Principal": "Sri E.DADAPEER",
+        "CUG Number": 9704550136,
+        "Personal NO": 6281042982,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 170,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "MALUGURU",
+        "Name of the Principal": "Sri B. MADHUSUDHANA RAO (I\/C)",
+        "CUG Number": 9704550137,
+        "Personal NO": 9110367784,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 171,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "NALLAMADA",
+        "Name of the Principal": "Smt M.HEMA (I\/C)",
+        "CUG Number": 9704550140,
+        "Personal NO": 7013559135,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 172,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "AMARAPURAM",
+        "Name of the Principal": "Smt T.V.APARNA (I\/C)",
+        "CUG Number": 9704550147,
+        "Personal NO": 8639995939,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 173,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "HINDUPUR",
+        "Name of the Principal": "Smt K.NAGAMANI",
+        "CUG Number": 9704550148,
+        "Personal NO": 7981491964,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 174,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "ROLLA (NEW)",
+        "Name of the Principal": "Smt G. SUJATHA",
+        "CUG Number": "NO",
+        "Personal NO": 9490482602,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 175,
+        "District": "SRI SATYA SAI",
+        "Name of the Institution": "HINDUPUR (NEW)",
+        "Name of the Principal": "Sri R.MYLARAPPA (I\/C)",
+        "CUG Number": "NO",
+        "Personal NO": 9490123403,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 176,
+        "District": "KURNOOL",
+        "Name of the Institution": "ARIKERA",
+        "Name of the Principal": "Sri G.HANUMANTHA RAO (I\/C)",
+        "CUG Number": 9704550149,
+        "Personal NO": 7780241482,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 177,
+        "District": "KURNOOL",
+        "Name of the Institution": "C.BELGAL",
+        "Name of the Principal": "Sri P.V.DAMODAR REDDY (I\/C)",
+        "CUG Number": 9704550151,
+        "Personal NO": 9490444847,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 178,
+        "District": "KURNOOL",
+        "Name of the Institution": "DINNEDEVARAPADU",
+        "Name of the Principal": "Smt S. VIJAYALAKSHMI",
+        "CUG Number": 9704550152,
+        "Personal NO": 6305324652,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 179,
+        "District": "KURNOOL",
+        "Name of the Institution": "ADONI  ",
+        "Name of the Principal": "Smt T.A.G.SUNITHA",
+        "CUG Number": 9704550156,
+        "Personal NO": 9398580319,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 180,
+        "District": "KURNOOL",
+        "Name of the Institution": "VELDURTHY",
+        "Name of the Principal": "Smt G.LAKSHMI PRASUNA ",
+        "CUG Number": 9704550157,
+        "Personal NO": 8985263576,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 181,
+        "District": "KURNOOL",
+        "Name of the Institution": "PATTIKONDA  ",
+        "Name of the Principal": "Smt B.UMA KUMARI",
+        "CUG Number": 9704550158,
+        "Personal NO": 9989444328,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 182,
+        "District": "KURNOOL",
+        "Name of the Institution": "KAMBALAPADU",
+        "Name of the Principal": "Smt P.ARUNA KUMARI",
+        "CUG Number": 9704550159,
+        "Personal NO": 9177412243,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 183,
+        "District": "KURNOOL",
+        "Name of the Institution": "CHINNATEKUR",
+        "Name of the Principal": "Sri D.RAMA SUBBA REDDY",
+        "CUG Number": 9949356333,
+        "Personal NO": 9440475244,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 184,
+        "District": "NANDYAL",
+        "Name of the Institution": "ALLAGADDA RPRP",
+        "Name of the Principal": "Smt K.SOWBHAGYA LAKSHMI",
+        "CUG Number": 9704550161,
+        "Personal NO": 9441234589,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 185,
+        "District": "NANDYAL",
+        "Name of the Institution": "KOILAKUNTLA",
+        "Name of the Principal": "Smt S.FIRDOSE ANJUM",
+        "CUG Number": 9704550150,
+        "Personal NO": 6305719764,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 186,
+        "District": "NANDYAL",
+        "Name of the Institution": "JUPADU BUNGALOW",
+        "Name of the Principal": "Sri G.Raju (I\/C)",
+        "CUG Number": 9704550153,
+        "Personal NO": 9440340977,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 187,
+        "District": "NANDYAL",
+        "Name of the Institution": "DHONE",
+        "Name of the Principal": "Smt M.E.GEETHA",
+        "CUG Number": 9704550154,
+        "Personal NO": 9704745187,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 188,
+        "District": "NANDYAL",
+        "Name of the Institution": "ALLAGADDA REGULAR ",
+        "Name of the Principal": "Smt CH.K.SANDHYA RANI (l\/C)",
+        "CUG Number": 9704550155,
+        "Personal NO": 8522990884,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 189,
+        "District": "NANDYAL",
+        "Name of the Institution": "LAKSHMAPURAM ",
+        "Name of the Principal": "Smt V.V.RAMANAMMA",
+        "CUG Number": 9704550160,
+        "Personal NO": 9182765021,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 190,
+        "District": "KRISHNA",
+        "Name of the Institution": "IIT - EEDUPUGALLU",
+        "Name of the Principal": "Smt K.BEULAH",
+        "CUG Number": "NO",
+        "Personal NO": 9440066261,
+        "Gender": "Girls"
+    },
+    {
+        "S.No": 191,
+        "District": "GUNTUR",
+        "Name of the Institution": "IIT - GORANTLA",
+        "Name of the Principal": "Sri G.ANAND BABU",
+        "CUG Number": "No",
+        "Personal NO": 9951821371,
+        "Gender": "Boys"
+    },
+    {
+        "S.No": 192,
+        "District": "KURNOOL",
+        "Name of the Institution": "IIT - CHINNATEKUR",
+        "Name of the Principal": "Sri D.RAMA SUBBA REDDY",
+        "CUG Number": 8978957788,
+        "Personal NO": 9440475244,
+        "Gender": "Boys"
+    }
+]

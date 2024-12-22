@@ -10,8 +10,8 @@ import partyNamesData2019 from './PartyNames.json'
 
 
 const IndiaMap = () => {
-    const [electionData, setElectionData] = useState(electionData2014);
-    const [partyNamesData, setPartyNamesData] = useState(partyNamesData2014);
+    const [electionData, setElectionData] = useState(electionData2019);
+    const [partyNamesData, setPartyNamesData] = useState(partyNamesData2019);
     const changeYear = (event) => {
         if(event.target.value == 2019){
             setElectionData(electionData2019)
@@ -544,10 +544,10 @@ const IndiaMap = () => {
     },[states.features,electionData])
     return (
         <>
-            <select onChange={(event) => changeYear(event)}>
+            {/* <select onChange={(event) => changeYear(event)}>
                 <option value={2019}>2019</option>
                 <option value={2014}>2014</option>
-            </select>
+            </select> */}
             <div className='tooltip'></div>
             <div className='tooltip_pc'></div>
             <svg viewBox="0 0 840 700">

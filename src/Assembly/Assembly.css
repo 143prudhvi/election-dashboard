@@ -1,15 +1,16 @@
 .ac_name_heading{
-    margin: 24px 0;
+    margin:  0;
     font-size: 32px;
     font-weight: 700;
 }
 
 .candidate-list_item{
-    width: 100%;
+    position: relative;
+    width: 80%;
     margin: 16px auto;
     background-color: rgb(206, 206, 206);
     border-radius: 15px;
-    max-width: 600px;
+    max-width: 360px;
 }
 
 .candidate-list_item > *{
@@ -20,20 +21,22 @@
 }
 
 .candidate-list_image{
-    width: 75px;
-    height: 75px;
+    position: absolute;
+    top: 50%;
+    width: 50px;
+    height: 50px;
     box-shadow: 2px 2px 6px rgb(0 0 0 / 50%);
     border-radius: 50%;
     margin: 8px auto 16px;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sun_Cross_Swastika.svg/1024px-Sun_Cross_Swastika.svg.png");
     background-position: center; 
     background-repeat: no-repeat;
-    background-size: 62.5px 62.5px;
+    background-size: 46px 46px;
     background-color: white;
 }
 
 .candidate-list_name{
-    width: 150px;
+    display: block;
     text-align: left;
     font-size: 12px;
     font-weight: 700;
@@ -56,21 +59,21 @@
     background-position: center; 
     background-repeat: no-repeat;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lotos_flower_symbol.svg/1024px-Lotos_flower_symbol.svg.png");
-    background-size: 50px 50px;
+    background-size: 36px 36px;
 }
 
 .INC > .candidate-list_image{
     background-position: center; 
     background-repeat: no-repeat;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hand_INC.svg/1024px-Hand_INC.svg.png");
-    background-size: 70px 70px;
+    background-size: 48px 48px;
 }
 
 .AAP > .candidate-list_image{
     background-position: center; 
     background-repeat: no-repeat;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/02/AAP_Symbol.png");
-    background-size: 70px 22px;
+    background-size: 48px 16px;
 }
 
 .candidate-list_item:first-child{

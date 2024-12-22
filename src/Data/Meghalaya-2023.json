@@ -1,0 +1,3839 @@
+[
+    {
+        "ac_no": "1",
+        "declared": true,
+        "ac_name": "Nartiang ",
+        "candidates": [
+            {
+                "Candidate": "DAWAN LYNGDOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 884,
+                "Postal Votes": 9,
+                "Total Votes": 893,
+                "Vote %": 2.19
+            },
+            {
+                "Candidate": "EMLANG LALOO",
+                "Party": "Indian National Congress",
+                "EVM Votes": 14683,
+                "Postal Votes": 163,
+                "Total Votes": 14846,
+                "Vote %": 36.36
+            },
+            {
+                "Candidate": "RIMIKI SARI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 278,
+                "Postal Votes": 4,
+                "Total Votes": 282,
+                "Vote %": 0.69
+            },
+            {
+                "Candidate": "SNIAWBHALANG DHAR",
+                "Party": "National People's Party",
+                "EVM Votes": 16601,
+                "Postal Votes": 368,
+                "Total Votes": 16969,
+                "Vote %": 41.56
+            },
+            {
+                "Candidate": "GENEROUS PASLEIN",
+                "Party": "Independent",
+                "EVM Votes": 7357,
+                "Postal Votes": 47,
+                "Total Votes": 7404,
+                "Vote %": 18.14
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 432,
+                "Postal Votes": 1,
+                "Total Votes": 433,
+                "Vote %": 1.06
+            }
+        ]
+    },
+    {
+        "ac_no": "2",
+        "declared": true,
+        "ac_name": "Jowai ",
+        "candidates": [
+            {
+                "Candidate": "ALLAN KEITH SUCHIANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 315,
+                "Postal Votes": 11,
+                "Total Votes": 326,
+                "Vote %": 0.89
+            },
+            {
+                "Candidate": "AWHAI ANDREW SHULLAI",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 10802,
+                "Postal Votes": 610,
+                "Total Votes": 11412,
+                "Vote %": 31.08
+            },
+            {
+                "Candidate": "DANIEL DANN",
+                "Party": "Indian National Congress",
+                "EVM Votes": 210,
+                "Postal Votes": 6,
+                "Total Votes": 216,
+                "Vote %": 0.59
+            },
+            {
+                "Candidate": "MOONLIGHT PARIAT",
+                "Party": "United Democratic Party",
+                "EVM Votes": 9710,
+                "Postal Votes": 550,
+                "Total Votes": 10260,
+                "Vote %": 27.94
+            },
+            {
+                "Candidate": "WAILADMIKI SHYLLA",
+                "Party": "National People's Party",
+                "EVM Votes": 13397,
+                "Postal Votes": 682,
+                "Total Votes": 14079,
+                "Vote %": 38.35
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 418,
+                "Postal Votes": 5,
+                "Total Votes": 423,
+                "Vote %": 1.15
+            }
+        ]
+    },
+    {
+        "ac_no": "3",
+        "declared": true,
+        "ac_name": "Raliang ",
+        "candidates": [
+            {
+                "Candidate": "COMING ONE YMBON",
+                "Party": "National People's Party",
+                "EVM Votes": 13134,
+                "Postal Votes": 492,
+                "Total Votes": 13626,
+                "Vote %": 38.43
+            },
+            {
+                "Candidate": "LAKHON BIAM",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 8117,
+                "Postal Votes": 172,
+                "Total Votes": 8289,
+                "Vote %": 23.37
+            },
+            {
+                "Candidate": "RICHARD SINGH LYNGDOH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 4097,
+                "Postal Votes": 57,
+                "Total Votes": 4154,
+                "Vote %": 11.71
+            },
+            {
+                "Candidate": "ROBINUS SYNGKON",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1244,
+                "Postal Votes": 25,
+                "Total Votes": 1269,
+                "Vote %": 3.58
+            },
+            {
+                "Candidate": "SHEMHOK GAROD",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 2444,
+                "Postal Votes": 69,
+                "Total Votes": 2513,
+                "Vote %": 7.09
+            },
+            {
+                "Candidate": "J TREILANG SUCHIANG",
+                "Party": "United Democratic Party",
+                "EVM Votes": 5183,
+                "Postal Votes": 67,
+                "Total Votes": 5250,
+                "Vote %": 14.8
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 359,
+                "Postal Votes": 1,
+                "Total Votes": 360,
+                "Vote %": 1.02
+            }
+        ]
+    },
+    {
+        "ac_no": "4",
+        "declared": true,
+        "ac_name": "Mowkaiaw ",
+        "candidates": [
+            {
+                "Candidate": "CURRENTIS RABON",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 108,
+                "Postal Votes": 2,
+                "Total Votes": 110,
+                "Vote %": 0.3
+            },
+            {
+                "Candidate": "HABAHUN DKHAR",
+                "Party": "National People's Party",
+                "EVM Votes": 10420,
+                "Postal Votes": 187,
+                "Total Votes": 10607,
+                "Vote %": 28.86
+            },
+            {
+                "Candidate": "LASTING SUCHIANG",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 858,
+                "Postal Votes": 14,
+                "Total Votes": 872,
+                "Vote %": 2.37
+            },
+            {
+                "Candidate": "NEHEMAYAH TYNGKAN",
+                "Party": "Indian National Congress",
+                "EVM Votes": 10166,
+                "Postal Votes": 124,
+                "Total Votes": 10290,
+                "Vote %": 28.0
+            },
+            {
+                "Candidate": "NUJORKI SUNGOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 14137,
+                "Postal Votes": 371,
+                "Total Votes": 14508,
+                "Vote %": 39.48
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 360,
+                "Postal Votes": 0,
+                "Total Votes": 360,
+                "Vote %": 0.98
+            }
+        ]
+    },
+    {
+        "ac_no": "5",
+        "declared": true,
+        "ac_name": "Sutnga Saipung ",
+        "candidates": [
+            {
+                "Candidate": "KRISON LANGSTANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 420,
+                "Postal Votes": 4,
+                "Total Votes": 424,
+                "Vote %": 0.98
+            },
+            {
+                "Candidate": "SANTA MARY SHYLLA",
+                "Party": "National People's Party",
+                "EVM Votes": 16719,
+                "Postal Votes": 255,
+                "Total Votes": 16974,
+                "Vote %": 39.1
+            },
+            {
+                "Candidate": "SHITLANG PALE",
+                "Party": "United Democratic Party",
+                "EVM Votes": 10224,
+                "Postal Votes": 229,
+                "Total Votes": 10453,
+                "Vote %": 24.08
+            },
+            {
+                "Candidate": "VINCENT .H. PALA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 14866,
+                "Postal Votes": 280,
+                "Total Votes": 15146,
+                "Vote %": 34.89
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 412,
+                "Postal Votes": 4,
+                "Total Votes": 416,
+                "Vote %": 0.96
+            }
+        ]
+    },
+    {
+        "ac_no": "6",
+        "declared": true,
+        "ac_name": "Khliehriat ",
+        "candidates": [
+            {
+                "Candidate": "BHAYES CHYRMANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 170,
+                "Postal Votes": 4,
+                "Total Votes": 174,
+                "Vote %": 0.41
+            },
+            {
+                "Candidate": "JHANIKA SIANGSHAI",
+                "Party": "Indian National Congress",
+                "EVM Votes": 111,
+                "Postal Votes": 3,
+                "Total Votes": 114,
+                "Vote %": 0.27
+            },
+            {
+                "Candidate": "KYRMEN SHYLLA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 23011,
+                "Postal Votes": 503,
+                "Total Votes": 23514,
+                "Vote %": 54.95
+            },
+            {
+                "Candidate": "NEHLANG LYNGDOH",
+                "Party": "National People's Party",
+                "EVM Votes": 17519,
+                "Postal Votes": 389,
+                "Total Votes": 17908,
+                "Vote %": 41.85
+            },
+            {
+                "Candidate": "SUNIDA BAREH",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 109,
+                "Postal Votes": 0,
+                "Total Votes": 109,
+                "Vote %": 0.25
+            },
+            {
+                "Candidate": "DAMEWANHI L RYMBAI",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 851,
+                "Postal Votes": 10,
+                "Total Votes": 861,
+                "Vote %": 2.01
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 112,
+                "Postal Votes": 3,
+                "Total Votes": 115,
+                "Vote %": 0.27
+            }
+        ]
+    },
+    {
+        "ac_no": "7",
+        "declared": true,
+        "ac_name": "Amlarem ",
+        "candidates": [
+            {
+                "Candidate": "ALBAN K. GASHNGA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 99,
+                "Postal Votes": 1,
+                "Total Votes": 100,
+                "Vote %": 0.28
+            },
+            {
+                "Candidate": "ARBIANGKAM KHARSOHMAT",
+                "Party": "Indian National Congress",
+                "EVM Votes": 132,
+                "Postal Votes": 6,
+                "Total Votes": 138,
+                "Vote %": 0.38
+            },
+            {
+                "Candidate": "FIRSTBORN MANNER",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 106,
+                "Postal Votes": 2,
+                "Total Votes": 108,
+                "Vote %": 0.3
+            },
+            {
+                "Candidate": "LAHKMEN RYMBUI",
+                "Party": "United Democratic Party",
+                "EVM Votes": 17457,
+                "Postal Votes": 346,
+                "Total Votes": 17803,
+                "Vote %": 49.15
+            },
+            {
+                "Candidate": "STEPHANSON MUKHIM",
+                "Party": "National People's Party",
+                "EVM Votes": 17488,
+                "Postal Votes": 258,
+                "Total Votes": 17746,
+                "Vote %": 48.99
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 325,
+                "Postal Votes": 3,
+                "Total Votes": 328,
+                "Vote %": 0.91
+            }
+        ]
+    },
+    {
+        "ac_no": "8",
+        "declared": true,
+        "ac_name": "Mawhati ",
+        "candidates": [
+            {
+                "Candidate": "BAIAHUNLANG MAKDOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 6494,
+                "Postal Votes": 62,
+                "Total Votes": 6556,
+                "Vote %": 18.46
+            },
+            {
+                "Candidate": "CHARLES MARNGAR",
+                "Party": "Indian National Congress",
+                "EVM Votes": 13104,
+                "Postal Votes": 169,
+                "Total Votes": 13273,
+                "Vote %": 37.38
+            },
+            {
+                "Candidate": "EVALYNI KHARBANI",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 4569,
+                "Postal Votes": 21,
+                "Total Votes": 4590,
+                "Vote %": 12.93
+            },
+            {
+                "Candidate": "DR. EVARIST MYRSING",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1359,
+                "Postal Votes": 17,
+                "Total Votes": 1376,
+                "Vote %": 3.87
+            },
+            {
+                "Candidate": "ROSWEL SHADAP",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 553,
+                "Postal Votes": 7,
+                "Total Votes": 560,
+                "Vote %": 1.58
+            },
+            {
+                "Candidate": "DR. SARALIN DORPHANG",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 717,
+                "Postal Votes": 12,
+                "Total Votes": 729,
+                "Vote %": 2.05
+            },
+            {
+                "Candidate": "SHEMPHANG LYNGDOH",
+                "Party": "National People's Party",
+                "EVM Votes": 7945,
+                "Postal Votes": 84,
+                "Total Votes": 8029,
+                "Vote %": 22.61
+            },
+            {
+                "Candidate": "OSBERT B. RYNJAH",
+                "Party": "Independent",
+                "EVM Votes": 204,
+                "Postal Votes": 4,
+                "Total Votes": 208,
+                "Vote %": 0.59
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 190,
+                "Postal Votes": 1,
+                "Total Votes": 191,
+                "Vote %": 0.54
+            }
+        ]
+    },
+    {
+        "ac_no": "9",
+        "declared": true,
+        "ac_name": "Nongpoh ",
+        "candidates": [
+            {
+                "Candidate": "LONG SINGH BEY",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 639,
+                "Postal Votes": 22,
+                "Total Votes": 661,
+                "Vote %": 2.01
+            },
+            {
+                "Candidate": "MACDALYN SAWKMIE MAWLONG",
+                "Party": "National People's Party",
+                "EVM Votes": 7297,
+                "Postal Votes": 149,
+                "Total Votes": 7446,
+                "Vote %": 22.65
+            },
+            {
+                "Candidate": "MARIAN MARING",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1055,
+                "Postal Votes": 24,
+                "Total Votes": 1079,
+                "Vote %": 3.28
+            },
+            {
+                "Candidate": "MAYRALBORN SYIEM",
+                "Party": "United Democratic Party",
+                "EVM Votes": 14391,
+                "Postal Votes": 549,
+                "Total Votes": 14940,
+                "Vote %": 45.44
+            },
+            {
+                "Candidate": "RONA KHYMDEIT",
+                "Party": "Indian National Congress",
+                "EVM Votes": 8065,
+                "Postal Votes": 189,
+                "Total Votes": 8254,
+                "Vote %": 25.11
+            },
+            {
+                "Candidate": "BISMO INGTIH",
+                "Party": "Independent",
+                "EVM Votes": 192,
+                "Postal Votes": 3,
+                "Total Votes": 195,
+                "Vote %": 0.59
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 297,
+                "Postal Votes": 3,
+                "Total Votes": 300,
+                "Vote %": 0.91
+            }
+        ]
+    },
+    {
+        "ac_no": "10",
+        "declared": true,
+        "ac_name": "Jirang ",
+        "candidates": [
+            {
+                "Candidate": "ADRIAN LAMBERT MYLLIEM",
+                "Party": "Indian National Congress",
+                "EVM Votes": 10948,
+                "Postal Votes": 119,
+                "Total Votes": 11067,
+                "Vote %": 31.76
+            },
+            {
+                "Candidate": "BADHOK NONGMALIEH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 4064,
+                "Postal Votes": 43,
+                "Total Votes": 4107,
+                "Vote %": 11.78
+            },
+            {
+                "Candidate": "RIYA SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 2056,
+                "Postal Votes": 19,
+                "Total Votes": 2075,
+                "Vote %": 5.95
+            },
+            {
+                "Candidate": "SOSTHENES SOHTUN",
+                "Party": "National People's Party",
+                "EVM Votes": 12502,
+                "Postal Votes": 188,
+                "Total Votes": 12690,
+                "Vote %": 36.41
+            },
+            {
+                "Candidate": "SUNMOON D. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 3905,
+                "Postal Votes": 23,
+                "Total Votes": 3928,
+                "Vote %": 11.27
+            },
+            {
+                "Candidate": "SERIMINA D. MARAK",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 173,
+                "Postal Votes": 2,
+                "Total Votes": 175,
+                "Vote %": 0.5
+            },
+            {
+                "Candidate": "FORCASTER NONGRANG",
+                "Party": "Independent",
+                "EVM Votes": 265,
+                "Postal Votes": 3,
+                "Total Votes": 268,
+                "Vote %": 0.77
+            },
+            {
+                "Candidate": "LEE TREVOR BAREH",
+                "Party": "Independent",
+                "EVM Votes": 219,
+                "Postal Votes": 7,
+                "Total Votes": 226,
+                "Vote %": 0.65
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 314,
+                "Postal Votes": 1,
+                "Total Votes": 315,
+                "Vote %": 0.9
+            }
+        ]
+    },
+    {
+        "ac_no": "11",
+        "declared": true,
+        "ac_name": "Umsning ",
+        "candidates": [
+            {
+                "Candidate": "DR. CELESTINE LYNGDOH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 9733,
+                "Postal Votes": 174,
+                "Total Votes": 9907,
+                "Vote %": 29.31
+            },
+            {
+                "Candidate": "DONLANG SOHKHLET",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 576,
+                "Postal Votes": 9,
+                "Total Votes": 585,
+                "Vote %": 1.73
+            },
+            {
+                "Candidate": "DURUTH MAJAW",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 313,
+                "Postal Votes": 11,
+                "Total Votes": 324,
+                "Vote %": 0.96
+            },
+            {
+                "Candidate": "GILBERT NONGRUM",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 291,
+                "Postal Votes": 5,
+                "Total Votes": 296,
+                "Vote %": 0.88
+            },
+            {
+                "Candidate": "JASON SAWKMIE MAWLONG",
+                "Party": "National People's Party",
+                "EVM Votes": 7771,
+                "Postal Votes": 174,
+                "Total Votes": 7945,
+                "Vote %": 23.5
+            },
+            {
+                "Candidate": "PRIMSON MAKDOH",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 351,
+                "Postal Votes": 2,
+                "Total Votes": 353,
+                "Vote %": 1.04
+            },
+            {
+                "Candidate": "SUNSHINE MAKRI",
+                "Party": "United Democratic Party",
+                "EVM Votes": 8591,
+                "Postal Votes": 152,
+                "Total Votes": 8743,
+                "Vote %": 25.86
+            },
+            {
+                "Candidate": "DR. RICKY A. J. SYNGKON",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 5357,
+                "Postal Votes": 99,
+                "Total Votes": 5456,
+                "Vote %": 16.14
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 189,
+                "Postal Votes": 6,
+                "Total Votes": 195,
+                "Vote %": 0.58
+            }
+        ]
+    },
+    {
+        "ac_no": "12",
+        "declared": true,
+        "ac_name": "Umroi ",
+        "candidates": [
+            {
+                "Candidate": "BAIATEILANG LAPANG",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 118,
+                "Postal Votes": 0,
+                "Total Votes": 118,
+                "Vote %": 0.41
+            },
+            {
+                "Candidate": "DAMANBAIT LAMARE",
+                "Party": "National People's Party",
+                "EVM Votes": 14077,
+                "Postal Votes": 136,
+                "Total Votes": 14213,
+                "Vote %": 49.8
+            },
+            {
+                "Candidate": "GEORGE B. LYNGDOH",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 12338,
+                "Postal Votes": 189,
+                "Total Votes": 12527,
+                "Vote %": 43.89
+            },
+            {
+                "Candidate": "SHANBOR RAMDE",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 396,
+                "Postal Votes": 8,
+                "Total Votes": 404,
+                "Vote %": 1.42
+            },
+            {
+                "Candidate": "STANLYWISS RYMBAI",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1057,
+                "Postal Votes": 24,
+                "Total Votes": 1081,
+                "Vote %": 3.79
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 197,
+                "Postal Votes": 0,
+                "Total Votes": 197,
+                "Vote %": 0.69
+            }
+        ]
+    },
+    {
+        "ac_no": "13",
+        "declared": true,
+        "ac_name": "Mawryngkneng ",
+        "candidates": [
+            {
+                "Candidate": "BANSHANLANG LAWAI",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1526,
+                "Postal Votes": 33,
+                "Total Votes": 1559,
+                "Vote %": 4.52
+            },
+            {
+                "Candidate": "ESRON MARWEIN",
+                "Party": "Indian National Congress",
+                "EVM Votes": 408,
+                "Postal Votes": 25,
+                "Total Votes": 433,
+                "Vote %": 1.25
+            },
+            {
+                "Candidate": "HIGHLANDER KHARMALKI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 941,
+                "Postal Votes": 27,
+                "Total Votes": 968,
+                "Vote %": 2.8
+            },
+            {
+                "Candidate": "OSAPHI SMITHSON JYRWA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 10008,
+                "Postal Votes": 174,
+                "Total Votes": 10182,
+                "Vote %": 29.49
+            },
+            {
+                "Candidate": "PYNIAID SING SYIEM",
+                "Party": "National People's Party",
+                "EVM Votes": 9281,
+                "Postal Votes": 260,
+                "Total Votes": 9541,
+                "Vote %": 27.64
+            },
+            {
+                "Candidate": "WYRAIWAN SOHTUN",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 134,
+                "Postal Votes": 2,
+                "Total Votes": 136,
+                "Vote %": 0.39
+            },
+            {
+                "Candidate": "HEAVING STONE KHARPRAN",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 11274,
+                "Postal Votes": 150,
+                "Total Votes": 11424,
+                "Vote %": 33.09
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 275,
+                "Postal Votes": 7,
+                "Total Votes": 282,
+                "Vote %": 0.82
+            }
+        ]
+    },
+    {
+        "ac_no": "14",
+        "declared": true,
+        "ac_name": "Pynthorumkhrah ",
+        "candidates": [
+            {
+                "Candidate": "ALEXANDER LALOO HEK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 9040,
+                "Postal Votes": 281,
+                "Total Votes": 9321,
+                "Vote %": 35.7
+            },
+            {
+                "Candidate": "PYNSHNGAINLANG SYIEM",
+                "Party": "Indian National Congress",
+                "EVM Votes": 6566,
+                "Postal Votes": 217,
+                "Total Votes": 6783,
+                "Vote %": 25.98
+            },
+            {
+                "Candidate": "RAYMOND BASAIAWMOIT",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 239,
+                "Postal Votes": 8,
+                "Total Votes": 247,
+                "Vote %": 0.95
+            },
+            {
+                "Candidate": "ROCKY HEK",
+                "Party": "National People's Party",
+                "EVM Votes": 3277,
+                "Postal Votes": 79,
+                "Total Votes": 3356,
+                "Vote %": 12.85
+            },
+            {
+                "Candidate": "MAYBORN GRACE LYNGDOH",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 5572,
+                "Postal Votes": 148,
+                "Total Votes": 5720,
+                "Vote %": 21.91
+            },
+            {
+                "Candidate": "JUBANLANG KHARBIHKHIEW",
+                "Party": "Independent",
+                "EVM Votes": 93,
+                "Postal Votes": 9,
+                "Total Votes": 102,
+                "Vote %": 0.39
+            },
+            {
+                "Candidate": "RUP PARIAT",
+                "Party": "Independent",
+                "EVM Votes": 72,
+                "Postal Votes": 2,
+                "Total Votes": 74,
+                "Vote %": 0.28
+            },
+            {
+                "Candidate": "SAMBORLANG DIENGDOH",
+                "Party": "Independent",
+                "EVM Votes": 160,
+                "Postal Votes": 8,
+                "Total Votes": 168,
+                "Vote %": 0.64
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 329,
+                "Postal Votes": 8,
+                "Total Votes": 337,
+                "Vote %": 1.29
+            }
+        ]
+    },
+    {
+        "ac_no": "15",
+        "declared": true,
+        "ac_name": "Mawlai ",
+        "candidates": [
+            {
+                "Candidate": "MARBUD DKHAR",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1453,
+                "Postal Votes": 53,
+                "Total Votes": 1506,
+                "Vote %": 3.7
+            },
+            {
+                "Candidate": "PROCESS T. SAWKMIE",
+                "Party": "United Democratic Party",
+                "EVM Votes": 4898,
+                "Postal Votes": 244,
+                "Total Votes": 5142,
+                "Vote %": 12.62
+            },
+            {
+                "Candidate": "STEPBOURNEKUPAR RYNDEM",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 250,
+                "Postal Votes": 5,
+                "Total Votes": 255,
+                "Vote %": 0.63
+            },
+            {
+                "Candidate": "TEIBORLANG PATHAW",
+                "Party": "National People's Party",
+                "EVM Votes": 8377,
+                "Postal Votes": 237,
+                "Total Votes": 8614,
+                "Vote %": 21.14
+            },
+            {
+                "Candidate": "WANDONBOK JYRWA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 434,
+                "Postal Votes": 16,
+                "Total Votes": 450,
+                "Vote %": 1.1
+            },
+            {
+                "Candidate": "BRIGHTSTARWELL MARBANIANG",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 23632,
+                "Postal Votes": 630,
+                "Total Votes": 24262,
+                "Vote %": 59.54
+            },
+            {
+                "Candidate": "TARCISIOUS MAWLOT",
+                "Party": "Independent",
+                "EVM Votes": 260,
+                "Postal Votes": 4,
+                "Total Votes": 264,
+                "Vote %": 0.65
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 243,
+                "Postal Votes": 11,
+                "Total Votes": 254,
+                "Vote %": 0.62
+            }
+        ]
+    },
+    {
+        "ac_no": "16",
+        "declared": true,
+        "ac_name": "East Shillong ",
+        "candidates": [
+            {
+                "Candidate": "AJOY NONGRUM",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 255,
+                "Postal Votes": 9,
+                "Total Votes": 264,
+                "Vote %": 1.55
+            },
+            {
+                "Candidate": "MANUEL BADWAR",
+                "Party": "Indian National Congress",
+                "EVM Votes": 4697,
+                "Postal Votes": 229,
+                "Total Votes": 4926,
+                "Vote %": 28.92
+            },
+            {
+                "Candidate": "DR. MAZEL AMPAREEN LYNGDOH",
+                "Party": "National People's Party",
+                "EVM Votes": 6403,
+                "Postal Votes": 234,
+                "Total Votes": 6637,
+                "Vote %": 38.96
+            },
+            {
+                "Candidate": "ROMEO PHIRA RANI",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 87,
+                "Postal Votes": 3,
+                "Total Votes": 90,
+                "Vote %": 0.53
+            },
+            {
+                "Candidate": "WANKITBOK POHSHNA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 2601,
+                "Postal Votes": 42,
+                "Total Votes": 2643,
+                "Vote %": 15.51
+            },
+            {
+                "Candidate": "AVNER MEDON PARIAT",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 1913,
+                "Postal Votes": 61,
+                "Total Votes": 1974,
+                "Vote %": 11.59
+            },
+            {
+                "Candidate": "WANPYNHUN KHARSYNTIEW",
+                "Party": "Independent",
+                "EVM Votes": 236,
+                "Postal Votes": 7,
+                "Total Votes": 243,
+                "Vote %": 1.43
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 249,
+                "Postal Votes": 10,
+                "Total Votes": 259,
+                "Vote %": 1.52
+            }
+        ]
+    },
+    {
+        "ac_no": "17",
+        "declared": true,
+        "ac_name": "North Shillong ",
+        "candidates": [
+            {
+                "Candidate": "DR. AMAN WARR",
+                "Party": "United Democratic Party",
+                "EVM Votes": 3650,
+                "Postal Votes": 141,
+                "Total Votes": 3791,
+                "Vote %": 20.0
+            },
+            {
+                "Candidate": "ELGIVA GWYNETH RYNJAH",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 783,
+                "Postal Votes": 33,
+                "Total Votes": 816,
+                "Vote %": 4.3
+            },
+            {
+                "Candidate": "J. ANTONIUS LYNGDOH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1491,
+                "Postal Votes": 64,
+                "Total Votes": 1555,
+                "Vote %": 8.2
+            },
+            {
+                "Candidate": "MARIAHOM KHARKRANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 4444,
+                "Postal Votes": 106,
+                "Total Votes": 4550,
+                "Vote %": 24.0
+            },
+            {
+                "Candidate": "RANSOM SUTNGA",
+                "Party": "National People's Party",
+                "EVM Votes": 1899,
+                "Postal Votes": 76,
+                "Total Votes": 1975,
+                "Vote %": 10.42
+            },
+            {
+                "Candidate": "ADELBERT NONGRUM",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 5333,
+                "Postal Votes": 250,
+                "Total Votes": 5583,
+                "Vote %": 29.45
+            },
+            {
+                "Candidate": "KYRSOIBOR PYRTUH",
+                "Party": "Independent",
+                "EVM Votes": 111,
+                "Postal Votes": 0,
+                "Total Votes": 111,
+                "Vote %": 0.59
+            },
+            {
+                "Candidate": "L. MICHAEL KHARSYNTIEW",
+                "Party": "Independent",
+                "EVM Votes": 376,
+                "Postal Votes": 9,
+                "Total Votes": 385,
+                "Vote %": 2.03
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 184,
+                "Postal Votes": 7,
+                "Total Votes": 191,
+                "Vote %": 1.01
+            }
+        ]
+    },
+    {
+        "ac_no": "18",
+        "declared": true,
+        "ac_name": "West Shillong ",
+        "candidates": [
+            {
+                "Candidate": "BETHLEEN DKHAR",
+                "Party": "Indian National Congress",
+                "EVM Votes": 393,
+                "Postal Votes": 24,
+                "Total Votes": 417,
+                "Vote %": 2.22
+            },
+            {
+                "Candidate": "ERNEST MAWRIE",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 3723,
+                "Postal Votes": 48,
+                "Total Votes": 3771,
+                "Vote %": 20.07
+            },
+            {
+                "Candidate": "IWAN MARIA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 180,
+                "Postal Votes": 7,
+                "Total Votes": 187,
+                "Vote %": 1.0
+            },
+            {
+                "Candidate": "MOHENDRO RAPSANG",
+                "Party": "National People's Party",
+                "EVM Votes": 4358,
+                "Postal Votes": 74,
+                "Total Votes": 4432,
+                "Vote %": 23.59
+            },
+            {
+                "Candidate": "PAUL LYNGDOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 7680,
+                "Postal Votes": 237,
+                "Total Votes": 7917,
+                "Vote %": 42.14
+            },
+            {
+                "Candidate": "RAJA JYRWA",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 1789,
+                "Postal Votes": 70,
+                "Total Votes": 1859,
+                "Vote %": 9.9
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 192,
+                "Postal Votes": 12,
+                "Total Votes": 204,
+                "Vote %": 1.09
+            }
+        ]
+    },
+    {
+        "ac_no": "19",
+        "declared": true,
+        "ac_name": "South Shillong ",
+        "candidates": [
+            {
+                "Candidate": "IAN ANDREW LYNGDOH NONGKYNRIH",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1526,
+                "Postal Votes": 34,
+                "Total Votes": 1560,
+                "Vote %": 7.22
+            },
+            {
+                "Candidate": "SANBOR SHULLAI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 13871,
+                "Postal Votes": 342,
+                "Total Votes": 14213,
+                "Vote %": 65.74
+            },
+            {
+                "Candidate": "VENETIA PEARL MAWLONG",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1052,
+                "Postal Votes": 34,
+                "Total Votes": 1086,
+                "Vote %": 5.02
+            },
+            {
+                "Candidate": "DANNY LANGSTIEH",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 2534,
+                "Postal Votes": 70,
+                "Total Votes": 2604,
+                "Vote %": 12.04
+            },
+            {
+                "Candidate": "ANGELA G. RANGAD",
+                "Party": "Independent",
+                "EVM Votes": 1662,
+                "Postal Votes": 52,
+                "Total Votes": 1714,
+                "Vote %": 7.93
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 429,
+                "Postal Votes": 15,
+                "Total Votes": 444,
+                "Vote %": 2.05
+            }
+        ]
+    },
+    {
+        "ac_no": "20",
+        "declared": true,
+        "ac_name": "Mylliem ",
+        "candidates": [
+            {
+                "Candidate": "GILBERT GUIDINGSTAR LALOO",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 545,
+                "Postal Votes": 21,
+                "Total Votes": 566,
+                "Vote %": 1.82
+            },
+            {
+                "Candidate": "HAMLETSON DOHLING",
+                "Party": "National People's Party",
+                "EVM Votes": 8486,
+                "Postal Votes": 226,
+                "Total Votes": 8712,
+                "Vote %": 28.07
+            },
+            {
+                "Candidate": "MITCHEL WANKHAR",
+                "Party": "United Democratic Party",
+                "EVM Votes": 2567,
+                "Postal Votes": 52,
+                "Total Votes": 2619,
+                "Vote %": 8.44
+            },
+            {
+                "Candidate": "RONNIE V. LYNGDOH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 8616,
+                "Postal Votes": 288,
+                "Total Votes": 8904,
+                "Vote %": 28.69
+            },
+            {
+                "Candidate": "SAMUEL HASHAH",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 420,
+                "Postal Votes": 15,
+                "Total Votes": 435,
+                "Vote %": 1.4
+            },
+            {
+                "Candidate": "AIBANDAPLIN F. LYNGDOH",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 8689,
+                "Postal Votes": 177,
+                "Total Votes": 8866,
+                "Vote %": 28.56
+            },
+            {
+                "Candidate": "PYNSHAI MANIK SYIEM",
+                "Party": "Independent",
+                "EVM Votes": 583,
+                "Postal Votes": 31,
+                "Total Votes": 614,
+                "Vote %": 1.98
+            },
+            {
+                "Candidate": "RICHARD NONGBSAP",
+                "Party": "Independent",
+                "EVM Votes": 74,
+                "Postal Votes": 1,
+                "Total Votes": 75,
+                "Vote %": 0.24
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 239,
+                "Postal Votes": 9,
+                "Total Votes": 248,
+                "Vote %": 0.8
+            }
+        ]
+    },
+    {
+        "ac_no": "21",
+        "declared": true,
+        "ac_name": "Nongthymmai ",
+        "candidates": [
+            {
+                "Candidate": "BANIDA SHISHA KHARKONGOR",
+                "Party": "Indian National Congress",
+                "EVM Votes": 994,
+                "Postal Votes": 51,
+                "Total Votes": 1045,
+                "Vote %": 4.18
+            },
+            {
+                "Candidate": "CHARLES PYNGROPE",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7243,
+                "Postal Votes": 209,
+                "Total Votes": 7452,
+                "Vote %": 29.78
+            },
+            {
+                "Candidate": "DAVID KHARSATI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 3223,
+                "Postal Votes": 51,
+                "Total Votes": 3274,
+                "Vote %": 13.08
+            },
+            {
+                "Candidate": "JASMINE MARY LYNGDOH",
+                "Party": "National People's Party",
+                "EVM Votes": 1993,
+                "Postal Votes": 61,
+                "Total Votes": 2054,
+                "Vote %": 8.21
+            },
+            {
+                "Candidate": "JEMINO MAWTHOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 6020,
+                "Postal Votes": 233,
+                "Total Votes": 6253,
+                "Vote %": 24.99
+            },
+            {
+                "Candidate": "WINSTON TONY LYNGDOH",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 4346,
+                "Postal Votes": 127,
+                "Total Votes": 4473,
+                "Vote %": 17.88
+            },
+            {
+                "Candidate": "WANKIT KUPAR KHARUMNUID",
+                "Party": "Independent",
+                "EVM Votes": 105,
+                "Postal Votes": 3,
+                "Total Votes": 108,
+                "Vote %": 0.43
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 353,
+                "Postal Votes": 11,
+                "Total Votes": 364,
+                "Vote %": 1.45
+            }
+        ]
+    },
+    {
+        "ac_no": "22",
+        "declared": true,
+        "ac_name": "Nongkrem ",
+        "candidates": [
+            {
+                "Candidate": "DASAKHIATBHA LAMARE",
+                "Party": "National People's Party",
+                "EVM Votes": 7409,
+                "Postal Votes": 82,
+                "Total Votes": 7491,
+                "Vote %": 22.99
+            },
+            {
+                "Candidate": "DAVID T. KHARKONGOR",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 454,
+                "Postal Votes": 77,
+                "Total Votes": 531,
+                "Vote %": 1.63
+            },
+            {
+                "Candidate": "EGENSTAR KURKALANG",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 1362,
+                "Postal Votes": 13,
+                "Total Votes": 1375,
+                "Vote %": 4.22
+            },
+            {
+                "Candidate": "JOANNES J.T.L. LAMARE",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 170,
+                "Postal Votes": 6,
+                "Total Votes": 176,
+                "Vote %": 0.54
+            },
+            {
+                "Candidate": "LAMBOR MALNGIANG",
+                "Party": "United Democratic Party",
+                "EVM Votes": 8991,
+                "Postal Votes": 108,
+                "Total Votes": 9099,
+                "Vote %": 27.92
+            },
+            {
+                "Candidate": "SARDONIK NONGKHLAW",
+                "Party": "Indian National Congress",
+                "EVM Votes": 272,
+                "Postal Votes": 21,
+                "Total Votes": 293,
+                "Vote %": 0.9
+            },
+            {
+                "Candidate": "ARDENT MILLER BASAIAWMOIT",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 13059,
+                "Postal Votes": 227,
+                "Total Votes": 13286,
+                "Vote %": 40.77
+            },
+            {
+                "Candidate": "B. M. LANONG",
+                "Party": "Independent",
+                "EVM Votes": 135,
+                "Postal Votes": 3,
+                "Total Votes": 138,
+                "Vote %": 0.42
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 193,
+                "Postal Votes": 3,
+                "Total Votes": 196,
+                "Vote %": 0.6
+            }
+        ]
+    },
+    {
+        "ac_no": "24",
+        "declared": true,
+        "ac_name": "Mawphlang ",
+        "candidates": [
+            {
+                "Candidate": "AUSPICIOUS LYNGDOH MAWPHLANG",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 6481,
+                "Postal Votes": 105,
+                "Total Votes": 6586,
+                "Vote %": 21.07
+            },
+            {
+                "Candidate": "DANNYSON KURBAH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 5518,
+                "Postal Votes": 76,
+                "Total Votes": 5594,
+                "Vote %": 17.9
+            },
+            {
+                "Candidate": "KENNEDY CORNELIUS KHYRIEM",
+                "Party": "National People's Party",
+                "EVM Votes": 4670,
+                "Postal Votes": 63,
+                "Total Votes": 4733,
+                "Vote %": 15.14
+            },
+            {
+                "Candidate": "MATTHEW BEYONDSTAR KURBAH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 6596,
+                "Postal Votes": 94,
+                "Total Votes": 6690,
+                "Vote %": 21.4
+            },
+            {
+                "Candidate": "MAWKORDOR RYNJAH",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1493,
+                "Postal Votes": 14,
+                "Total Votes": 1507,
+                "Vote %": 4.82
+            },
+            {
+                "Candidate": "WOSSARROI RANI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1184,
+                "Postal Votes": 12,
+                "Total Votes": 1196,
+                "Vote %": 3.83
+            },
+            {
+                "Candidate": "DORISTAR MARBANIANG",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 4759,
+                "Postal Votes": 52,
+                "Total Votes": 4811,
+                "Vote %": 15.39
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 140,
+                "Postal Votes": 2,
+                "Total Votes": 142,
+                "Vote %": 0.45
+            }
+        ]
+    },
+    {
+        "ac_no": "25",
+        "declared": true,
+        "ac_name": "Mawsynram ",
+        "candidates": [
+            {
+                "Candidate": "ALVIN KHYRIEM SAWKMIE",
+                "Party": "National People's Party",
+                "EVM Votes": 9899,
+                "Postal Votes": 103,
+                "Total Votes": 10002,
+                "Vote %": 30.25
+            },
+            {
+                "Candidate": "GOPAL STONE HYNNIEWTA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1033,
+                "Postal Votes": 23,
+                "Total Votes": 1056,
+                "Vote %": 3.19
+            },
+            {
+                "Candidate": "HIMALAYA MUKTAN SHANGPLIANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 9890,
+                "Postal Votes": 142,
+                "Total Votes": 10032,
+                "Vote %": 30.34
+            },
+            {
+                "Candidate": "OLLAN SINGH SUIN",
+                "Party": "United Democratic Party",
+                "EVM Votes": 10846,
+                "Postal Votes": 141,
+                "Total Votes": 10987,
+                "Vote %": 33.23
+            },
+            {
+                "Candidate": "STARFING JOVE LANGPEN PDAHKASIEJ",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 103,
+                "Postal Votes": 2,
+                "Total Votes": 105,
+                "Vote %": 0.32
+            },
+            {
+                "Candidate": "VINCENT T SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 683,
+                "Postal Votes": 6,
+                "Total Votes": 689,
+                "Vote %": 2.08
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 187,
+                "Postal Votes": 4,
+                "Total Votes": 191,
+                "Vote %": 0.58
+            }
+        ]
+    },
+    {
+        "ac_no": "26",
+        "declared": true,
+        "ac_name": "Shella ",
+        "candidates": [
+            {
+                "Candidate": "ARENA HYNNIEWTA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 2655,
+                "Postal Votes": 15,
+                "Total Votes": 2670,
+                "Vote %": 8.72
+            },
+            {
+                "Candidate": "BALAJIED KUPAR SYNREM",
+                "Party": "United Democratic Party",
+                "EVM Votes": 13077,
+                "Postal Votes": 197,
+                "Total Votes": 13274,
+                "Vote %": 43.36
+            },
+            {
+                "Candidate": "GRACE MARY KHARPURI",
+                "Party": "National People's Party",
+                "EVM Votes": 12722,
+                "Postal Votes": 118,
+                "Total Votes": 12840,
+                "Vote %": 41.94
+            },
+            {
+                "Candidate": "PLAYNESS KHIEWTAM",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 877,
+                "Postal Votes": 5,
+                "Total Votes": 882,
+                "Vote %": 2.88
+            },
+            {
+                "Candidate": "WELLBORN BYNNUD",
+                "Party": "Indian National Congress",
+                "EVM Votes": 583,
+                "Postal Votes": 9,
+                "Total Votes": 592,
+                "Vote %": 1.93
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 347,
+                "Postal Votes": 11,
+                "Total Votes": 358,
+                "Vote %": 1.17
+            }
+        ]
+    },
+    {
+        "ac_no": "27",
+        "declared": true,
+        "ac_name": "Pynursla ",
+        "candidates": [
+            {
+                "Candidate": "ANTHONY JUSTINE KONGWANG",
+                "Party": "United Democratic Party",
+                "EVM Votes": 5356,
+                "Postal Votes": 21,
+                "Total Votes": 5377,
+                "Vote %": 15.47
+            },
+            {
+                "Candidate": "EDMUND KHONGNGAI",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1201,
+                "Postal Votes": 3,
+                "Total Votes": 1204,
+                "Vote %": 3.46
+            },
+            {
+                "Candidate": "NEHRU SUTING",
+                "Party": "Indian National Congress",
+                "EVM Votes": 5567,
+                "Postal Votes": 38,
+                "Total Votes": 5605,
+                "Vote %": 16.12
+            },
+            {
+                "Candidate": "PRESTONE TYNSONG",
+                "Party": "National People's Party",
+                "EVM Votes": 13601,
+                "Postal Votes": 144,
+                "Total Votes": 13745,
+                "Vote %": 39.54
+            },
+            {
+                "Candidate": "ROWELLY KHONGSNI",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 376,
+                "Postal Votes": 1,
+                "Total Votes": 377,
+                "Vote %": 1.08
+            },
+            {
+                "Candidate": "MANBHALANG THABAH",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 3405,
+                "Postal Votes": 77,
+                "Total Votes": 3482,
+                "Vote %": 10.02
+            },
+            {
+                "Candidate": "DON KUPAR MASSAR",
+                "Party": "Independent",
+                "EVM Votes": 4812,
+                "Postal Votes": 16,
+                "Total Votes": 4828,
+                "Vote %": 13.89
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 147,
+                "Postal Votes": 1,
+                "Total Votes": 148,
+                "Vote %": 0.43
+            }
+        ]
+    },
+    {
+        "ac_no": "28",
+        "declared": true,
+        "ac_name": "Sohra ",
+        "candidates": [
+            {
+                "Candidate": "ALAN WEST KHARKONGOR",
+                "Party": "National People's Party",
+                "EVM Votes": 1585,
+                "Postal Votes": 13,
+                "Total Votes": 1598,
+                "Vote %": 5.95
+            },
+            {
+                "Candidate": "GAVIN MIGUEL MYLLIEM",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 11201,
+                "Postal Votes": 157,
+                "Total Votes": 11358,
+                "Vote %": 42.31
+            },
+            {
+                "Candidate": "HAROLD FIRMING KHONGSIT",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1118,
+                "Postal Votes": 19,
+                "Total Votes": 1137,
+                "Vote %": 4.24
+            },
+            {
+                "Candidate": "LAKYNTIEW SOHKHLET",
+                "Party": "Indian National Congress",
+                "EVM Votes": 219,
+                "Postal Votes": 10,
+                "Total Votes": 229,
+                "Vote %": 0.85
+            },
+            {
+                "Candidate": "MICHAEL RONNIE KSHIAR",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 140,
+                "Postal Votes": 2,
+                "Total Votes": 142,
+                "Vote %": 0.53
+            },
+            {
+                "Candidate": "TITOSSTAR WELL CHYNE",
+                "Party": "United Democratic Party",
+                "EVM Votes": 11190,
+                "Postal Votes": 153,
+                "Total Votes": 11343,
+                "Vote %": 42.25
+            },
+            {
+                "Candidate": "G.PHAIYOLIN NONGRUM",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 904,
+                "Postal Votes": 12,
+                "Total Votes": 916,
+                "Vote %": 3.41
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 124,
+                "Postal Votes": 0,
+                "Total Votes": 124,
+                "Vote %": 0.46
+            }
+        ]
+    },
+    {
+        "ac_no": "29",
+        "declared": true,
+        "ac_name": "Mawkynrew ",
+        "candidates": [
+            {
+                "Candidate": "BANTEIDOR LYNGDOH",
+                "Party": "People's Democratic Front",
+                "EVM Votes": 11732,
+                "Postal Votes": 57,
+                "Total Votes": 11789,
+                "Vote %": 35.24
+            },
+            {
+                "Candidate": "COUNSELLOR MUKHIM",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 92,
+                "Postal Votes": 1,
+                "Total Votes": 93,
+                "Vote %": 0.28
+            },
+            {
+                "Candidate": "DONDOR MARBANIANG",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 463,
+                "Postal Votes": 0,
+                "Total Votes": 463,
+                "Vote %": 1.38
+            },
+            {
+                "Candidate": "KANSING LYNGSHIANG",
+                "Party": "National People's Party",
+                "EVM Votes": 7335,
+                "Postal Votes": 25,
+                "Total Votes": 7360,
+                "Vote %": 22.0
+            },
+            {
+                "Candidate": "MARTLE N. MUKHIM",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 7610,
+                "Postal Votes": 42,
+                "Total Votes": 7652,
+                "Vote %": 22.87
+            },
+            {
+                "Candidate": "PYNHUNLANG NONGRUM",
+                "Party": "Indian National Congress",
+                "EVM Votes": 461,
+                "Postal Votes": 4,
+                "Total Votes": 465,
+                "Vote %": 1.39
+            },
+            {
+                "Candidate": "REMINGTON PYNGROPE",
+                "Party": "United Democratic Party",
+                "EVM Votes": 5361,
+                "Postal Votes": 24,
+                "Total Votes": 5385,
+                "Vote %": 16.1
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 245,
+                "Postal Votes": 2,
+                "Total Votes": 247,
+                "Vote %": 0.74
+            }
+        ]
+    },
+    {
+        "ac_no": "30",
+        "declared": true,
+        "ac_name": "Mairang ",
+        "candidates": [
+            {
+                "Candidate": "BATSKHEM RYNTATHIANG",
+                "Party": "Indian National Congress",
+                "EVM Votes": 18584,
+                "Postal Votes": 327,
+                "Total Votes": 18911,
+                "Vote %": 48.14
+            },
+            {
+                "Candidate": "MARK RINALDY SAWKMIE",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 240,
+                "Postal Votes": 5,
+                "Total Votes": 245,
+                "Vote %": 0.62
+            },
+            {
+                "Candidate": "METBAH LYNGDOH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 18684,
+                "Postal Votes": 382,
+                "Total Votes": 19066,
+                "Vote %": 48.54
+            },
+            {
+                "Candidate": "SHANLANG WARJRI",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 931,
+                "Postal Votes": 13,
+                "Total Votes": 944,
+                "Vote %": 2.4
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 115,
+                "Postal Votes": 1,
+                "Total Votes": 116,
+                "Vote %": 0.3
+            }
+        ]
+    },
+    {
+        "ac_no": "31",
+        "declared": true,
+        "ac_name": "Mawthadraishan ",
+        "candidates": [
+            {
+                "Candidate": "BIOLINDA L.NONGLAIT",
+                "Party": "National People's Party",
+                "EVM Votes": 7574,
+                "Postal Votes": 84,
+                "Total Votes": 7658,
+                "Vote %": 18.8
+            },
+            {
+                "Candidate": "BROLDING NONGSIEJ",
+                "Party": "United Democratic Party",
+                "EVM Votes": 14726,
+                "Postal Votes": 287,
+                "Total Votes": 15013,
+                "Vote %": 36.85
+            },
+            {
+                "Candidate": "DARIKMEN L.MARSHILLONG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 116,
+                "Postal Votes": 7,
+                "Total Votes": 123,
+                "Vote %": 0.3
+            },
+            {
+                "Candidate": "FOURTEENSON LYNGKHOI",
+                "Party": "Indian National Congress",
+                "EVM Votes": 251,
+                "Postal Votes": 9,
+                "Total Votes": 260,
+                "Vote %": 0.64
+            },
+            {
+                "Candidate": "SHAKLIAR WARJRI",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 17126,
+                "Postal Votes": 240,
+                "Total Votes": 17366,
+                "Vote %": 42.63
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 312,
+                "Postal Votes": 4,
+                "Total Votes": 316,
+                "Vote %": 0.78
+            }
+        ]
+    },
+    {
+        "ac_no": "32",
+        "declared": true,
+        "ac_name": "Nongstoin ",
+        "candidates": [
+            {
+                "Candidate": "DIOSSTARNESS JYNDIANG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 245,
+                "Postal Votes": 8,
+                "Total Votes": 253,
+                "Vote %": 0.64
+            },
+            {
+                "Candidate": "GABRIEL WAHLANG",
+                "Party": "Indian National Congress",
+                "EVM Votes": 13408,
+                "Postal Votes": 439,
+                "Total Votes": 13847,
+                "Vote %": 35.17
+            },
+            {
+                "Candidate": "MACMILLAN BYRSAT",
+                "Party": "National People's Party",
+                "EVM Votes": 10563,
+                "Postal Votes": 660,
+                "Total Votes": 11223,
+                "Vote %": 28.51
+            },
+            {
+                "Candidate": "MACMILLAN KHARBANI",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1060,
+                "Postal Votes": 31,
+                "Total Votes": 1091,
+                "Vote %": 2.77
+            },
+            {
+                "Candidate": "POLESTAR NONGSIEJ",
+                "Party": "United Democratic Party",
+                "EVM Votes": 7340,
+                "Postal Votes": 165,
+                "Total Votes": 7505,
+                "Vote %": 19.06
+            },
+            {
+                "Candidate": "SANJIED KYNSAI SHANGRIT",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 1365,
+                "Postal Votes": 25,
+                "Total Votes": 1390,
+                "Vote %": 3.53
+            },
+            {
+                "Candidate": "BOBBY BOLDRICK KHARCHANDY",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 3650,
+                "Postal Votes": 105,
+                "Total Votes": 3755,
+                "Vote %": 9.54
+            },
+            {
+                "Candidate": "STAINBINEL WANNIANG",
+                "Party": "Independent",
+                "EVM Votes": 202,
+                "Postal Votes": 7,
+                "Total Votes": 209,
+                "Vote %": 0.53
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 93,
+                "Postal Votes": 2,
+                "Total Votes": 95,
+                "Vote %": 0.24
+            }
+        ]
+    },
+    {
+        "ac_no": "33",
+        "declared": true,
+        "ac_name": "Rambrai Jyrngam ",
+        "candidates": [
+            {
+                "Candidate": "FERNANDEZ S. DKHAR",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 1544,
+                "Postal Votes": 10,
+                "Total Votes": 1554,
+                "Vote %": 4.56
+            },
+            {
+                "Candidate": "A GOLDENSTAR NONGLONG",
+                "Party": "Indian National Congress",
+                "EVM Votes": 5751,
+                "Postal Votes": 54,
+                "Total Votes": 5805,
+                "Vote %": 17.05
+            },
+            {
+                "Candidate": "KIMFA SIDNEY MARBANIANG",
+                "Party": "National People's Party",
+                "EVM Votes": 7176,
+                "Postal Votes": 96,
+                "Total Votes": 7272,
+                "Vote %": 21.36
+            },
+            {
+                "Candidate": "K. PHLASTINGWEL PANGNIANG",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 8836,
+                "Postal Votes": 111,
+                "Total Votes": 8947,
+                "Vote %": 26.27
+            },
+            {
+                "Candidate": "SPASTERLIN NONGREM",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 686,
+                "Postal Votes": 3,
+                "Total Votes": 689,
+                "Vote %": 2.02
+            },
+            {
+                "Candidate": "FRANCIS PONDIT R. SANGMA",
+                "Party": "Independent",
+                "EVM Votes": 371,
+                "Postal Votes": 2,
+                "Total Votes": 373,
+                "Vote %": 1.1
+            },
+            {
+                "Candidate": "REMINGTON GABIL MOMIN",
+                "Party": "Independent",
+                "EVM Votes": 8925,
+                "Postal Votes": 132,
+                "Total Votes": 9057,
+                "Vote %": 26.6
+            },
+            {
+                "Candidate": "SILLASH M. SANGMA",
+                "Party": "Independent",
+                "EVM Votes": 159,
+                "Postal Votes": 0,
+                "Total Votes": 159,
+                "Vote %": 0.47
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 195,
+                "Postal Votes": 1,
+                "Total Votes": 196,
+                "Vote %": 0.58
+            }
+        ]
+    },
+    {
+        "ac_no": "34",
+        "declared": true,
+        "ac_name": "Mawshynrut ",
+        "candidates": [
+            {
+                "Candidate": "ANDREW CHARLES GARE",
+                "Party": "Indian National Congress",
+                "EVM Votes": 217,
+                "Postal Votes": 3,
+                "Total Votes": 220,
+                "Vote %": 0.6
+            },
+            {
+                "Candidate": "BEEJOY KYNTER",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 282,
+                "Postal Votes": 4,
+                "Total Votes": 286,
+                "Vote %": 0.78
+            },
+            {
+                "Candidate": "GIGUR MYRTHONG",
+                "Party": "National People's Party",
+                "EVM Votes": 13974,
+                "Postal Votes": 207,
+                "Total Votes": 14181,
+                "Vote %": 38.44
+            },
+            {
+                "Candidate": "JUSTINE G. MOMIN",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 2503,
+                "Postal Votes": 12,
+                "Total Votes": 2515,
+                "Vote %": 6.82
+            },
+            {
+                "Candidate": "METHODIUS DKHAR",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 19058,
+                "Postal Votes": 310,
+                "Total Votes": 19368,
+                "Vote %": 52.5
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 319,
+                "Postal Votes": 2,
+                "Total Votes": 321,
+                "Vote %": 0.87
+            }
+        ]
+    },
+    {
+        "ac_no": "35",
+        "declared": true,
+        "ac_name": "Ranikor ",
+        "candidates": [
+            {
+                "Candidate": "MARTIN M. DANGGO",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 10683,
+                "Postal Votes": 170,
+                "Total Votes": 10853,
+                "Vote %": 33.37
+            },
+            {
+                "Candidate": "PIUS MARWEIN",
+                "Party": "United Democratic Party",
+                "EVM Votes": 16263,
+                "Postal Votes": 239,
+                "Total Votes": 16502,
+                "Vote %": 50.74
+            },
+            {
+                "Candidate": "TENGSIM G. MOMIN",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 149,
+                "Postal Votes": 3,
+                "Total Votes": 152,
+                "Vote %": 0.47
+            },
+            {
+                "Candidate": "VICTOREALNESS SYIEMLIEH",
+                "Party": "Indian National Congress",
+                "EVM Votes": 469,
+                "Postal Votes": 25,
+                "Total Votes": 494,
+                "Vote %": 1.52
+            },
+            {
+                "Candidate": "OVERLIN IMIONG",
+                "Party": "Voice of the People Party",
+                "EVM Votes": 964,
+                "Postal Votes": 24,
+                "Total Votes": 988,
+                "Vote %": 3.04
+            },
+            {
+                "Candidate": "BICHITRO HAJONG",
+                "Party": "Independent",
+                "EVM Votes": 114,
+                "Postal Votes": 0,
+                "Total Votes": 114,
+                "Vote %": 0.35
+            },
+            {
+                "Candidate": "KRENATH N. MARAK",
+                "Party": "Independent",
+                "EVM Votes": 136,
+                "Postal Votes": 6,
+                "Total Votes": 142,
+                "Vote %": 0.44
+            },
+            {
+                "Candidate": "MIGHTER MARWEIN",
+                "Party": "Independent",
+                "EVM Votes": 2995,
+                "Postal Votes": 40,
+                "Total Votes": 3035,
+                "Vote %": 9.33
+            },
+            {
+                "Candidate": "SAVIO PHRANGSNGI DKHAR",
+                "Party": "Independent",
+                "EVM Votes": 114,
+                "Postal Votes": 1,
+                "Total Votes": 115,
+                "Vote %": 0.35
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 127,
+                "Postal Votes": 1,
+                "Total Votes": 128,
+                "Vote %": 0.39
+            }
+        ]
+    },
+    {
+        "ac_no": "36",
+        "declared": true,
+        "ac_name": "Mawkyrwat ",
+        "candidates": [
+            {
+                "Candidate": "BITY JYRWA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 146,
+                "Postal Votes": 5,
+                "Total Votes": 151,
+                "Vote %": 0.44
+            },
+            {
+                "Candidate": "CARNES SOHSHANG",
+                "Party": "Indian National Congress",
+                "EVM Votes": 9040,
+                "Postal Votes": 366,
+                "Total Votes": 9406,
+                "Vote %": 27.42
+            },
+            {
+                "Candidate": "MEDALSING LYNGDOH",
+                "Party": "Hill State People\u2019s Democratic Party",
+                "EVM Votes": 5919,
+                "Postal Votes": 163,
+                "Total Votes": 6082,
+                "Vote %": 17.73
+            },
+            {
+                "Candidate": "RENIKTON LYNGDOH TONGKHAR",
+                "Party": "United Democratic Party",
+                "EVM Votes": 10336,
+                "Postal Votes": 342,
+                "Total Votes": 10678,
+                "Vote %": 31.13
+            },
+            {
+                "Candidate": "SOUNDER STRONG CAJEE",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 4485,
+                "Postal Votes": 94,
+                "Total Votes": 4579,
+                "Vote %": 13.35
+            },
+            {
+                "Candidate": "H. STALYNE DIENGDOH",
+                "Party": "National People's Party",
+                "EVM Votes": 3060,
+                "Postal Votes": 147,
+                "Total Votes": 3207,
+                "Vote %": 9.35
+            },
+            {
+                "Candidate": "BANPYNSKHEMLANG WAHLANG",
+                "Party": "Independent",
+                "EVM Votes": 67,
+                "Postal Votes": 0,
+                "Total Votes": 67,
+                "Vote %": 0.2
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 128,
+                "Postal Votes": 2,
+                "Total Votes": 130,
+                "Vote %": 0.38
+            }
+        ]
+    },
+    {
+        "ac_no": "37",
+        "declared": true,
+        "ac_name": "Kharkutta ",
+        "candidates": [
+            {
+                "Candidate": "CHERAK WATRE MOMIN",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 15710,
+                "Postal Votes": 186,
+                "Total Votes": 15896,
+                "Vote %": 42.9
+            },
+            {
+                "Candidate": "CHIRENG PETER R. MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1708,
+                "Postal Votes": 38,
+                "Total Votes": 1746,
+                "Vote %": 4.71
+            },
+            {
+                "Candidate": "ELSTONE D. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 927,
+                "Postal Votes": 5,
+                "Total Votes": 932,
+                "Vote %": 2.52
+            },
+            {
+                "Candidate": "LUDERBERG CH. MOMIN",
+                "Party": "United Democratic Party",
+                "EVM Votes": 511,
+                "Postal Votes": 14,
+                "Total Votes": 525,
+                "Vote %": 1.42
+            },
+            {
+                "Candidate": "RUPERT MOMIN",
+                "Party": "National People's Party",
+                "EVM Votes": 17210,
+                "Postal Votes": 216,
+                "Total Votes": 17426,
+                "Vote %": 47.03
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 523,
+                "Postal Votes": 3,
+                "Total Votes": 526,
+                "Vote %": 1.42
+            }
+        ]
+    },
+    {
+        "ac_no": "38",
+        "declared": true,
+        "ac_name": "Mendipathar ",
+        "candidates": [
+            {
+                "Candidate": "MARTHON J SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 9165,
+                "Postal Votes": 198,
+                "Total Votes": 9363,
+                "Vote %": 37.56
+            },
+            {
+                "Candidate": "PARDINAND D. SHIRA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 3221,
+                "Postal Votes": 91,
+                "Total Votes": 3312,
+                "Vote %": 13.28
+            },
+            {
+                "Candidate": "SENGNAB MOMIN",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 4013,
+                "Postal Votes": 119,
+                "Total Votes": 4132,
+                "Vote %": 16.57
+            },
+            {
+                "Candidate": "SUBROTHO G MARAK",
+                "Party": "United Democratic Party",
+                "EVM Votes": 989,
+                "Postal Votes": 28,
+                "Total Votes": 1017,
+                "Vote %": 4.08
+            },
+            {
+                "Candidate": "TIMJIM K. MOMIN",
+                "Party": "Indian National Congress",
+                "EVM Votes": 5420,
+                "Postal Votes": 118,
+                "Total Votes": 5538,
+                "Vote %": 22.21
+            },
+            {
+                "Candidate": "ELBARTH MARAK",
+                "Party": "Gana Suraksha Party",
+                "EVM Votes": 1358,
+                "Postal Votes": 17,
+                "Total Votes": 1375,
+                "Vote %": 5.52
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 191,
+                "Postal Votes": 3,
+                "Total Votes": 194,
+                "Vote %": 0.78
+            }
+        ]
+    },
+    {
+        "ac_no": "39",
+        "declared": true,
+        "ac_name": "Resubelpara ",
+        "candidates": [
+            {
+                "Candidate": "RINALDO K. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7249,
+                "Postal Votes": 234,
+                "Total Votes": 7483,
+                "Vote %": 28.23
+            },
+            {
+                "Candidate": "SUKHARAM K. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1915,
+                "Postal Votes": 42,
+                "Total Votes": 1957,
+                "Vote %": 7.38
+            },
+            {
+                "Candidate": "TAPOSH D. MARAK",
+                "Party": "United Democratic Party",
+                "EVM Votes": 290,
+                "Postal Votes": 2,
+                "Total Votes": 292,
+                "Vote %": 1.1
+            },
+            {
+                "Candidate": "TIMOTHY D. SHIRA",
+                "Party": "National People's Party",
+                "EVM Votes": 10715,
+                "Postal Votes": 233,
+                "Total Votes": 10948,
+                "Vote %": 41.3
+            },
+            {
+                "Candidate": "TWEEL K. MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 4959,
+                "Postal Votes": 105,
+                "Total Votes": 5064,
+                "Vote %": 19.1
+            },
+            {
+                "Candidate": "STARLINE MOMIN",
+                "Party": "Independent",
+                "EVM Votes": 590,
+                "Postal Votes": 12,
+                "Total Votes": 602,
+                "Vote %": 2.27
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 162,
+                "Postal Votes": 2,
+                "Total Votes": 164,
+                "Vote %": 0.62
+            }
+        ]
+    },
+    {
+        "ac_no": "40",
+        "declared": true,
+        "ac_name": "Bajengdoba ",
+        "candidates": [
+            {
+                "Candidate": "BRIGADY  NAPAK MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 7496,
+                "Postal Votes": 88,
+                "Total Votes": 7584,
+                "Vote %": 26.22
+            },
+            {
+                "Candidate": "HENENDRA A. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 522,
+                "Postal Votes": 15,
+                "Total Votes": 537,
+                "Vote %": 1.86
+            },
+            {
+                "Candidate": "PONGSENG MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 9778,
+                "Postal Votes": 122,
+                "Total Votes": 9900,
+                "Vote %": 34.23
+            },
+            {
+                "Candidate": "RAKMAN CH MARAK",
+                "Party": "United Democratic Party",
+                "EVM Votes": 487,
+                "Postal Votes": 4,
+                "Total Votes": 491,
+                "Vote %": 1.7
+            },
+            {
+                "Candidate": "TENGRAK R. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7332,
+                "Postal Votes": 99,
+                "Total Votes": 7431,
+                "Vote %": 25.69
+            },
+            {
+                "Candidate": "CHADAMBE TENGKAM B MARAK",
+                "Party": "Independent",
+                "EVM Votes": 1988,
+                "Postal Votes": 8,
+                "Total Votes": 1996,
+                "Vote %": 6.9
+            },
+            {
+                "Candidate": "ROCKY R MARAK",
+                "Party": "Independent",
+                "EVM Votes": 741,
+                "Postal Votes": 3,
+                "Total Votes": 744,
+                "Vote %": 2.57
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 238,
+                "Postal Votes": 3,
+                "Total Votes": 241,
+                "Vote %": 0.83
+            }
+        ]
+    },
+    {
+        "ac_no": "41",
+        "declared": true,
+        "ac_name": "Songsak ",
+        "candidates": [
+            {
+                "Candidate": "CHAMPION R. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 2223,
+                "Postal Votes": 9,
+                "Total Votes": 2232,
+                "Vote %": 7.83
+            },
+            {
+                "Candidate": "DR. MUKUL SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 12608,
+                "Postal Votes": 81,
+                "Total Votes": 12689,
+                "Vote %": 44.51
+            },
+            {
+                "Candidate": "NIHIM D SHIRA",
+                "Party": "National People's Party",
+                "EVM Votes": 12254,
+                "Postal Votes": 63,
+                "Total Votes": 12317,
+                "Vote %": 43.21
+            },
+            {
+                "Candidate": "THOMAS MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 774,
+                "Postal Votes": 2,
+                "Total Votes": 776,
+                "Vote %": 2.72
+            },
+            {
+                "Candidate": "SARENNI MARAK",
+                "Party": "Republican Party of India",
+                "EVM Votes": 296,
+                "Postal Votes": 0,
+                "Total Votes": 296,
+                "Vote %": 1.04
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 196,
+                "Postal Votes": 0,
+                "Total Votes": 196,
+                "Vote %": 0.69
+            }
+        ]
+    },
+    {
+        "ac_no": "42",
+        "declared": true,
+        "ac_name": "Rongjeng ",
+        "candidates": [
+            {
+                "Candidate": "ANDREASH G. MOMIN",
+                "Party": "United Democratic Party",
+                "EVM Votes": 1301,
+                "Postal Votes": 5,
+                "Total Votes": 1306,
+                "Vote %": 4.33
+            },
+            {
+                "Candidate": "JEBING G MOMIN",
+                "Party": "Indian National Congress",
+                "EVM Votes": 3113,
+                "Postal Votes": 18,
+                "Total Votes": 3131,
+                "Vote %": 10.39
+            },
+            {
+                "Candidate": "JIM M SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 8768,
+                "Postal Votes": 68,
+                "Total Votes": 8836,
+                "Vote %": 29.32
+            },
+            {
+                "Candidate": "RAPIUSH CH. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 3293,
+                "Postal Votes": 9,
+                "Total Votes": 3302,
+                "Vote %": 10.96
+            },
+            {
+                "Candidate": "SENGNAM M. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 4364,
+                "Postal Votes": 36,
+                "Total Votes": 4400,
+                "Vote %": 14.6
+            },
+            {
+                "Candidate": "WALSENG M. SANGMA",
+                "Party": "Independent",
+                "EVM Votes": 8638,
+                "Postal Votes": 70,
+                "Total Votes": 8708,
+                "Vote %": 28.89
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 456,
+                "Postal Votes": 0,
+                "Total Votes": 456,
+                "Vote %": 1.51
+            }
+        ]
+    },
+    {
+        "ac_no": "43",
+        "declared": true,
+        "ac_name": "William Nagar ",
+        "candidates": [
+            {
+                "Candidate": "ALPHONSUSH R. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 4592,
+                "Postal Votes": 217,
+                "Total Votes": 4809,
+                "Vote %": 16.17
+            },
+            {
+                "Candidate": "DEBORAH C. MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 6940,
+                "Postal Votes": 193,
+                "Total Votes": 7133,
+                "Vote %": 23.98
+            },
+            {
+                "Candidate": "MARCUISE N MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 10655,
+                "Postal Votes": 321,
+                "Total Votes": 10976,
+                "Vote %": 36.9
+            },
+            {
+                "Candidate": "RAKNANG CH. MOMIN",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 447,
+                "Postal Votes": 10,
+                "Total Votes": 457,
+                "Vote %": 1.54
+            },
+            {
+                "Candidate": "BALLENSING CH MARAK",
+                "Party": "Republican Party of India",
+                "EVM Votes": 137,
+                "Postal Votes": 1,
+                "Total Votes": 138,
+                "Vote %": 0.46
+            },
+            {
+                "Candidate": "ROBINUS T SANGMA",
+                "Party": "Janata Dal  (United)",
+                "EVM Votes": 709,
+                "Postal Votes": 24,
+                "Total Votes": 733,
+                "Vote %": 2.46
+            },
+            {
+                "Candidate": "RUDRESWAR CH. MOMIN",
+                "Party": "Independent",
+                "EVM Votes": 5016,
+                "Postal Votes": 121,
+                "Total Votes": 5137,
+                "Vote %": 17.27
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 359,
+                "Postal Votes": 7,
+                "Total Votes": 366,
+                "Vote %": 1.23
+            }
+        ]
+    },
+    {
+        "ac_no": "44",
+        "declared": true,
+        "ac_name": "Raksamgre ",
+        "candidates": [
+            {
+                "Candidate": "BENEDIC R. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 9328,
+                "Postal Votes": 38,
+                "Total Votes": 9366,
+                "Vote %": 33.87
+            },
+            {
+                "Candidate": "FREDERICK D. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1409,
+                "Postal Votes": 4,
+                "Total Votes": 1413,
+                "Vote %": 5.11
+            },
+            {
+                "Candidate": "LIMISON D. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 12123,
+                "Postal Votes": 61,
+                "Total Votes": 12184,
+                "Vote %": 44.06
+            },
+            {
+                "Candidate": "DR. PRABIR D. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 4035,
+                "Postal Votes": 40,
+                "Total Votes": 4075,
+                "Vote %": 14.74
+            },
+            {
+                "Candidate": "SUSHIL GAYARY",
+                "Party": "United Democratic Party",
+                "EVM Votes": 260,
+                "Postal Votes": 1,
+                "Total Votes": 261,
+                "Vote %": 0.94
+            },
+            {
+                "Candidate": "THOSENGCHEBA A. SANGMA",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 165,
+                "Postal Votes": 3,
+                "Total Votes": 168,
+                "Vote %": 0.61
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 184,
+                "Postal Votes": 2,
+                "Total Votes": 186,
+                "Vote %": 0.67
+            }
+        ]
+    },
+    {
+        "ac_no": "45",
+        "declared": true,
+        "ac_name": "Tikrikilla ",
+        "candidates": [
+            {
+                "Candidate": "JIMMY D. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 13150,
+                "Postal Votes": 68,
+                "Total Votes": 13218,
+                "Vote %": 41.42
+            },
+            {
+                "Candidate": "JULIUS T. SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 311,
+                "Postal Votes": 2,
+                "Total Votes": 313,
+                "Vote %": 0.98
+            },
+            {
+                "Candidate": "DR. KAPIN CH. BORO",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1210,
+                "Postal Votes": 23,
+                "Total Votes": 1233,
+                "Vote %": 3.86
+            },
+            {
+                "Candidate": "DR. MUKUL SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7840,
+                "Postal Votes": 65,
+                "Total Votes": 7905,
+                "Vote %": 24.77
+            },
+            {
+                "Candidate": "RAHINATH BARCHUNG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 7768,
+                "Postal Votes": 81,
+                "Total Votes": 7849,
+                "Vote %": 24.59
+            },
+            {
+                "Candidate": "NOOR NONGRUM",
+                "Party": "Independent",
+                "EVM Votes": 1097,
+                "Postal Votes": 1,
+                "Total Votes": 1098,
+                "Vote %": 3.44
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 297,
+                "Postal Votes": 1,
+                "Total Votes": 298,
+                "Vote %": 0.93
+            }
+        ]
+    },
+    {
+        "ac_no": "46",
+        "declared": true,
+        "ac_name": "Phulbari ",
+        "candidates": [
+            {
+                "Candidate": "ABU TAHER MONDAL",
+                "Party": "National People's Party",
+                "EVM Votes": 14866,
+                "Postal Votes": 103,
+                "Total Votes": 14969,
+                "Vote %": 50.64
+            },
+            {
+                "Candidate": "EDMUND K. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1826,
+                "Postal Votes": 30,
+                "Total Votes": 1856,
+                "Vote %": 6.28
+            },
+            {
+                "Candidate": "S G ESMATUR MOMININ",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 11652,
+                "Postal Votes": 77,
+                "Total Votes": 11729,
+                "Vote %": 39.68
+            },
+            {
+                "Candidate": "SAILENDRA R. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 317,
+                "Postal Votes": 1,
+                "Total Votes": 318,
+                "Vote %": 1.08
+            },
+            {
+                "Candidate": "ZINBAWARD N. SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 397,
+                "Postal Votes": 3,
+                "Total Votes": 400,
+                "Vote %": 1.35
+            },
+            {
+                "Candidate": "FUL BOKSHA SHEIKH",
+                "Party": "Janata Dal  (United)",
+                "EVM Votes": 68,
+                "Postal Votes": 0,
+                "Total Votes": 68,
+                "Vote %": 0.23
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 219,
+                "Postal Votes": 0,
+                "Total Votes": 219,
+                "Vote %": 0.74
+            }
+        ]
+    },
+    {
+        "ac_no": "47",
+        "declared": true,
+        "ac_name": "Rajabala ",
+        "candidates": [
+            {
+                "Candidate": "MD ABDUS SALEH",
+                "Party": "National People's Party",
+                "EVM Votes": 12539,
+                "Postal Votes": 79,
+                "Total Votes": 12618,
+                "Vote %": 37.86
+            },
+            {
+                "Candidate": "ASHAHEL D. SHIRA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 6827,
+                "Postal Votes": 43,
+                "Total Votes": 6870,
+                "Vote %": 20.62
+            },
+            {
+                "Candidate": "BAKUL CHANDRA HAJONG",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 428,
+                "Postal Votes": 11,
+                "Total Votes": 439,
+                "Vote %": 1.32
+            },
+            {
+                "Candidate": "CARLA R. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 189,
+                "Postal Votes": 4,
+                "Total Votes": 193,
+                "Vote %": 0.58
+            },
+            {
+                "Candidate": "DR. MIZANUR RAHMAN KAZI",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 12561,
+                "Postal Votes": 67,
+                "Total Votes": 12628,
+                "Vote %": 37.89
+            },
+            {
+                "Candidate": "NIJUM SANGMA",
+                "Party": "Independent",
+                "EVM Votes": 418,
+                "Postal Votes": 1,
+                "Total Votes": 419,
+                "Vote %": 1.26
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 157,
+                "Postal Votes": 1,
+                "Total Votes": 158,
+                "Vote %": 0.47
+            }
+        ]
+    },
+    {
+        "ac_no": "48",
+        "declared": true,
+        "ac_name": "Selsella ",
+        "candidates": [
+            {
+                "Candidate": "AGASSI R. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7819,
+                "Postal Votes": 35,
+                "Total Votes": 7854,
+                "Vote %": 23.6
+            },
+            {
+                "Candidate": "ARBINSTONE B MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 16476,
+                "Postal Votes": 119,
+                "Total Votes": 16595,
+                "Vote %": 49.86
+            },
+            {
+                "Candidate": "FERLIN C.A. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 6915,
+                "Postal Votes": 39,
+                "Total Votes": 6954,
+                "Vote %": 20.89
+            },
+            {
+                "Candidate": "REYNOLD M SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1176,
+                "Postal Votes": 8,
+                "Total Votes": 1184,
+                "Vote %": 3.56
+            },
+            {
+                "Candidate": "SUBHANKAR KOCH",
+                "Party": "United Democratic Party",
+                "EVM Votes": 126,
+                "Postal Votes": 2,
+                "Total Votes": 128,
+                "Vote %": 0.38
+            },
+            {
+                "Candidate": "POLLOP R MARAK",
+                "Party": "Independent",
+                "EVM Votes": 185,
+                "Postal Votes": 0,
+                "Total Votes": 185,
+                "Vote %": 0.56
+            },
+            {
+                "Candidate": "TENGSRANG MARAK",
+                "Party": "Independent",
+                "EVM Votes": 205,
+                "Postal Votes": 1,
+                "Total Votes": 206,
+                "Vote %": 0.62
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 179,
+                "Postal Votes": 0,
+                "Total Votes": 179,
+                "Vote %": 0.54
+            }
+        ]
+    },
+    {
+        "ac_no": "49",
+        "declared": true,
+        "ac_name": "Dadenggre ",
+        "candidates": [
+            {
+                "Candidate": "BRAINING R. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 481,
+                "Postal Votes": 0,
+                "Total Votes": 481,
+                "Vote %": 1.46
+            },
+            {
+                "Candidate": "CHESTERFIELD SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 364,
+                "Postal Votes": 3,
+                "Total Votes": 367,
+                "Vote %": 1.11
+            },
+            {
+                "Candidate": "JAMES PANGSANG KONGKAL SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 15612,
+                "Postal Votes": 72,
+                "Total Votes": 15684,
+                "Vote %": 47.64
+            },
+            {
+                "Candidate": "RUPA M. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 15619,
+                "Postal Votes": 83,
+                "Total Votes": 15702,
+                "Vote %": 47.7
+            },
+            {
+                "Candidate": "WITJENG N. SANGMA",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 359,
+                "Postal Votes": 0,
+                "Total Votes": 359,
+                "Vote %": 1.09
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 168,
+                "Postal Votes": 158,
+                "Total Votes": 326,
+                "Vote %": 0.99
+            }
+        ]
+    },
+    {
+        "ac_no": "50",
+        "declared": true,
+        "ac_name": "North Tura ",
+        "candidates": [
+            {
+                "Candidate": "ADAM KID M. SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 7376,
+                "Postal Votes": 124,
+                "Total Votes": 7500,
+                "Vote %": 27.89
+            },
+            {
+                "Candidate": "BILLYKID A. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 2034,
+                "Postal Votes": 77,
+                "Total Votes": 2111,
+                "Vote %": 7.85
+            },
+            {
+                "Candidate": "DR. PILNE A. SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 646,
+                "Postal Votes": 19,
+                "Total Votes": 665,
+                "Vote %": 2.47
+            },
+            {
+                "Candidate": "RUPERT M. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 4608,
+                "Postal Votes": 135,
+                "Total Votes": 4743,
+                "Vote %": 17.64
+            },
+            {
+                "Candidate": "THOMAS A. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 11015,
+                "Postal Votes": 370,
+                "Total Votes": 11385,
+                "Vote %": 42.34
+            },
+            {
+                "Candidate": "BINA ROSALINE A. SANGMA",
+                "Party": "Janata Dal  (United)",
+                "EVM Votes": 224,
+                "Postal Votes": 0,
+                "Total Votes": 224,
+                "Vote %": 0.83
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 248,
+                "Postal Votes": 14,
+                "Total Votes": 262,
+                "Vote %": 0.97
+            }
+        ]
+    },
+    {
+        "ac_no": "51",
+        "declared": true,
+        "ac_name": "South Tura ",
+        "candidates": [
+            {
+                "Candidate": "BERNARD N. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 8166,
+                "Postal Votes": 160,
+                "Total Votes": 8326,
+                "Vote %": 32.48
+            },
+            {
+                "Candidate": "BRENZIELD CH MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 553,
+                "Postal Votes": 19,
+                "Total Votes": 572,
+                "Vote %": 2.23
+            },
+            {
+                "Candidate": "CONRAD KONGKAL SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 12761,
+                "Postal Votes": 581,
+                "Total Votes": 13342,
+                "Vote %": 52.04
+            },
+            {
+                "Candidate": "JOHN LESLEE K. SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 748,
+                "Postal Votes": 28,
+                "Total Votes": 776,
+                "Vote %": 3.03
+            },
+            {
+                "Candidate": "RICHARD M MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 2193,
+                "Postal Votes": 119,
+                "Total Votes": 2312,
+                "Vote %": 9.02
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 294,
+                "Postal Votes": 16,
+                "Total Votes": 310,
+                "Vote %": 1.21
+            }
+        ]
+    },
+    {
+        "ac_no": "52",
+        "declared": true,
+        "ac_name": "Rangsakona ",
+        "candidates": [
+            {
+                "Candidate": "BIPUL CH. SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 253,
+                "Postal Votes": 2,
+                "Total Votes": 255,
+                "Vote %": 0.78
+            },
+            {
+                "Candidate": "DIPUL R. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 4523,
+                "Postal Votes": 48,
+                "Total Votes": 4571,
+                "Vote %": 14.01
+            },
+            {
+                "Candidate": "EDMUND S SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 807,
+                "Postal Votes": 13,
+                "Total Votes": 820,
+                "Vote %": 2.51
+            },
+            {
+                "Candidate": "SUBIR MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 13398,
+                "Postal Votes": 207,
+                "Total Votes": 13605,
+                "Vote %": 41.71
+            },
+            {
+                "Candidate": "ZENITH .M. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 12649,
+                "Postal Votes": 168,
+                "Total Votes": 12817,
+                "Vote %": 39.3
+            },
+            {
+                "Candidate": "INDRASH M. MARAK",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 352,
+                "Postal Votes": 1,
+                "Total Votes": 353,
+                "Vote %": 1.08
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 193,
+                "Postal Votes": 2,
+                "Total Votes": 195,
+                "Vote %": 0.6
+            }
+        ]
+    },
+    {
+        "ac_no": "53",
+        "declared": true,
+        "ac_name": "Ampati ",
+        "candidates": [
+            {
+                "Candidate": "MIANI D. SHIRA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 13224,
+                "Postal Votes": 222,
+                "Total Votes": 13446,
+                "Vote %": 44.69
+            },
+            {
+                "Candidate": "PREMANANDA KOCH",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 4701,
+                "Postal Votes": 61,
+                "Total Votes": 4762,
+                "Vote %": 15.83
+            },
+            {
+                "Candidate": "STEVIE M. MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 11002,
+                "Postal Votes": 167,
+                "Total Votes": 11169,
+                "Vote %": 37.12
+            },
+            {
+                "Candidate": "UTTORA GURI SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 467,
+                "Postal Votes": 9,
+                "Total Votes": 476,
+                "Vote %": 1.58
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 227,
+                "Postal Votes": 6,
+                "Total Votes": 233,
+                "Vote %": 0.77
+            }
+        ]
+    },
+    {
+        "ac_no": "54",
+        "declared": true,
+        "ac_name": "Mahendraganj ",
+        "candidates": [
+            {
+                "Candidate": "DIKKANCHI D SHIRA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 11708,
+                "Postal Votes": 134,
+                "Total Votes": 11842,
+                "Vote %": 36.03
+            },
+            {
+                "Candidate": "SANJAY A. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 13368,
+                "Postal Votes": 192,
+                "Total Votes": 13560,
+                "Vote %": 41.25
+            },
+            {
+                "Candidate": "SAYEEDULLAH NONGRUM",
+                "Party": "Indian National Congress",
+                "EVM Votes": 321,
+                "Postal Votes": 10,
+                "Total Votes": 331,
+                "Vote %": 1.01
+            },
+            {
+                "Candidate": "TINGKU N MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 6568,
+                "Postal Votes": 133,
+                "Total Votes": 6701,
+                "Vote %": 20.39
+            },
+            {
+                "Candidate": "ADITYA HAJONG",
+                "Party": "Independent",
+                "EVM Votes": 161,
+                "Postal Votes": 2,
+                "Total Votes": 163,
+                "Vote %": 0.5
+            },
+            {
+                "Candidate": "SERAZUL H KHARKONGOR",
+                "Party": "Independent",
+                "EVM Votes": 100,
+                "Postal Votes": 0,
+                "Total Votes": 100,
+                "Vote %": 0.3
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 171,
+                "Postal Votes": 2,
+                "Total Votes": 173,
+                "Vote %": 0.53
+            }
+        ]
+    },
+    {
+        "ac_no": "55",
+        "declared": true,
+        "ac_name": "Salmanpara ",
+        "candidates": [
+            {
+                "Candidate": "BOSTON MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 5568,
+                "Postal Votes": 32,
+                "Total Votes": 5600,
+                "Vote %": 20.64
+            },
+            {
+                "Candidate": "IAN BOTHAM K. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 11237,
+                "Postal Votes": 115,
+                "Total Votes": 11352,
+                "Vote %": 41.84
+            },
+            {
+                "Candidate": "RONALD RIKMAN SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 2747,
+                "Postal Votes": 19,
+                "Total Votes": 2766,
+                "Vote %": 10.19
+            },
+            {
+                "Candidate": "SINBATH CH MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 1021,
+                "Postal Votes": 8,
+                "Total Votes": 1029,
+                "Vote %": 3.79
+            },
+            {
+                "Candidate": "WINNERSON D. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 6042,
+                "Postal Votes": 72,
+                "Total Votes": 6114,
+                "Vote %": 22.54
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 266,
+                "Postal Votes": 4,
+                "Total Votes": 270,
+                "Vote %": 1.0
+            }
+        ]
+    },
+    {
+        "ac_no": "56",
+        "declared": true,
+        "ac_name": "Gambegre ",
+        "candidates": [
+            {
+                "Candidate": "DANIEL M SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 315,
+                "Postal Votes": 0,
+                "Total Votes": 315,
+                "Vote %": 1.11
+            },
+            {
+                "Candidate": "RAKESH SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 7594,
+                "Postal Votes": 34,
+                "Total Votes": 7628,
+                "Vote %": 26.83
+            },
+            {
+                "Candidate": "SADHIARANI M. SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 8345,
+                "Postal Votes": 36,
+                "Total Votes": 8381,
+                "Vote %": 29.48
+            },
+            {
+                "Candidate": "SALENG A. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 11178,
+                "Postal Votes": 74,
+                "Total Votes": 11252,
+                "Vote %": 39.57
+            },
+            {
+                "Candidate": "JHIM CARTER .M. SANGMA",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 366,
+                "Postal Votes": 1,
+                "Total Votes": 367,
+                "Vote %": 1.29
+            },
+            {
+                "Candidate": "SAIRILL D. MARAK",
+                "Party": "Garo National Council",
+                "EVM Votes": 198,
+                "Postal Votes": 0,
+                "Total Votes": 198,
+                "Vote %": 0.7
+            },
+            {
+                "Candidate": "SUKBERLINE S. SANGMA",
+                "Party": "Independent",
+                "EVM Votes": 159,
+                "Postal Votes": 2,
+                "Total Votes": 161,
+                "Vote %": 0.57
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 131,
+                "Postal Votes": 0,
+                "Total Votes": 131,
+                "Vote %": 0.46
+            }
+        ]
+    },
+    {
+        "ac_no": "57",
+        "declared": true,
+        "ac_name": "Dalu ",
+        "candidates": [
+            {
+                "Candidate": "AKKI A SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 5265,
+                "Postal Votes": 42,
+                "Total Votes": 5307,
+                "Vote %": 28.02
+            },
+            {
+                "Candidate": "BRENING A. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 5788,
+                "Postal Votes": 46,
+                "Total Votes": 5834,
+                "Vote %": 30.8
+            },
+            {
+                "Candidate": "KENETHSON SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 633,
+                "Postal Votes": 2,
+                "Total Votes": 635,
+                "Vote %": 3.35
+            },
+            {
+                "Candidate": "ROGER BENNY A SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 327,
+                "Postal Votes": 6,
+                "Total Votes": 333,
+                "Vote %": 1.76
+            },
+            {
+                "Candidate": "SENGKAL A SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 3073,
+                "Postal Votes": 31,
+                "Total Votes": 3104,
+                "Vote %": 16.39
+            },
+            {
+                "Candidate": "PANSENG R. MARAK",
+                "Party": "Republican Party of India (A)",
+                "EVM Votes": 418,
+                "Postal Votes": 29,
+                "Total Votes": 447,
+                "Vote %": 2.36
+            },
+            {
+                "Candidate": "DIRAJ D. MARAK",
+                "Party": "Independent",
+                "EVM Votes": 349,
+                "Postal Votes": 6,
+                "Total Votes": 355,
+                "Vote %": 1.87
+            },
+            {
+                "Candidate": "PROMOD S. KOCH",
+                "Party": "Independent",
+                "EVM Votes": 692,
+                "Postal Votes": 2,
+                "Total Votes": 694,
+                "Vote %": 3.66
+            },
+            {
+                "Candidate": "SARBHA R. MARAK",
+                "Party": "Independent",
+                "EVM Votes": 2067,
+                "Postal Votes": 2,
+                "Total Votes": 2069,
+                "Vote %": 10.92
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 161,
+                "Postal Votes": 1,
+                "Total Votes": 162,
+                "Vote %": 0.86
+            }
+        ]
+    },
+    {
+        "ac_no": "58",
+        "declared": true,
+        "ac_name": "Rongara Siju ",
+        "candidates": [
+            {
+                "Candidate": "CALIS G MOMIN",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 1268,
+                "Postal Votes": 11,
+                "Total Votes": 1279,
+                "Vote %": 4.35
+            },
+            {
+                "Candidate": "DR RAJESH M MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 7840,
+                "Postal Votes": 98,
+                "Total Votes": 7938,
+                "Vote %": 26.97
+            },
+            {
+                "Candidate": "RAKKAM A. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 11422,
+                "Postal Votes": 147,
+                "Total Votes": 11569,
+                "Vote %": 39.31
+            },
+            {
+                "Candidate": "ROPHUL S MARAK",
+                "Party": "Indian National Congress",
+                "EVM Votes": 8239,
+                "Postal Votes": 72,
+                "Total Votes": 8311,
+                "Vote %": 28.24
+            },
+            {
+                "Candidate": "TESENG A SANGMA",
+                "Party": "United Democratic Party",
+                "EVM Votes": 196,
+                "Postal Votes": 1,
+                "Total Votes": 197,
+                "Vote %": 0.67
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 136,
+                "Postal Votes": 1,
+                "Total Votes": 137,
+                "Vote %": 0.47
+            }
+        ]
+    },
+    {
+        "ac_no": "59",
+        "declared": true,
+        "ac_name": "Chokpot ",
+        "candidates": [
+            {
+                "Candidate": "KARAK R. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 3262,
+                "Postal Votes": 31,
+                "Total Votes": 3293,
+                "Vote %": 11.55
+            },
+            {
+                "Candidate": "LAZARUS M SANGMA",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 5574,
+                "Postal Votes": 41,
+                "Total Votes": 5615,
+                "Vote %": 19.69
+            },
+            {
+                "Candidate": "NOVEMBIRTH CH. MARAK",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 611,
+                "Postal Votes": 7,
+                "Total Votes": 618,
+                "Vote %": 2.17
+            },
+            {
+                "Candidate": "SENGCHIM N. SANGMA",
+                "Party": "National People's Party",
+                "EVM Votes": 9433,
+                "Postal Votes": 70,
+                "Total Votes": 9503,
+                "Vote %": 33.33
+            },
+            {
+                "Candidate": "NIKMAN CH. MARAK",
+                "Party": "Garo National Council",
+                "EVM Votes": 9092,
+                "Postal Votes": 58,
+                "Total Votes": 9150,
+                "Vote %": 32.09
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 331,
+                "Postal Votes": 0,
+                "Total Votes": 331,
+                "Vote %": 1.16
+            }
+        ]
+    },
+    {
+        "ac_no": "60",
+        "declared": true,
+        "ac_name": "Baghmara ",
+        "candidates": [
+            {
+                "Candidate": "ALPHONSE CH. SANGMA",
+                "Party": "Indian National Congress",
+                "EVM Votes": 251,
+                "Postal Votes": 6,
+                "Total Votes": 257,
+                "Vote %": 0.88
+            },
+            {
+                "Candidate": "DR. SALJAGRINGRANG R. MARAK",
+                "Party": "All India Trinamool Congress",
+                "EVM Votes": 2680,
+                "Postal Votes": 79,
+                "Total Votes": 2759,
+                "Vote %": 9.46
+            },
+            {
+                "Candidate": "SAMUEL M SANGMA",
+                "Party": "Bharatiya Janata Party",
+                "EVM Votes": 6695,
+                "Postal Votes": 93,
+                "Total Votes": 6788,
+                "Vote %": 23.27
+            },
+            {
+                "Candidate": "SATTO R. MARAK",
+                "Party": "National People's Party",
+                "EVM Votes": 5372,
+                "Postal Votes": 121,
+                "Total Votes": 5493,
+                "Vote %": 18.83
+            },
+            {
+                "Candidate": "KARTUSH R. MARAK",
+                "Party": "Independent",
+                "EVM Votes": 8880,
+                "Postal Votes": 133,
+                "Total Votes": 9013,
+                "Vote %": 30.9
+            },
+            {
+                "Candidate": "NATHAWAL S. MARAK",
+                "Party": "Independent",
+                "EVM Votes": 4598,
+                "Postal Votes": 60,
+                "Total Votes": 4658,
+                "Vote %": 15.97
+            },
+            {
+                "Candidate": "NOTA",
+                "Party": "None of the Above",
+                "EVM Votes": 204,
+                "Postal Votes": 1,
+                "Total Votes": 205,
+                "Vote %": 0.7
+            }
+        ]
+    }
+]
