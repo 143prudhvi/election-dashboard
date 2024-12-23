@@ -8,6 +8,10 @@ header{
     box-sizing: border-box;
 }
 
+body{
+    background-color: #e3e3e3;
+}
+
 .page-title{
     margin: 0;
     color: white;

@@ -2,54 +2,61 @@ import React, { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { geoMercator, geoPath, select, scaleLinear, min, max } from 'd3';
 import { feature } from 'topojson-client';
-import geoData from './Andhra Pradesh.json';
-import schoolsData from './Schools.json';
 
 const AndhraEducation = () => {
-    const [schoolData, setSchoolData] = useState(schoolsData);
+    const [geoData, setGeoData] = useState(null);
+    const [schoolData, setSchoolData] = useState(null);
     const tooltipRef = useRef(null);
-    const rootRef = useRef(null); // Store the root instance
+    const rootRef = useRef(null);
 
-    const districts = feature(geoData, geoData.objects['Andhra Pradesh']);
+    useEffect(() => {
+        // Fetch Andhra Pradesh Geo Data
+        fetch('/json/Andhra Pradesh.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to fetch Andhra Pradesh data');
+                }
+                return response.json();
+            })
+            .then(data => setGeoData(data))
+            .catch(error => console.error('Error fetching geoData:', error));
 
-    const getDistrictColor = (d) => {
-        if (
-            ["Srikakulam", "Alluri Sitharama Raju", "West Godavari", "NTR", "Prakasam", "Ananthapuramu", "Chittoor"].includes(
-                d.properties['District']
-            )
-        ) {
-            return "#fdcd8b";
-        } else if (
-            ["Anakapalli", "East Godavari", "Guntur", "SPSR Nellore", "Kurnool", "Sri Satya Sai"].includes(
-                d.properties['District']
-            )
-        ) {
-            return "#e44930";
-        } else if (
-            ["Parvathipuram Manyam", "Visakhapatnam", "Kakinada", "Krishna", "Palnadu", "YSR Kadapa", "Tirupati"].includes(
-                d.properties['District']
-            )
-        ) {
-            return "#fef0da";
-        } else {
-            return "#fc8e58";
-        }
-    };
+        // Fetch Schools Data
+        fetch('/json/Schools.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to fetch Schools data');
+                }
+                return response.json();
+            })
+            .then(data => setSchoolData(data))
+            .catch(error => console.error('Error fetching schoolData:', error));
+    }, []);
 
     const capitalize = (str) => {
-        console.log(str)
-        const arr = str.split(" ");
-        for (let i = 0; i < arr.length; i++) {
-            arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1).toLowerCase();
-        }
-        return arr.join(" ");
+        return str
+            .split(' ')
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+            .join(' ');
     };
 
-    const getStateWisePartySeatsHTML2019 = (d) => {
-        const hoveredDistrictData = schoolData.filter(
-            (school) =>
-                capitalize(d.properties['ac_name']) === capitalize(school['Assembly Constituency'])
-        );
+    const getDistrictColor = (d) => {
+        const district = d.properties['District'];
+        if (["Srikakulam", "Alluri Sitharama Raju", "West Godavari", "NTR", "Prakasam", "Ananthapuramu", "Chittoor"].includes(district)) {
+            return "#fdcd8b";
+        } else if (["Anakapalli", "East Godavari", "Guntur", "SPSR Nellore", "Kurnool", "Sri Satya Sai"].includes(district)) {
+            return "#e44930";
+        } else if (["Parvathipuram Manyam", "Visakhapatnam", "Kakinada", "Krishna", "Palnadu", "YSR Kadapa", "Tirupati"].includes(district)) {
+            return "#fef0da";
+        } else {
+            return "#C6C680";
+        }
+    };
+
+    const getTooltipContent = (d) => {
+        const hoveredDistrictData = schoolData?.filter(school => 
+            capitalize(d.properties['ac_name']) === capitalize(school['Assembly Constituency'])
+        ) || [];
 
         return (
             <div>
@@ -64,9 +71,7 @@ const AndhraEducation = () => {
                                 <td>{capitalize(school['Name of the Institution'])}</td>
                                 <td>
                                     <img
-                                        src={`/${
-                                            school.Gender === 'Boys' ? 'boys.jpg' : 'girls.jpg'
-                                        }`}
+                                        src={`/${school.Gender === 'Boys' ? 'boys.jpg' : 'girls.jpg'}`}
                                         alt={school.Gender}
                                         width="16"
                                         height="16"
@@ -81,92 +86,74 @@ const AndhraEducation = () => {
     };
 
     useEffect(() => {
+        if (!geoData || !schoolData) return;
+
         const svg = select("svg");
         const g = svg.select("g");
         const projection = geoMercator().center([82, 16.5]).scale(5000);
         const geoPathGenerator = geoPath().projection(projection);
 
-        const tooltipContainer = tooltipRef.current;
+        const districts = feature(geoData, geoData.objects['Andhra Pradesh']).features;
 
-        // Initialize createRoot once
         if (!rootRef.current) {
-            rootRef.current = createRoot(tooltipContainer);
+            rootRef.current = createRoot(tooltipRef.current);
         }
 
         g.selectAll("path")
-            .data(districts.features)
+            .data(districts)
             .enter()
             .append("path")
             .attr("d", geoPathGenerator)
             .attr("class", "feature")
             .attr("fill", getDistrictColor)
             .on("mousemove", function (event, d) {
-                const tooltipContent = getStateWisePartySeatsHTML2019(d);
-
-                // Reuse the existing root instance
-                rootRef.current.render(tooltipContent);
+                rootRef.current.render(getTooltipContent(d));
 
                 select(".tooltip")
-                    .transition()
-                    .duration(200)
                     .style("opacity", 1)
                     .style("left", `${event.pageX - 100}px`)
                     .style("top", `${event.pageY + 24}px`);
             })
             .on("mouseout", function () {
-                select(".tooltip")
-                    .transition()
-                    .duration(500)
-                    .style("opacity", 0);
+                select(".tooltip").style("opacity", 0);
             });
 
-        // Add district names
+        const areaScale = scaleLinear()
+            .domain([
+                min(districts, d => geoPathGenerator.area(d)),
+                max(districts, d => geoPathGenerator.area(d))
+            ])
+            .range([1, 8]);
+
         g.selectAll("text")
-            .data(districts.features)
+            .data(districts)
             .enter()
             .append("text")
             .attr("x", d => geoPathGenerator.centroid(d)[0])
             .attr("y", d => geoPathGenerator.centroid(d)[1])
             .attr("text-anchor", "middle")
-            .attr("font-size", d => {
-                const area = geoPathGenerator.area(d);
-                const fontSizeScale = scaleLinear()
-                    .domain([min(districts.features, d => geoPathGenerator.area(d)), max(districts.features, d => geoPathGenerator.area(d))])
-                    .range([1, 8]);
-                return fontSizeScale(area);
-            })
+            .attr("font-size", d => areaScale(geoPathGenerator.area(d)))
             .attr("fill", "black")
-            .text(d => capitalize(d.properties["ac_name"]));
+            .text(d => capitalize(d.properties['ac_name']));
 
-        // Add school icons
+        const sizeScale = scaleLinear()
+            .domain([
+                min(schoolData, s => s.Students || 1),
+                max(schoolData, s => s.Students || 100)
+            ])
+            .range([4, 16]);
+
         g.selectAll("image")
-        .data(schoolData)
-        .enter()
-        .append("image")
-        .attr("x", d => {
-            const coords = projection([+d.Lognitude, +d.Latitude]);
-            return coords ? coords[0] : null;
-        })
-        .attr("y", d => {
-            const coords = projection([+d.Lognitude, +d.Latitude]);
-            return coords ? coords[1] : null;
-        })
-        .attr("width", d => {
-            const sizeScale = scaleLinear()
-                .domain([min(schoolData, s => s.Students || 1), max(schoolData, s => s.Students || 100)])
-                .range([4, 8]); // Adjust icon size range
-            return sizeScale(d.Students || 1);
-        })
-        .attr("height", d => {
-            const sizeScale = scaleLinear()
-                .domain([min(schoolData, s => s.Students || 1), max(schoolData, s => s.Students || 100)])
-                .range([4, 8]); // Adjust icon size range
-            return sizeScale(d.Students || 1);
-        })
-        .attr("xlink:href", d => d.Gender === "Boys" ? "/boys.jpg" : "/girls.jpg") // Path to the icon
-        .attr("class", "school-icon");
-
-    }, [schoolData]);
+            .data(schoolData)
+            .enter()
+            .append("image")
+            .attr("x", d => projection([+d.Lognitude, +d.Latitude])[0])
+            .attr("y", d => projection([+d.Lognitude, +d.Latitude])[1])
+            .attr("width", d => sizeScale(d.Students || 1))
+            .attr("height", d => sizeScale(d.Students || 1))
+            .attr("xlink:href", d => d.Gender === "Boys" ? "/boys.jpg" : "/girls.jpg")
+            .attr("class", "school-icon");
+    }, [geoData, schoolData]);
 
     return (
         <>

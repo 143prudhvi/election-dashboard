@@ -22,7 +22,7 @@ function App() {
 
   return(
     <BrowserRouter>
-      <PageHeader />
+      {/* <PageHeader /> */}
       <Routes>
         <Route path="/TripuraAssembly" exact element={<div> <TripuraAssemblyMap /></div>} />
         <Route path="/MeghalayaAssembly" exact element={<div> <MeghalayaAssemblyMap /></div>} />
