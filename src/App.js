@@ -33,8 +33,8 @@ function App() {
         <Route path="/AndhraRegion" exact element={<AndhraPradeshRegionMap />}/> 
         <Route path='/Assembly' exact element={<Assembly />} />
         <Route path='/MCD' exact element={<MCD />} />
-        <Route path="/" exact element={<IndiaMap />}/> 
-        <Route path='/AndhraEducation' exact element={<AndhraEducation />} />
+        <Route path="/india" exact element={<IndiaMap />}/> 
+        <Route path='/' exact element={<AndhraEducation />} />
       </Routes>
     </BrowserRouter>
     

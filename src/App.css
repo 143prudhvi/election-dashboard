@@ -9,7 +9,12 @@ header{
 }
 
 body{
-    background-color: #e3e3e3;
+    background-color: #e6e7e4;
+}
+
+.map-container {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 10px; /* Optional: rounded edges */
 }
 
 .page-title{
@@ -263,12 +268,14 @@ rect.background {
 }
 
 path.feature {
-    stroke-width: 0.75px;
-    stroke: #fff;
+    stroke-width: 0.15px;
+    stroke: #036608;
     /* fill: #a6bddb; */
     cursor: pointer;
     transition: transform 1s;
     position: relative;
+
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5) !important;
 }
 
 .tooltip,.tooltip_pc{
