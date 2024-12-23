@@ -1,53 +1,59 @@
-import React,{ useEffect, useRef, useState } from 'react';
-import {geoMercator, geoPath, select} from 'd3';
-import {feature} from 'topojson-client';
-import geoData from './AndhraPradeshDistricts.json';
+import React, { useEffect, useRef, useState } from 'react';
+import { createRoot } from 'react-dom/client';
+import { geoMercator, geoPath, select, scaleLinear, min, max } from 'd3';
+import { feature } from 'topojson-client';
+import geoData from './Andhra Pradesh.json';
 import schoolsData from './Schools.json';
-import ReactDOM from 'react-dom';
 
 const AndhraEducation = () => {
     const [schoolData, setSchoolData] = useState(schoolsData);
-    
+    const tooltipRef = useRef(null);
+    const rootRef = useRef(null); // Store the root instance
 
-    const canvas = useRef();
-    var states = feature(geoData,geoData.objects['Districts']);
+    const districts = feature(geoData, geoData.objects['Andhra Pradesh']);
 
-    function getDistrictColor(d){
-        if(d.properties['District'] == "Srikakulam" || d.properties['District'] == "Alluri Sitharama Raju" 
-            || d.properties['District'] == "West Godavari" || d.properties['District'] == "NTR" || 
-            d.properties['District'] == "Prakasam" || d.properties['District'] == "Ananthapuramu" ||
-            d.properties['District'] == "Chittoor"){
-            return "#fdcd8b"
+    const getDistrictColor = (d) => {
+        if (
+            ["Srikakulam", "Alluri Sitharama Raju", "West Godavari", "NTR", "Prakasam", "Ananthapuramu", "Chittoor"].includes(
+                d.properties['District']
+            )
+        ) {
+            return "#fdcd8b";
+        } else if (
+            ["Anakapalli", "East Godavari", "Guntur", "SPSR Nellore", "Kurnool", "Sri Satya Sai"].includes(
+                d.properties['District']
+            )
+        ) {
+            return "#e44930";
+        } else if (
+            ["Parvathipuram Manyam", "Visakhapatnam", "Kakinada", "Krishna", "Palnadu", "YSR Kadapa", "Tirupati"].includes(
+                d.properties['District']
+            )
+        ) {
+            return "#fef0da";
+        } else {
+            return "#fc8e58";
         }
-        else if(d.properties['District'] == "Anakapalli" || d.properties['District'] == "East Godavari" 
-            || d.properties['District'] == "Guntur" || d.properties['District'] == "SPSR Nellore" || 
-            d.properties['District'] == "Kurnool" || d.properties['District'] == "Sri Satya Sai"){
-            return "#e44930"
-        }
-        else if(d.properties['District'] == "Parvathipuram Manyam" || d.properties['District'] == "Visakhapatnam" || d.properties['District'] == "Kakinada" 
-            || d.properties['District'] == "Krishna" || d.properties['District'] == "Palnadu" || 
-            d.properties['District'] == "YSR Kadapa" || d.properties['District'] == "Tirupati"){
-            return "#fef0da"
-        }
-        else{
-            return "#fc8e58"
-        }
-    }
+    };
 
-    function toCapitalize(str) {
-        if (!str || typeof str !== 'string') return str; // Ensure input is valid
-        return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
-    }
+    const capitalize = (str) => {
+        console.log(str)
+        const arr = str.split(" ");
+        for (let i = 0; i < arr.length; i++) {
+            arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1).toLowerCase();
+        }
+        return arr.join(" ");
+    };
 
-    function getStateWisePartySeatsHTML2019(d) {
+    const getStateWisePartySeatsHTML2019 = (d) => {
         const hoveredDistrictData = schoolData.filter(
             (school) =>
-                toCapitalize(d.properties['District']) === toCapitalize(school.District)
+                capitalize(d.properties['ac_name']) === capitalize(school['Assembly Constituency'])
         );
-    
+
         return (
             <div>
-                <div className="title">{capitalize(d.properties['District'])}</div>
+                <div className="title">{capitalize(d.properties['ac_name'])}</div>
                 <div className="subtitle">
                     Schools: <b>{hoveredDistrictData.length}</b>
                 </div>
@@ -72,85 +78,105 @@ const AndhraEducation = () => {
                 </table>
             </div>
         );
-    }    
-
-    function capitalize(str){
-        const arr = str.split(" ");
-        for (var i = 0; i < arr.length; i++) {
-            arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1).toLowerCase();
-        }
-        const str2 = arr.join(" ");
-        return str2
-    }
+    };
 
     useEffect(() => {
-        var svg = select("svg");
+        const svg = select("svg");
+        const g = svg.select("g");
+        const projection = geoMercator().center([82, 16.5]).scale(5000);
+        const geoPathGenerator = geoPath().projection(projection);
 
-        var svgWidth = +svg.attr("viewBox").split(" ")[2],
-        svgHeight = +svg.attr("viewBox").split(" ")[3];
+        const tooltipContainer = tooltipRef.current;
 
+        // Initialize createRoot once
+        if (!rootRef.current) {
+            rootRef.current = createRoot(tooltipContainer);
+        }
 
-        var g = svg.select("g");
-        var g_pc = svg.select(".pc")
+        g.selectAll("path")
+            .data(districts.features)
+            .enter()
+            .append("path")
+            .attr("d", geoPathGenerator)
+            .attr("class", "feature")
+            .attr("fill", getDistrictColor)
+            .on("mousemove", function (event, d) {
+                const tooltipContent = getStateWisePartySeatsHTML2019(d);
 
+                // Reuse the existing root instance
+                rootRef.current.render(tooltipContent);
 
-        var projection = geoMercator().center([82 ,16.5]).scale(5000);
-        var geoPathGenerator = geoPath().projection(projection)
+                select(".tooltip")
+                    .transition()
+                    .duration(200)
+                    .style("opacity", 1)
+                    .style("left", `${event.pageX - 100}px`)
+                    .style("top", `${event.pageY + 24}px`);
+            })
+            .on("mouseout", function () {
+                select(".tooltip")
+                    .transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
 
-        var transitionDuration = 1250,
-        featureStrokeWidth = 0.75,
-        featureStroke = "#fff",
-        featureFill = "#a6bddb",
-        // during transition:
-        //  - swap stroke and fill colors
-        //  - change stroke width
-        broughtUpFeatureStrokeWidth = 3,
-        broughtUpFeatureStroke = "#a6bddb",
-        broughtUpFeatureFill = "#fff";
-      
-        var div = select(".tooltip").style("opacity", 0)
-        g
-        .selectAll("path")
-        .data(states.features)
+        // Add district names
+        g.selectAll("text")
+            .data(districts.features)
+            .enter()
+            .append("text")
+            .attr("x", d => geoPathGenerator.centroid(d)[0])
+            .attr("y", d => geoPathGenerator.centroid(d)[1])
+            .attr("text-anchor", "middle")
+            .attr("font-size", d => {
+                const area = geoPathGenerator.area(d);
+                const fontSizeScale = scaleLinear()
+                    .domain([min(districts.features, d => geoPathGenerator.area(d)), max(districts.features, d => geoPathGenerator.area(d))])
+                    .range([1, 8]);
+                return fontSizeScale(area);
+            })
+            .attr("fill", "black")
+            .text(d => capitalize(d.properties["ac_name"]));
+
+        // Add school icons
+        g.selectAll("image")
+        .data(schoolData)
         .enter()
-        .append("path")
-        .attr("d", geoPathGenerator)
-        .attr("class", "feature")
-        .attr("fill", getDistrictColor)
-        .on("mousemove", function (event, d) {
-            const tooltipContent = getStateWisePartySeatsHTML2019(d);
-        
-            ReactDOM.render(tooltipContent, document.querySelector(".tooltip"));
-        
-            select(".tooltip")
-                .transition()
-                .duration(200)
-                .style("opacity", 1)
-                .style("left", `${event.pageX - 100}px`)
-                .style("top", `${event.pageY + 24}px`);
+        .append("image")
+        .attr("x", d => {
+            const coords = projection([+d.Lognitude, +d.Latitude]);
+            return coords ? coords[0] : null;
         })
-        .on("mouseout", function () {
-            select(".tooltip")
-                .transition()
-                .duration(500)
-                .style("opacity", 0);
-        });
-            
-    },[schoolData])
+        .attr("y", d => {
+            const coords = projection([+d.Lognitude, +d.Latitude]);
+            return coords ? coords[1] : null;
+        })
+        .attr("width", d => {
+            const sizeScale = scaleLinear()
+                .domain([min(schoolData, s => s.Students || 1), max(schoolData, s => s.Students || 100)])
+                .range([4, 8]); // Adjust icon size range
+            return sizeScale(d.Students || 1);
+        })
+        .attr("height", d => {
+            const sizeScale = scaleLinear()
+                .domain([min(schoolData, s => s.Students || 1), max(schoolData, s => s.Students || 100)])
+                .range([4, 8]); // Adjust icon size range
+            return sizeScale(d.Students || 1);
+        })
+        .attr("xlink:href", d => d.Gender === "Boys" ? "/boys.jpg" : "/girls.jpg") // Path to the icon
+        .attr("class", "school-icon");
+
+    }, [schoolData]);
+
     return (
         <>
-            {/* <select onChange={(event) => changeYear(event)}>
-                <option value={2019}>2019</option>
-                <option value={2014}>2014</option>
-            </select> */}
-            <div className='tooltip'></div>
+            <div className="tooltip" ref={tooltipRef}></div>
             <svg viewBox="0 0 840 700">
                 <rect width="100%" height="100%" className="background"></rect>
                 <g></g>
             </svg>
         </>
-        
     );
-}
+};
 
 export default AndhraEducation;
